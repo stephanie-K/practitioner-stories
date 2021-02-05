@@ -2,6 +2,8 @@
 title: Welcome
 ---
 
+![illustration — map of Scotland and in front 5 people with a jigsaw piece](/practitioner-stories/images/practionerstories-square.png)
+
 <blockquote class="alt">
   <p><strong>This website is a work in progress.</strong></p>
 </blockquote>
@@ -12,9 +14,9 @@ title: Welcome
 
 ## Who we are
 We are 3 service designers living and working in Scotland passionate about our practice and with the aim of bringing the service design community together by sharing experiences and learnings and discussing the future.
-- [Angela F. Orviz](https://twitter.com/Artmadillo)
-- [Serena Nüsing](https://www.linkedin.com/in/serena-n%C3%BCsing-543295173/)
-- [Stéphanie Krus](https://twitter.com/StephanieKrus)
+- Angela F. Orviz
+- Serena Nüsing
+- Stéphanie Krus
 
 **Note: we are doing this on our personal time and have no funding.**
 
