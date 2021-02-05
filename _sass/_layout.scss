@@ -222,12 +222,15 @@ header > form {
 	@media (min-width: $mobile-break) {
 		display: block;
 	}
+
 }
-h2 {
+nav h2 {
 	color: #fff;
 	background-color: $brand-colour;
 	font-size: 2rem;
+	padding-left: 20px;
 }
+
 nav > ul {
 	padding: $space / 2 0;
 
