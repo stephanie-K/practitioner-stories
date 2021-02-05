@@ -1,6 +1,6 @@
 ---
 title: Introduction
-category:Community
+category: Community
 order: 1
 ---
 
