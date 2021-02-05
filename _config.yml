@@ -2,13 +2,13 @@
 # Site
 
 title: Practitioner Stories
-url: "https://stephanie-K.github.io/practitioner-stories/"
+url: "https://stephanie-k.github.io/practitioner-stories/"
 baseurl:
 google_analytics_key:
 show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-description: Collect stories of Service Design in the public and third sectors in Scotland. Find out how we can better support, grow and build up the service design community in Scotland.
+description: Collect stories of Service Design in the public and third sectors in Scotland
 author:
   name: 
   email:
@@ -16,7 +16,7 @@ author:
 social:
   name: Collect stories of Service Design in the public and third sectors in Scotland.
   links:
-    - https://stephanie-K.github.io/practitioner-stories/
+    - https://stephanie-k.github.io/practitioner-stories/
 
 # -----
 # Build
