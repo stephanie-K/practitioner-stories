@@ -7,10 +7,6 @@ order: 1
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SAtSD/SAtSD.png)
 [Access the part of the Miro Board represented in the image](https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333741367&cot=14)
 
-<blockquote class="alt">
-  <p><strong>This website is a work in progress.</strong></p>
-</blockquote>
-
 
 ## Some information about the Scottish Approach to Service Design (SAtSD)
 - [Step by step presentation on gov.scot](https://www.gov.scot/publications/the-scottish-approach-to-service-design/pages/about-this-resource/)
@@ -21,7 +17,9 @@ order: 1
 > We called it the SAtSD because civil servants in Scottish Government had a philosophy called the Scottish Approach to Government', and I was trying to explain to them why design connected to how they thought. - Cat Macaulay
 
 ## Question which generated the data
-**Have you heard of the Scottish Approach to Service Design? And if so, what does it mean to you?**
+<blockquote class="alt">
+<p>Have you heard of the Scottish Approach to Service Design? And if so, what does it mean to you?</p>
+</blockquote>
 
 Participants might have also mentioned it while answering other questions.
 

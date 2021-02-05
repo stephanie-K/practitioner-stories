@@ -33,7 +33,7 @@ We are 3 service designers living and working in Scotland passionate about our p
 - Are there any gaps in the SD approach?
 - Have you identified any gaps in the skills of designers or the people they work with?
 ### Building skills and collaborations
-What network do you use to keep in touch with other SD? / How do you connect and keep in touch, build collaborations with other people practicing in the area?
+- What network do you use to keep in touch with other SD? / How do you connect and keep in touch, build collaborations with other people practicing in the area?
 - Are there any skills or knowledge that you would like to develop further? And if so, what do you read, and where do you go to learn more or train?
 - Do you share your work or learning with other practitioners? If so, where and how do you do so?
 ### The future
@@ -51,7 +51,7 @@ What network do you use to keep in touch with other SD? / How do you connect and
 
 ## Sharing our research
 
-This website is a new way to share the research we did as an alternative to the [big Miro board we have](https://miro.com/app/board/o9J_ldOzA14=/). This is very much a work in progress (Started on the 05/02/21)
+This website (started on the 05/02/21) is a new way to share the research we did as an alternative to the [big Miro board we have](https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352792688587&cot=14). This is very much a work in progress.
 
 
 ## Learn more about the project
