@@ -2,12 +2,11 @@
 title: Welcome
 ---
 
-![illustration — map of Scotland and in front 5 people with a jigsaw piece](/practitioner-stories/images/practionerstories-square.png)
-
 <blockquote class="alt">
   <p><strong>This website is a work in progress.</strong></p>
 </blockquote>
 
+![illustration — map of Scotland and in front 5 people with a jigsaw piece](/practitioner-stories/images/practionerstories-square-small.png)
 
 ## What the project is about
 [This project started with a tweet in June 2019](https://medium.com/@angelaforviz/remember-that-tweet-8b36dbae82bc). We teamed up to collect stories of Service Design in the public and third sectors in Scotland. We started an interview study and discussed with 15 practitioners in Scotland **how we can better support, grow and build up the service design community in Scotland**.
