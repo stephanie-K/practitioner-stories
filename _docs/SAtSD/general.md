@@ -43,6 +43,12 @@ Selecting one of the insights' link below will take you to the quotes supporting
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SAtSD/satsd-gen2.png)
 [Access the part of the Miro Board represented in the image](https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333740932&cot=14)
 
+### List of insights
+
+Selecting one of the insights' link below will take you to the quotes supporting it.
+
+
+
 
 <hr class="big">
 
@@ -150,6 +156,14 @@ Selecting one of the insights' link below will take you to the quotes supporting
 ### Made for Public Sector organistions not for designers
 
 ### It's organisational focus has avantages and disadvantages
+
+<hr class="big">
+
+## In details: Benefits of the SAtSD
+
+
+[Go back to the list of insights](#list-of-insights)
+
 
 <div>Last updated: {{site.time | date_to_string}}</div>
 
