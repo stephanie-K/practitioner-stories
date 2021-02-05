@@ -1,7 +1,7 @@
 # Practitioner Stories
 
 ## What the project is about
-[This project started with a tweet in June 2019](https://medium.com/@angelaforviz/remember-that-tweet-8b36dbae82bc). We teamed up to collect stories of Service Design in the public and third sectors in Scotland. We started an interview study and discussed with 15 practitioners in Scotland **how we can better support, grow and build up the service design community in Scotland**.
+[This project started with a tweet in June 2020](https://medium.com/@angelaforviz/remember-that-tweet-8b36dbae82bc). We teamed up to collect stories of Service Design in the public and third sectors in Scotland. We started an interview study and discussed with 15 practitioners in Scotland **how we can better support, grow and build up the service design community in Scotland**.
 
 ## Who we are
 We are 3 service designers living and working in Scotland passionate about our practice and with the aim of bringing the service design community together by sharing experiences and learnings and discussing the future.
