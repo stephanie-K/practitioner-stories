@@ -99,9 +99,9 @@ header {
 		height: $nav-header-height;
 		box-sizing: border-box;
 		background-color: $brand-colour;
-		color: #000; // was #fff;
+		color: #fff;
 		margin: 0;
-		font-size: 1.7rem;
+		font-size: 2rem;
 		line-height: 1.2 ; // was 0.8;
 		letter-spacing: 0;
 		font-weight: 600;
@@ -172,10 +172,11 @@ $nav-image: $baseurl + "/images/menu.svg";
 		@extend hr;
 		margin: 1rem 0;
 	}
-	h2.simple::before hr {
+	hr, h2.simple::before {
 		display: none;
 	}
 }
+
 
 .content,
 .page-header {
