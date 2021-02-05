@@ -223,7 +223,11 @@ header > form {
 		display: block;
 	}
 }
-
+h2 {
+	color: #fff;
+	background-color: $brand-colour;
+	font-size: 2rem;
+}
 nav > ul {
 	padding: $space / 2 0;
 

@@ -1,7 +1,5 @@
 ---
-title: Introduction
-category: Communication
-order: 1
+title: Communications
 ---
 
 This is where the comms will be.
