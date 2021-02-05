@@ -29,7 +29,7 @@
 		<header>
 			<h1>
 				<a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/favicon.png" width="60" height="60" alt="homepage"></a>
-				Inclusion and Diversity Resources
+				Practitioner Stories
 				<button type="button" class="open-nav" id="open-nav"></button>
 			</h1>
 
@@ -72,8 +72,9 @@
 
 		<section class="main">
 			<div class="page-header">
-				<h2>{% if page.category %}{{ page.category }}{% else %}{{ site.title }}{% endif %}</h2>
-				<h3>{{ page.title }}</h3>
+				<h1><span class="title">{% if page.category %}{{ page.category }}{% else %}{{ site.title }}{% endif %}</span><br>
+					<span class="subtitle">{{ page.title }}</span>
+				</h1>
 			</div>
 			<article class="content">
 				{{ content }}
