@@ -44,7 +44,7 @@ Selecting one of the insights' link below will take you to the quotes supporting
 [Access the part of the Miro Board represented in the image](https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333740932&cot=14)
 
 
-<hr>
+<hr class="big">
 
 ## In details: What the SAtSD means to practitioners
 
