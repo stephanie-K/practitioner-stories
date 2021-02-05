@@ -1,10 +1,10 @@
 ---
 title: Comms
-category: comms
+category: Comms
 order: 1
 ---
 
-This is where the commes will be
+This is where the comme will be
 
 
 {% include feedback.html %}

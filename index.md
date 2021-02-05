@@ -2,7 +2,7 @@
 title: Welcome
 ---
 
-<blockquote class="red">
+<blockquote class="alt">
   <p><strong>This website is a work in progress.</strong></p>
 </blockquote>
 

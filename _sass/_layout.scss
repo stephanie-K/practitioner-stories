@@ -172,9 +172,8 @@ $nav-image: $baseurl + "/images/menu.svg";
 		@extend hr;
 		margin: 1rem 0;
 	}
-	h2.simple::before {
-		content: "";
-		margin: 1rem 0;
+	h2.simple::before hr {
+		display: none;
 	}
 }
 
@@ -193,20 +192,20 @@ $nav-image: $baseurl + "/images/menu.svg";
 	}
 
 	h1 span.title {
-		font-size: 3.5rem;
+		font-size: 1.5rem;
 		margin-left: -1px;
-		color: #345F67;
+		color: #73aeb8;
 		letter-spacing: 0;
 		@media (min-width: $mobile-break) {
-			font-size: 4rem;
+			font-size: 3rem;
 		}
 	}
 
 	h1 span.subtitle {
-		font-size: 2.5rem;
+		font-size: 3rem;
 		margin-left: -4px;
 		@media (min-width: $mobile-break) {
-			font-size: 4rem;
+			font-size: 5rem;
 		}
 	}
 
