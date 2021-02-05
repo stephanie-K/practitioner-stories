@@ -25,6 +25,7 @@ We are 3 service designers living and working in Scotland passionate about our p
 - Professional background and your involvement working with SD
 - In the time you have worked in this space, how has it evolved?
 - Have you heard of the Scottish Approach to Service Design? And if so, what does it mean to you?
+
 ### Current practice and lessons learnt
 - What can you tell us about the contributions that SD brings to your area of work? Do you manage to design WITH people?
   - If yes: tell us about it, any new things you have learnt from doing so.
@@ -32,10 +33,12 @@ We are 3 service designers living and working in Scotland passionate about our p
 - Do you have any other thoughts on the barriers to the incorporation of SD in your area?
 - Are there any gaps in the SD approach?
 - Have you identified any gaps in the skills of designers or the people they work with?
+
 ### Building skills and collaborations
 - What network do you use to keep in touch with other SD? / How do you connect and keep in touch, build collaborations with other people practicing in the area?
 - Are there any skills or knowledge that you would like to develop further? And if so, what do you read, and where do you go to learn more or train?
 - Do you share your work or learning with other practitioners? If so, where and how do you do so?
+
 ### The future
 - Where would you like to see the relationship between the public/third sector and SD in the future?
 - Where should the community concentrate its efforts?
