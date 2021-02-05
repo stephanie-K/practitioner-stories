@@ -49,7 +49,7 @@
 					</li>
 				</ul>
 				<h2>5 themes</h2>
-				<ul style="background-color: #f1f7f8;">
+				<ul style="background-color: #f1f7f8; border-bottom: solid 2px#73aeb8;">
 					{% assign grouped = site.docs | group_by: 'category' %}
 					{% for group in grouped %}
 						<li class="nav-item top-level {% if group.name == page.category %}current{% endif %}">
