@@ -172,7 +172,7 @@ $nav-image: $baseurl + "/images/menu.svg";
 		@extend hr;
 		margin: 1rem 0;
 	}
-	hr, h2.simple::before {
+	h2.simple::before hr {
 		display: none;
 	}
 }
