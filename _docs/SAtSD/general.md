@@ -221,7 +221,8 @@ SAtSD's Scottish identity is interpreted in a variety of ways, with both positiv
 <summary>Common language</summary>
 <ul>
 <li>The ability to put it out in plain English the benefit of it and how a council can use it. It is really helpful</li>
-<li>People are developing the language to be talking about it within a service design context; which I think is really </li>helpful because it allows us to be able to articulate what we do a bit better,  and gives people a frame of reference. [...] Before I came on board, the partnership had time to be introduced to this tool and they are using a lot of the language involved in the tool</li>
+<li>People are developing the language to be talking about it within a service design context; which I think is really helpful because it allows us to be able to articulate what we do a bit better,  and gives people a frame of reference. [...]</li>
+<li>Before I came on board, the partnership had time to be introduced to this tool and they are using a lot of the language involved in the tool</li>
 <li>There is a commonality of language and understanding of the principles, and the why and the need,</li>
 </ul>
 </details>
