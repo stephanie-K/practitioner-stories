@@ -519,3 +519,17 @@ hr.big {
 hr.very-big {
 	border-top: $brand-colour 15px solid;
 }
+
+footer {
+	background-color: #345f67;
+    color: #fff;
+    font-weight: 600;
+	padding: 1rem;
+	
+	p {
+		text-align: center;
+	}
+	a:link, a:visited, a:hover{
+		color: #fff;
+	}
+}
