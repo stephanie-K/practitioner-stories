@@ -28,7 +28,9 @@ We kept this same structure on the website so for each theme, there is an **Intr
 
 ## Different level of detail
 
-Within each theme, there are sub-themes and for each of them, you will find a list of insights. If you want to learn more about a specific one then select the insight's link which will take you further down the page where you can read all the quotes from participants which support this insight.
+Within each theme, there are sub-themes and for each of them, you will find a list of insights. If you want to learn more about a specific one then select it if it has a triangle next to it: 
+-  all the quotes from participants which support this insight will appear under it
+- select again to close it
 
 > We do realise it's still very complex, but this is a first step to make all our data more accessible.
 >
