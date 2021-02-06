@@ -19,18 +19,20 @@ After the first phase of analysis, 5 themes emerged:
 
 For each theme, there are general findings and we have grouped the challenges seperately on Miro as well as the aspirations for the future.
 
-![diagram illustrating how our data is structured on Miro](/practitioner-stories/images/categories.png))
+![diagram illustrating how our data is structured on Miro](/practitioner-stories/images/categories.png)
 
-We kept this same structure on the website so for each theme, there is an Introduction page, a General findings one, and one for Challenges and for the Future.
+We kept this same structure on the website so for each theme, there is an **Introduction** page, a **General** findings one, and one for **Challenges** and for the **Future**.
+
+![screenshot of the left navigation menu with the list of pages under one theme](/practitioner-stories/images/theme-sctructure.png)
 
 
 ## Different level of details
 
 Within each theme, there are sub-themes and for each of them, you will find a list of insights. If you want to learn more about a specific one then select the insight's link which will take you further down the page where you can read all the quotes from participants which support this insight.
 
-> We do realise it's still very complex, but this is a first steps to make all our data more accessible.
+> We do realise it's still very complex, but this is a first step to make all our data more accessible.
 >
-> We are open to suggestions and welcome feedback. Tell us what you want to see here and in what format.
+> We are open to suggestions and welcome feedback. **Tell us what you want to see here and in what format**.
 
 
 {% include feedback.html %}
