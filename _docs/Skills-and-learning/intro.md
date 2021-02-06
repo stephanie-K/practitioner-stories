@@ -14,4 +14,4 @@ order: 1
 This is where we will put the findings around the skills and learning.
 
 {% include feedback.html %}
-<div>Last updated: {{site.time | date_to_string}}</div>
+<div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>
