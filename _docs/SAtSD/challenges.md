@@ -14,7 +14,7 @@ order: 3
 > Select one of the insights to see the quotes supporting it. Select it again to hide the quotes.
 
 <details>
-<summary>It feels both vague and formulaic because it doesn't conisder context</summary>
+<summary>It feels both vague and formulaic because it doesn't consider context</summary>
     <ul>
     <li>It's shared with us as this all-encompassing tool and, after reading it, it is not an all-encompassing tool to me. It’s a tool for conversation-starting.  [...] [public and third sector stakeholders] think that it is a tool for change. But in reality, it is a methodology and the set of principles  that you bring to the table to assess whether or not you are doing it in  this way</li>
     <li>It doesn't give you the tools to ask if service design is appropriate In that setting</li>
@@ -142,6 +142,8 @@ order: 3
     </ul>
 </details>
 
+<hr class="big">
+
 ### List of insights : Current ways of working is blocking service design
 
 #### Decisions and hierachies
@@ -206,6 +208,7 @@ order: 3
     </ul>
 </details>
 
+<br><br>
 <div>Last updated: {{site.time | date_to_string}}</div>
 
 <!--
