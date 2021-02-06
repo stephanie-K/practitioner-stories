@@ -17,7 +17,7 @@ This is a website is being built to share the research we did. **Under contructi
 
 This is using Github pages, Jekyll and CloudCannon. By using some markdown language, you can create content which is deployed in the next 2 to 5 min to a website. No hosting needed and it's free.
 
-[See the prototype here](https://stephanie-K.github.io/practitioner-stories/)
+[See the website here](https://stephanie-K.github.io/practitioner-stories/)
 
 
 ## Learn more about the project
