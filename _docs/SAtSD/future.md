@@ -8,7 +8,7 @@ order: 4
 
 ### List of insights
 
-Select one of the insights to see the quotes supporting it. Select it again to hide the quotes.
+> Select one of the insights to see the quotes supporting it. Select it again to hide the quotes.
 
 **A community of practice that goes beyond Service Design**
 <details>
@@ -47,7 +47,7 @@ Select one of the insights to see the quotes supporting it. Select it again to h
 <li>Different policies active in Scotland just now or the government hopes and dreams for Scotland, it's very much about community empowerment, it's very much about ceding power to communities, there is a lot activities coming down from policy initiatives that are really wide open for the SAtSD to be built in, because they are totally changing the relationships between government and citizens, and sort of trying to reverse that power dynamic. So I think something like SAtSD would be really well placed to get a lot closer to the wider activity that's coming down from the Scottish Government</li>
 </ul>
 </details>
-
+<br>
 **Iterated with the community**
 <details>
 <summary>Iterated and improved</summary>
@@ -69,7 +69,7 @@ Select one of the insights to see the quotes supporting it. Select it again to h
 <li>The whole nature of how SD is, it's all in that. It is community engagement plus for more purpose, for more action, and a better fit, it's a long road</li>
 </ul>
 </details>
-
+<br>
 **Including guidance for design practioners**
 
 

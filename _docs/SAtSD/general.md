@@ -56,9 +56,8 @@ SAtSD's Scottish identity is interpreted in a variety of ways, with both positiv
  <ul>
  <li>I have talked to [people] in Wales who are doing a bit of this work.
 <li>I think it's landed well and when I speak to colleagues in London, and Manchester and different places they will talk about the approach of Scottish Design [...] They've heard about it potentially at conferences like SDinGov, some other work like Snook and some big authorities, [...] but also through the Scottish Government's own website and I know it's easy to access</li>
-
- </ul>
- </details>
+</ul>
+</details>
  <details>
  <summary>Setting expectations</summary>
  <ul>
