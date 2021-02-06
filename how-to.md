@@ -26,7 +26,7 @@ We kept this same structure on the website so for each theme, there is an **Intr
 ![screenshot of the left navigation menu with the list of pages under one theme](/practitioner-stories/images/theme-sctructure.png)
 
 
-## Different level of details
+## Different level of detail
 
 Within each theme, there are sub-themes and for each of them, you will find a list of insights. If you want to learn more about a specific one then select the insight's link which will take you further down the page where you can read all the quotes from participants which support this insight.
 

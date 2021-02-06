@@ -11,22 +11,22 @@ order: 4
 Selecting one of the insights' link below will take you to the quotes supporting it.
 
 > **A community of practice that goes beyond Service Design**
-> - [Better at connecting existing things](#)
-> - [Inclusive, cross disciplininary, community of practice](#)
-> - [Expand to cover other aspects]
-> - [Bias inequity & social justice](#)
-> - [Well placed to get closer to policy](#)
+> - [Better at connecting existing things](#better-at-connecting-existing-things)
+> - [Inclusive, cross disciplininary, community of practice](#inclusive-cross-disciplininary-community-of-practice)
+> - [Expand to cover other aspects](#expand-to-cover-other-aspects)
+> - [Bias inequity & social justice](#bias-inequity--social-justice)
+> - [Well placed to get closer to policy](#well-placed-to-get-closer-to-policy)
 >
 > **Iterated with the community**
-> - [Iterated and improved](#)
-> - [Are practitioners being asked to contribute to its improvement?](#)
-> - [It will never be finished](#)
+> - [Iterated and improved](#iterated-and-improved)
+> - [Are practitioners being asked to contribute to its improvement?](#are-practitioners-being-asked-to-contribute-to-its-improvement)
+> - [It will never be finished](#it-will-never-be-finished)
 >
 > **Including guidance for design practioners**
 
 <hr class="big">
 
-## In more details
+## In more detail
 
 
 ### Better at connecting existing things

@@ -34,7 +34,7 @@ Selecting one of the insights' link below will take you to the quotes supporting
 > - [Cultural change](#cultural-change)
 > - [Nothing new for practitioners](#nothing-new-for-practitioners)
 > 
-> Others:
+> Other:
 > - Made for Public Sector organistions not for designers
 > - Its organisational focus has avantages and disadvantages
 
@@ -49,17 +49,17 @@ Selecting one of the insights' link below will take you to the quotes supporting
 
 Selecting one of the insights'link below will take you to the quotes supporting it.
 
-> - [Advocating & evidencing the value of Service Design & user/citizen involvment](#)
-> - [Door opener - conversation starter - Getting Designers through the door](#)
-> - [Winning hearts and minds](#)
-> - [Scottish Government endorsement](#)
-> - [Endorsement Status & buy-in](#)
-> - [Compliance](#)
-> - [Focus on process rather than outcomes](#)
-> - [Assessment Guidelines](#)
-> - [Setting out principles & terminology](#)
-> - [Common language](#)
-> - [Standards](#)
+> - [Advocating & evidencing the value of Service Design & user/citizen involvment](#advocating--evidencing-the-value-of-service-design--usercitizen-involvment)
+> - [Door opener - conversation starter - Getting Designers through the door](#door-opener---conversation-starter---getting-designer-through-the-door)
+> - [Winning hearts and minds](#winning-hearts-and-minds)
+> - [Scottish Government endorsement](#scottish-government-endorsement)
+> - [Endorsement Status & buy-in](#endorsement-status--buy-in)
+> - [Compliance](#compliance)
+> - [Focus on process rather than outcomes](#focus-on-process-rather-than-outcomes)
+> - [Assessment Guidelines](#assessment-guidelines)
+> - [Setting out principles & terminology](#setting-out-principles--terminology)
+> - [Common language](#common-language)
+> - [Standards](#standards)
 >
 > Other:
 > - Gap around non-digital services?
@@ -68,7 +68,7 @@ Selecting one of the insights'link below will take you to the quotes supporting 
 
 <hr class="very-big">
 
-## In details: What the SAtSD means to practitioners
+## In detail: What the SAtSD means to practitioners
 
 
 ### Why specifically Scottish?
@@ -175,7 +175,7 @@ Selecting one of the insights'link below will take you to the quotes supporting 
 
 <hr class="big">
 
-## In details: Benefits of the SAtSD
+## In detail: Benefits of the SAtSD
 
 ### Advocating & evidencing the value of Service Design & user/citizen involvment
 - It does great work in terms of advocating for involving users within design work. [...] It does great things in terms of informing people getting involved in design work or procuring design work. Why it is important to involve citizens within the services that you are creating. It‘s good for justifying why that‘s important [...] I love that it says, "if you don’t understand the needs of your citizens and you don’t understand how to co-design in a way that is fitting and appropriate for that person, involve that person in the planning. So that they can help you plan it."
@@ -246,8 +246,13 @@ Selecting one of the insights'link below will take you to the quotes supporting 
 [Go back to the list of insights](#list-of-insights)
 
 ### Gap around non-digital services?
+
 ### Assessment guidelines serve as endorsement and help with compliance but fail to assess project outputs
 
+<details>
+<summary>Visible Summary of Details</summary>
+This part won't be visible until the user chooses to see it.
+</details>
 
 <div>Last updated: {{site.time | date_to_string}}</div>
 
