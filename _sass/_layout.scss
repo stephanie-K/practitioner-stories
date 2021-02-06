@@ -169,11 +169,7 @@ $nav-image: $baseurl + "/images/menu.svg";
 	} 
 	h2::before {
 		content: "";
-		@extend hr;
-		margin: 1rem 0;
-	}
-	h2.simple::before hr {
-		display: none;
+		margin: 2rem 0 1rem 0;
 	}
 }
 
