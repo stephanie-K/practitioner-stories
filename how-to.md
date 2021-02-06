@@ -34,6 +34,8 @@ If you want to learn more about a specific one then select it if it has a triang
 -  all the quotes from participants which support this insight will appear under it
 - select again to close it
 
+![little video showing what happen when you select the triangle to see the quotes then select again to hide them](/practitioner-stories/images/how-to-see-quotes.gif)
+
 > We do realise it's still very complex, but this is a first step to make all our data more accessible.
 >
 > We are open to suggestions and welcome feedback. **Tell us what you want to see here and in what format**.

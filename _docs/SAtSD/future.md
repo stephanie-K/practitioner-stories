@@ -74,7 +74,7 @@ order: 4
 
 #### Including guidance for design practioners
 
-
+<br><br>
 <div>Last updated: {{site.time | date_to_string}}</div>
 
 <!--
