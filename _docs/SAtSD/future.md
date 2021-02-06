@@ -10,7 +10,7 @@ order: 4
 
 > Select one of the insights to see the quotes supporting it. Select it again to hide the quotes.
 
-**A community of practice that goes beyond Service Design**
+#### A community of practice that goes beyond Service Design
 <details>
 <summary>Better at connecting existing things</summary>
 <ul>
@@ -48,7 +48,8 @@ order: 4
 </ul>
 </details>
 <br>
-**Iterated with the community**
+
+#### Iterated with the community
 <details>
 <summary>Iterated and improved</summary>
 <ul>
@@ -70,7 +71,8 @@ order: 4
 </ul>
 </details>
 <br>
-**Including guidance for design practioners**
+
+#### Including guidance for design practioners
 
 
 <div>Last updated: {{site.time | date_to_string}}</div>
