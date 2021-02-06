@@ -19,6 +19,8 @@ title: Welcome
   <p>Only 8 of our participants have 'service designer' as their job title.</p>
 </blockquote>
 
+<hr class="big">
+
 ## Who we are
 We are 3 service designers living and working in Scotland passionate about our practice and with the aim of bringing the service design community together by sharing experiences and learnings and discussing the future.
 - Angela F. Orviz
@@ -26,6 +28,8 @@ We are 3 service designers living and working in Scotland passionate about our p
 - Stéphanie Krus
 
 > Note: we are doing this on our personal time and have no funding.
+
+<hr class="big">
 
 ## The interview guide used to gather the data
 
@@ -51,6 +55,8 @@ We are 3 service designers living and working in Scotland passionate about our p
 - Where would you like to see the relationship between the public/third sector and SD in the future?
 - Where should the community concentrate its efforts?
 
+<hr class="big">
+
 ## The process we followed
 - We transcribed interviews to keep the original wording and avoid early interpretations
 - We coded interviews by labelling each quote with a meaningful phrase and grouping them into 11 high level themes, each one becoming a tab in a Google spreadsheet
@@ -60,12 +66,15 @@ We are 3 service designers living and working in Scotland passionate about our p
 
 [More about the process in this Medium post](https://stphaniekrus.medium.com/practitioner-stories-ffa3120ffd7f)
 
+<hr class="big">
+
 ## Sharing our research
 
 This website (started on the 05/02/21) is a new way to share the research we did as an alternative to the [big Miro board we have](https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352792688587&cot=14). This is very much a work in progress.
 
 [Learn how to use this website](/practitioner-stories/how-to)
 
+<hr class="big">
 
 ## Learn more about the project
 

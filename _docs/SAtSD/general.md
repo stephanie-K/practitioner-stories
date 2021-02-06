@@ -36,7 +36,7 @@ Selecting one of the insights' link below will take you to the quotes supporting
 > - Made for Public Sector organistions not for designers
 > - Its organisational focus has avantages and disadvantages
 
-
+<hr class="big">
 
 ## Benefits of the SAtSD
 
