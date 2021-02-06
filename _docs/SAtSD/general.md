@@ -237,6 +237,6 @@ SAtSD's Scottish identity is interpreted in a variety of ways, with both positiv
 #### Gap around non-digital services?
 #### Assessment guidelines serve as endorsement and help with compliance but fail to assess project outputs
 
-
+<br><br>
 <div>Last updated: {{site.time | date_to_string}}</div>
 
