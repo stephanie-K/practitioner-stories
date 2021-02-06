@@ -132,10 +132,13 @@ SAtSD's Scottish identity is interpreted in a variety of ways, with both positiv
 <li>Beyond using it for sending it to executives and as a resource, I‘m a bit confused to how else to use it and maybe that‘s the point of it. Maybe that‘s fine</li>
  </ul>
  </details>
- 
-Other:
- - Made for Public Sector organistions not for designers
- - Its organisational focus has avantages and disadvantages
+
+<br>
+
+**Other:**
+
+ #### Made for Public Sector organistions not for designers
+ #### Its organisational focus has avantages and disadvantages
 
 <hr class="big">
 
@@ -228,10 +231,11 @@ Other:
 <li>And then the standards I guess, they are more for digital services</li>
 </ul>
 </details>
+<br>
 
-Other:
-- Gap around non-digital services?
-- Assessment guidelines serve as endorsement and help with compliance but fail to assess project outputs
+**Other:**
+#### Gap around non-digital services?
+#### Assessment guidelines serve as endorsement and help with compliance but fail to assess project outputs
 
 
 <div>Last updated: {{site.time | date_to_string}}</div>

@@ -47,7 +47,7 @@ order: 4
 <li>Different policies active in Scotland just now or the government hopes and dreams for Scotland, it's very much about community empowerment, it's very much about ceding power to communities, there is a lot activities coming down from policy initiatives that are really wide open for the SAtSD to be built in, because they are totally changing the relationships between government and citizens, and sort of trying to reverse that power dynamic. So I think something like SAtSD would be really well placed to get a lot closer to the wider activity that's coming down from the Scottish Government</li>
 </ul>
 </details>
-<br>
+
 
 #### Iterated with the community
 <details>
@@ -70,7 +70,7 @@ order: 4
 <li>The whole nature of how SD is, it's all in that. It is community engagement plus for more purpose, for more action, and a better fit, it's a long road</li>
 </ul>
 </details>
-<br>
+
 
 #### Including guidance for design practioners
 
