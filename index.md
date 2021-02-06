@@ -11,6 +11,14 @@ title: Welcome
 ## What the project is about
 [This project started with a tweet in June 2020](https://medium.com/@angelaforviz/remember-that-tweet-8b36dbae82bc). We teamed up to collect stories of Service Design in the public and third sectors in Scotland. We started an interview study and discussed with 15 practitioners in Scotland **how we can better support, grow and build up the service design community in Scotland**.
 
+> We focus on the Public and Third Sectors in Scotland initially this can be opened wider
+
+
+<blockquote class="alt">
+  <p><strong>This is about Service Design, which is wider than just service designers.</strong></p>
+  <p>Only 8 of our participants have 'service designer' as their job title.</p>
+</blockquote>
+
 ## Who we are
 We are 3 service designers living and working in Scotland passionate about our practice and with the aim of bringing the service design community together by sharing experiences and learnings and discussing the future.
 - Angela F. Orviz
@@ -55,6 +63,8 @@ We are 3 service designers living and working in Scotland passionate about our p
 ## Sharing our research
 
 This website (started on the 05/02/21) is a new way to share the research we did as an alternative to the [big Miro board we have](https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352792688587&cot=14). This is very much a work in progress.
+
+[Learn how to use this website](/practitioner-stories/how-to)
 
 
 ## Learn more about the project

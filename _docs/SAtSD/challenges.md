@@ -1,5 +1,5 @@
 ---
-title: challenges
+title: Challenges
 category: SAtSD
 order: 3
 ---
