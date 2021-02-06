@@ -526,7 +526,7 @@ hr.very-big {
 }
 
 footer {
-	background-color: #345f67;
+	background-color: #666;
     color: #fff;
     font-weight: 600;
 	padding: 2rem 1rem 1rem 1rem;
@@ -540,6 +540,10 @@ footer {
 }
 
 summary {
-	color:  #345f67;
+	background-color:  #345f67;
+	color: #fff;
 	font-weight: 600;
+	font-size: 2rem;
+	padding: 0.5rem 2rem;
+	margin: 1rem 0;
 }
