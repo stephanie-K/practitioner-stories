@@ -13,7 +13,8 @@ order: 3
 **Many participants expressed something around feeling rejected, having to chose a group, feeling that you need to put yourself out there in a goodlight, not feeling included or worthy. Can't be honest.**
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/Community/community-challenge.png)
-[Access the part of the Miro Board represented in the image](https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457354184080422&cot=10)
+
+[Access the part of the Miro Board represented in the image](https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457354189731611&cot=10)
 
 ### List of insights
 
@@ -113,6 +114,7 @@ order: 3
 ## Lack of space for honesty
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/Community/community-space.png)
+
 [Access the part of the Miro Board represented in the image](https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333736504&cot=14)
 
 ### List of insights
@@ -172,6 +174,7 @@ order: 3
 ## People are not sharing
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/Community/community-not-sharing.png)
+
 [Access the part of the Miro Board represented in the image](https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333740691&cot=14)
 
 
