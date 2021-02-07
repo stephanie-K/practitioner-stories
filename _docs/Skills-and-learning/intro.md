@@ -27,9 +27,9 @@ Participants might have also mentioned it while answering other questions.
 <hr class="big">
 
 ## How the data is grouped
-- [general findings](/practitioner-stories/Skills-and-learning/general) (**Not ready yet**)
-- [challenges](/practitioner-stories/Skills-and-learning/challenges) (**Not ready yet**)
-- [future and aspirations](/practitioner-stories/Skills-and-learning/future) (**Not ready yet**)
+- [General findings](/practitioner-stories/Skills-and-learning/general) (**Not ready yet**)
+- [Challenges](/practitioner-stories/Skills-and-learning/challenges) (**Not ready yet**)
+- [Future and aspirations](/practitioner-stories/Skills-and-learning/future) (**Not ready yet**)
 
 <p><span class="tag-alt">Coming soon</span></p>
 

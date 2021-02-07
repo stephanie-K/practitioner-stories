@@ -36,7 +36,6 @@ order:
 ### List of insights
 
 > Select one of the insights to see the quotes supporting it. Select it again to hide the quotes.
-
  <details>
  <summary></summary>
  <ul>

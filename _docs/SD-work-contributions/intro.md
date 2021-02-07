@@ -24,9 +24,9 @@ Participants might have also mentioned it while answering other questions.
 <hr class="big">
 
 ## How the data is grouped
-- [general findings](/practitioner-stories/SD-work-contributions/general) (**Not ready yet**)
-- [challenges](/practitioner-stories/SD-work-contributions/challenges)  (**Not ready yet**)
-- [future and aspirations](/practitioner-stories/SD-work-contributions/future) (**Not ready yet**)
+- [General findings](/practitioner-stories/SD-work-contributions/general) (**Not ready yet**)
+- [Challenges](/practitioner-stories/SD-work-contributions/challenges)  (**Not ready yet**)
+- [Future and aspirations](/practitioner-stories/SD-work-contributions/future) (**Not ready yet**)
 
 <p><span class="tag-alt">Coming soon</span></p>
 

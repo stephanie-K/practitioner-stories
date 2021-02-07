@@ -29,9 +29,9 @@ Participants might have also mentioned it while answering other questions.
 <hr class="big">
 
 ## How the data is grouped
-- [general findings](/practitioner-stories/SAtSD/general)
-- [challenges](/practitioner-stories/SAtSD/challenges)
-- [future and aspirations](/practitioner-stories/SAtSD/future)
+- [General findings](/practitioner-stories/SAtSD/general)
+- [Challenges](/practitioner-stories/SAtSD/challenges)
+- [Future and aspirations](/practitioner-stories/SAtSD/future)
 
 Note that a lot of findings are related to another theme "[Working with people](/practitioner-stories/Working-with-people/intro)". It's not surprising, this is the aim of the approach.
 

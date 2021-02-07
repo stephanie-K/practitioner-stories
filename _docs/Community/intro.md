@@ -24,10 +24,10 @@ Participants might have also mentioned it while answering other questions.
 <hr class="big">
 
 ## How the data is grouped
-- [general findings](/practitioner-stories/Community/general)
-- [challenges](/practitioner-stories/Community/challenges)  
-- [future and aspirations](/practitioner-stories/Community/future) (**Not ready yet**)
+- [General findings](/practitioner-stories/Community/general)
+- [Challenges](/practitioner-stories/Community/challenges)  
+- [Future and aspirations](/practitioner-stories/Community/future)
 
-<p><span class="tag-alt">Coming soon</span></p>
+
 <br><br>
 <div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>

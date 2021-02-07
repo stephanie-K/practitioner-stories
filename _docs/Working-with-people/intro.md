@@ -25,9 +25,9 @@ Participants might have also mentioned it while answering other questions.
 <hr class="big">
 
 ## How the data is grouped
-- [general findings](/practitioner-stories/Working-with-people/general) (**Not ready yet**)
-- [challenges](/practitioner-stories/Working-with-people/challenges) (**Not ready yet**)
-- [future and aspirations](/practitioner-stories/Working-with-people/future) (**Not ready yet**)
+- [General findings](/practitioner-stories/Working-with-people/general) (**Not ready yet**)
+- [Challenges](/practitioner-stories/Working-with-people/challenges) (**Not ready yet**)
+- [Future and aspirations](/practitioner-stories/Working-with-people/future) (**Not ready yet**)
 
 Note that a lot of findings are related to another theme "[SAtSD](/practitioner-stories/SAtSD/intro)". It's not surprising, this is the aim of the approach. There is also some overlap with "[SD work and contribution](/practitioner-stories/SD-work-contributions/intro)".
 
