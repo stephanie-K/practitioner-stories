@@ -7,12 +7,27 @@ order: 1
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SD-community.png)
 [Access the part of the Miro Board represented in the image](https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333741365&cot=14)
 
+<hr class="big">
+
+## Question which generated the data
+
 <blockquote class="alt">
-  <p><strong>This website is a work in progress.</strong></p>
+<ul>
+<li>What network do you use to keep in touch with other SD? / How do you connect and keep in touch, build collaborations with other people practicing in the area?</li>
+<li>Do you share your work or learning with other practitioners? If so, where and how do you do so?</li>
+<li>[In the Future] Where should the community concentrate its efforts?</li>
+</ul>
 </blockquote>
 
-This is where we will put the findings around the Service Design Community.
+Participants might have also mentioned it while answering other questions.
 
+<hr class="big">
 
-{% include feedback.html %}
+## How the data is grouped
+- [general findings](/practitioner-stories/Community/general) (**Not ready yet**)
+- [challenges](/practitioner-stories/Community/challenges)  (**Not ready yet**)
+- [future and aspirations](/practitioner-stories/Community/future) (**Not ready yet**)
+
+<p><span class="tag-alt">Coming soon</span></p>
+<br><br>
 <div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>
