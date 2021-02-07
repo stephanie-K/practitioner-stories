@@ -1,6 +1,6 @@
 ---
 title: General
-category: SAtSD
+category: Community
 order: 2
 ---
 
