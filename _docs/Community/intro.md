@@ -4,7 +4,7 @@ category: Community
 order: 1
 ---
 
-![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SD-community.png)
+![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/Community/SD-community.png)
 [Access the part of the Miro Board represented in the image](https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333741365&cot=14)
 
 <hr class="big">
@@ -24,7 +24,7 @@ Participants might have also mentioned it while answering other questions.
 <hr class="big">
 
 ## How the data is grouped
-- [general findings](/practitioner-stories/Community/general) (**Not ready yet**)
+- [general findings](/practitioner-stories/Community/general)
 - [challenges](/practitioner-stories/Community/challenges)  (**Not ready yet**)
 - [future and aspirations](/practitioner-stories/Community/future) (**Not ready yet**)
 
