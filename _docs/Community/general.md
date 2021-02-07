@@ -5,7 +5,10 @@ order: 2
 ---
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/Community/community-general.png)
+
 [Access the part of the Miro Board represented in the image](https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457353671927246&cot=10)
+
+<hr class="big">
 
 ## Who with? How big?
 
@@ -32,7 +35,7 @@ order: 2
   <details>
  <summary>International community</summary>
  <ul>
- <li>Design Justice Network [...]] in the UK node only four of us really actively involved we are meeting regularly there and having really interesting conversations, both within the UK and globally. It’s quite a challenging space, an interesting challenge</li>
+ <li>Design Justice Network [...] in the UK node only four of us really actively involved we are meeting regularly there and having really interesting conversations, both within the UK and globally. It’s quite a challenging space, an interesting challenge</li>
  <li>I am proud to live in Scotland and what's happening in Scotland. I've always described myself as an internationalist. I think it's really important to have an  internationalist view and those kind of connections are being inspired by what people are doing in different countries and to work with them</li>
  <li>I try to be active in various networks and going along to events [...] It's really important [...] being inspired by what people are doing in different countries and to work with them. That's why things like Service Design in Government is good.  But also,... just staying in touch by social media with people all around the world,  I think  that in our field it's vitally important</li>
  </ul>
@@ -65,7 +68,8 @@ order: 2
 ## Networking - Events - Keeping in touch
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/Community/community-networking.png)
-[Access the part of the Miro Board represented in the image](https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457353671927246&cot=10)
+
+[Access the part of the Miro Board represented in the image](https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457354184080422&cot=10)
 
 ### List of insights
 
@@ -145,6 +149,7 @@ order: 2
 ## Sharing vs not sharing - What, Why and where?
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/Community/community-sharing.png)
+
 [Access the part of the Miro Board represented in the image](https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457353671927246&cot=10)
 
 ### What type of things they share
@@ -263,7 +268,7 @@ order: 2
  </ul>
  </details>
   <details>
- <summary>Can't share the negative because it's to new and they want people to trust the process</summary>
+ <summary>Can't share the negative because it's too new and they want people to trust the process</summary>
  <ul>
  <li>I think that’s a maturity thing. Because this is something quite new and we are trying to get people engaged in it, it is right to be cautious about how we talk about it. Working in many ways is always never working for people there's a risk in it and you have got to trust the process</li>
  </ul>
