@@ -146,7 +146,7 @@ order: 2
 
 <hr class="big">
 
-## Sharing vs not sharing - What, Why and where?
+## Sharing vs not sharing - What, Why and Where?
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/Community/community-sharing.png)
 

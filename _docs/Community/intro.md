@@ -25,7 +25,7 @@ Participants might have also mentioned it while answering other questions.
 
 ## How the data is grouped
 - [general findings](/practitioner-stories/Community/general)
-- [challenges](/practitioner-stories/Community/challenges)  (**Not ready yet**)
+- [challenges](/practitioner-stories/Community/challenges)  
 - [future and aspirations](/practitioner-stories/Community/future) (**Not ready yet**)
 
 <p><span class="tag-alt">Coming soon</span></p>
