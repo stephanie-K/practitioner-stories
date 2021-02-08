@@ -7,15 +7,6 @@ order: 1
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SAtSD/SAtSD.png)
 [Access the part of the Miro Board represented in the image](https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333741367&cot=14)
 
-<hr class="big">
-
-## Some information about the Scottish Approach to Service Design (SAtSD)
-- [Step by step presentation on gov.scot](https://www.gov.scot/publications/the-scottish-approach-to-service-design/pages/about-this-resource/)
-- [Scottish Approach to Service Design: Creating Conditions for Change](https://blogs.gov.scot/digital/2019/07/03/scottish-approach-to-service-design-creating-conditions-for-change/) (blog post)
-- [A Scottish Approach to designing public services](https://resources.mygov.scot/37f87d5/designing-public-services-in-scotland/why-we-need-design-for-public-services-in-scotland/a-scottish-approach-to-design-for-public-services/) (mygov.scot resources)
-- [How to design services for and with users](/practitioner-stories/images/SAtSD/SAtSD.pdf) (PDF)
-
-> "We called it the SAtSD because civil servants in Scottish Government had a philosophy called the Scottish Approach to Government', and I was trying to explain to them why design connected to how they thought." - Cat Macaulay
 
 <hr class="big">
 
@@ -26,14 +17,35 @@ order: 1
 
 Participants might have also mentioned it while answering other questions.
 
+We spoke with practitioners who had different degrees of awareness about the Scottish Approach to Service Design (SAtSD).
+Some of them had:
+- contributed to its development to varying degrees
+- practical experience using it with public and third sector organisations
+- heard about it but have not engaged with it or 'have struggled to understand what it is'
+
 <hr class="big">
 
 ## How the data is grouped
 - [General findings](/practitioner-stories/SAtSD/general)
+- [Benefits](/practitioner-stories/SAtSD/benefits)
 - [Challenges](/practitioner-stories/SAtSD/challenges)
 - [Future and aspirations](/practitioner-stories/SAtSD/future)
 
 Note that a lot of findings are related to another theme "[Working with people](/practitioner-stories/Working-with-people/intro)". It's not surprising, this is the aim of the approach.
+
+<hr class="big">
+
+## Some information about the Scottish Approach to Service Design (SAtSD)
+<ul>
+<li><a href="https://www.gov.scot/publications/the-scottish-approach-to-service-design/pages/about-this-resource/" target="_blank">Step by step presentation on gov.scot</a></li>
+<li><a href="https://blogs.gov.scot/digital/2019/07/03/scottish-approach-to-service-design-creating-conditions-for-change" target="_blank">Scottish Approach to Service Design: Creating Conditions for Change</a> (blog post)</li>
+<li><a href="https://resources.mygov.scot/37f87d5/designing-public-services-in-scotland/why-we-need-design-for-public-services-in-scotland/a-scottish-approach-to-design-for-public-services" target="_blank">A Scottish Approach to designing public services</a> (mygov.scot resources)</li>
+<li><a href="/practitioner-stories/images/SAtSD/SAtSD.pdf" target="_blank">How to design services for and with users</a> (PDF)</li>
+</ul>
+
+
+> "When we started this, we just called it The Scottish Approach to Service Design, because civil servants in Scottish government had a philosophy called the Scottish Approach to Government and I was trying to explain to them why design connected to how they thought, so I connected the two things and it stuck." - [Cat Macaulay](https://accessibility.scot/accessible-public-services-are-we-there-yet/)
+
 
 {% include feedback.html %}
 <div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>

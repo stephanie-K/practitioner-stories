@@ -81,5 +81,5 @@ This website (started on the 05/02/21) is a new way to share the research we did
 [Stories of Service Design in Scotland](https://practitionerstories.medium.com/stories-of-service-design-in-scotland-8f267710a2ba) (Medium post)
 
 
-{% include feedback.html %}
+<br><br>
 <div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>
