@@ -3,7 +3,7 @@
 
 title: Practitioner Stories
 url: "https://stephanie-k.github.io/practitioner-stories/"
-baseurl:
+baseurl: "practitioner-stories/"
 google_analytics_key:
 show_full_navigation: true
 

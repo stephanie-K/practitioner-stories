@@ -271,7 +271,9 @@ nav > ul {
 
 	.current {
 		background-color: $brand-colour;
-		color: #ffffff;
+		a:active, a:hover, a:link, a:visited {
+			color: #ffffff;
+		}
 	}
 
 	&.top-level > a {
