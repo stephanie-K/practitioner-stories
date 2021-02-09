@@ -85,7 +85,11 @@
 		<section class="main">
 			<div class="page-header">
 				<h1><span class="title">{% if page.category %}{{ page.category }}{% else %}{{ site.title }}{% endif %}</span><br>
+					{% if page.title == 'Welcome' %} 
+					<span>Practitioner Stories is a self-initiated research project exploring service design practice in the public and third sector in Scotland</span>
+					{% else %}
 					<span class="subtitle">{{ page.title }}</span>
+					{% endif %}
 				</h1>
 			</div>
 			<article class="content">
