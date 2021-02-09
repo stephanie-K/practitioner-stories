@@ -15,7 +15,7 @@ order: 2
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/Community/community-who-with.png)
 [Access the part of the Miro Board represented in the image](https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457353671927246&cot=10)
 
-### List of insights
+### List of clusters of insights
 
 > Select one of the insights to see the quotes supporting it. Select it again to hide the quotes.
 
@@ -71,7 +71,7 @@ order: 2
 
 [Access the part of the Miro Board represented in the image](https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457354184080422&cot=10)
 
-### List of insights
+### List of clusters of insights
 
 > Select one of the insights to see the quotes supporting it. Select it again to hide the quotes.
 
@@ -176,7 +176,7 @@ order: 2
 - Because or NDA (Non Disclosure Agreement) or consultant status
 - **There is something around ethics and being open, who gets to be seen and who's story we are telling**
 
-### List of insights for sharing
+### List of clusters of insights for sharing
 
 > Select one of the insights to see the quotes supporting it. Select it again to hide the quotes.
  
@@ -243,7 +243,7 @@ order: 2
  </details>
 <br>
 
-### List of insights for NOT sharing
+### List of clusters of insights for NOT sharing
 
 > Select one of the insights to see the quotes supporting it. Select it again to hide the quotes.
 

@@ -16,7 +16,7 @@ order: 3
 
 [Access the part of the Miro Board represented in the image](https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457354189731611&cot=10)
 
-### List of insights
+### List of clusters of insights
 
 > Select one of the insights to see the quotes supporting it. Select it again to hide the quotes.
 
@@ -117,7 +117,7 @@ order: 3
 
 [Access the part of the Miro Board represented in the image](https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333736504&cot=14)
 
-### List of insights
+### List of clusters of insights
 
 > Select one of the insights to see the quotes supporting it. Select it again to hide the quotes.
 
@@ -178,7 +178,7 @@ order: 3
 [Access the part of the Miro Board represented in the image](https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333740691&cot=14)
 
 
-### List of insights for NOT sharing
+### List of clusters of insights for NOT sharing
 
 > Select one of the insights to see the quotes supporting it. Select it again to hide the quotes.
 

@@ -17,7 +17,7 @@ order: 4
 [Access the part of the Miro Board represented in the image](https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333735746&cot=14)
 
 
-### List of insights
+### List of clusters of insights
 
 > Select one of the insights to see the quotes supporting it. Select it again to hide the quotes.
 
@@ -50,7 +50,7 @@ order: 4
 
 [Access the part of the Miro Board represented in the image](https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333740698&cot=14)
 
-### List of insights
+### List of clusters of insights
 
 > Select one of the insights to see the quotes supporting it. Select it again to hide the quotes.
 
@@ -78,7 +78,7 @@ order: 4
 - Emerging theme around ownership and representation, making connections and being stronger together
 - Who would run this community? who should represent it? guild? researchOps kind of model?
 
-### List of insights
+### List of clusters of insights
 
 > Select one of the insights to see the quotes supporting it. Select it again to hide the quotes.
 

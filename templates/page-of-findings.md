@@ -10,7 +10,7 @@ order:
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/)
 [Access the part of the Miro Board represented in the image]()
 
-### List of insights
+### List of clusters of insights
 
 > Select one of the insights to see the quotes supporting it. Select it again to hide the quotes.
 
@@ -33,7 +33,7 @@ order:
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/)
 [Access the part of the Miro Board represented in the image]()
 
-### List of insights
+### List of clusters of insights
 
 > Select one of the insights to see the quotes supporting it. Select it again to hide the quotes.
  <details>

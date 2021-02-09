@@ -9,7 +9,7 @@ order: 5
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SAtSD/satsd-future.png)
 [Access the part of the Miro Board represented in the image](https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333735754&cot=14)
 
-### List of insights
+### List of clusters of insights
 
 > Select one of the insights to see the quotes supporting it. Select it again to hide the quotes.
 

@@ -9,7 +9,7 @@ order: 4
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SAtSD/satsd-practical.png)
 [Access the part of the Miro Board represented in the image](https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333735755&cot=14)
 
-### List of insights
+### List of clusters of insights
 
 > Select one of the insights to see the quotes supporting it. Select it again to hide the quotes.
 
@@ -87,7 +87,7 @@ order: 4
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SAtSD/satsd-barriers.png)
 [Access the part of the Miro Board represented in the image](https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333735901&cot=14)
 
-### List of insights : Service Design is new and unfamiliar
+### List of clusters of insights : Service Design is new and unfamiliar
 
 #### People want the magic of Service Design but don't want the change that comes with it
 <details>
@@ -144,7 +144,7 @@ order: 4
 
 <hr class="big">
 
-### List of insights : Current ways of working is blocking service design
+### List of clusters of insights : Current ways of working is blocking service design
 
 #### Decisions and hierachies
 <details>

@@ -28,10 +28,10 @@ We kept this same structure on the website so for each theme, there is an **Intr
 
 ## Different level of detail
 
-Within each theme, there are sub-themes and for each of them, you will find a list of insights. 
+Within each theme, there are sub-themes and for each of them, you will find a list of clusters of insights. 
 
 If you want to learn more about a specific one then select it if it has a triangle next to it: 
--  all the quotes from participants which support this insight will appear under it
+-  all the quotes from participants which support this cluster of insight will appear under it
 - select again to close it
 
 ![little video showing what happen when you select the triangle to see the quotes then select again to hide them](/practitioner-stories/images/how-to-see-quotes.gif)
