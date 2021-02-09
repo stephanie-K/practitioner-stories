@@ -84,13 +84,15 @@
 
 		<section class="main">
 			<div class="page-header">
-				<h1><span class="title">{% if page.category %}{{ page.category }}{% else %}{{ site.title }}{% endif %}</span><br>
-					{% if page.title == 'Welcome' %} 
-					<span>Practitioner Stories is a self-initiated research project exploring service design practice in the public and third sector in Scotland</span>
-					{% else %}
+				{% if page.title == 'Welcome' %} 
+					<h1><span class="title" style="line-height: 0.5">{% if page.category %}{{ page.category }}{% else %}{{ site.title }}{% endif %}</span><br>
+					<span style="font-size: 2rem">A self-initiated research project exploring service design practice</span>
+					</h1>
+				{% else %}
+					<h1><span class="title">{% if page.category %}{{ page.category }}{% else %}{{ site.title }}{% endif %}</span><br>
 					<span class="subtitle">{{ page.title }}</span>
-					{% endif %}
-				</h1>
+					</h1>
+				{% endif %}
 			</div>
 			<article class="content">
 				{{ content }}
