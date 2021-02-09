@@ -17,7 +17,7 @@ order: 2
 
 ### List of clusters of insights
 
-> Select one of the insights to see the quotes supporting it. Select it again to hide the quotes.
+> Select one of the clusters of insights to see the quotes supporting it. Select it again to hide the quotes.
 
  <details>
  <summary>Shaping our own communities</summary>
@@ -73,7 +73,7 @@ order: 2
 
 ### List of clusters of insights
 
-> Select one of the insights to see the quotes supporting it. Select it again to hide the quotes.
+> Select one of the clusters of insights to see the quotes supporting it. Select it again to hide the quotes.
 
  <details>
  <summary>How to chose an event? Too many thing so people have strategies to pick an event</summary>
@@ -178,7 +178,7 @@ order: 2
 
 ### List of clusters of insights for sharing
 
-> Select one of the insights to see the quotes supporting it. Select it again to hide the quotes.
+> Select one of the clusters of insights to see the quotes supporting it. Select it again to hide the quotes.
  
  <details>
  <summary>Blogs, articles and cases studies</summary>
@@ -245,7 +245,7 @@ order: 2
 
 ### List of clusters of insights for NOT sharing
 
-> Select one of the insights to see the quotes supporting it. Select it again to hide the quotes.
+> Select one of the clusters of insights to see the quotes supporting it. Select it again to hide the quotes.
 
 <details>
  <summary>Already so much out there</summary>

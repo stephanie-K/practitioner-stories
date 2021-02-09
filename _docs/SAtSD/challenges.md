@@ -11,7 +11,7 @@ order: 4
 
 ### List of clusters of insights
 
-> Select one of the insights to see the quotes supporting it. Select it again to hide the quotes.
+> Select one of the clusters of insights to see the quotes supporting it. Select it again to hide the quotes.
 
 <details>
 <summary>It feels both vague and formulaic because it doesn't consider context</summary>
@@ -33,7 +33,7 @@ order: 4
     <ul>
     <li>It kind of fails to supply people with further questions about the environment they are working in. [...] it fails to consider the wider context</li>
     <li> Find it easier to collaborate with specific teams, and there’s usually quite a lot of good will there. But then the SAtSD doesn’t necessity work in that context. So we’ve been trying to tease out a version per product almost. Because that’s where you change things</li>
-    <li>We had a project where we managed to talk to five members of the staff. But none of the insights we pulled out and and none of the things we designed based on that were then taken forward. So when the team tried to SAtSD assess themselves according to the approach, they gave themselves a great grade because [...] we spoke to these people - yes, but we didn’t take it forward</li>
+    <li>We had a project where we managed to talk to five members of the staff. But none of the clusters of insights we pulled out and and none of the things we designed based on that were then taken forward. So when the team tried to SAtSD assess themselves according to the approach, they gave themselves a great grade because [...] we spoke to these people - yes, but we didn’t take it forward</li>
     <li> If we actually do a SAtSD assessment,[...] taking that approach and going to a project team, and saying ‘here’s the assessment, let’s do it’’, it’s actually quite difficult. Because it’s written from an organisational perspective only. You know, I think there’s one good example that is about design being embedded in all layers of the organisation, and this team doesn’t really have anything to say about that. [The SAtSD] doesn’t really quite assess specific products, but the organisation as a whole. That’s a difficult pitch, cause that suggests that I should go to the director of my organisation and say: ‘hey, here’s an assessment, you need to comply with that’; and that is a very difficult position to be in</li>
     </ul>
 </details>

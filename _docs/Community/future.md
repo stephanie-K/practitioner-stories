@@ -19,7 +19,7 @@ order: 4
 
 ### List of clusters of insights
 
-> Select one of the insights to see the quotes supporting it. Select it again to hide the quotes.
+> Select one of the clusters of insights to see the quotes supporting it. Select it again to hide the quotes.
 
  <details>
  <summary>Keeping our feet on the ground</summary>
@@ -52,7 +52,7 @@ order: 4
 
 ### List of clusters of insights
 
-> Select one of the insights to see the quotes supporting it. Select it again to hide the quotes.
+> Select one of the clusters of insights to see the quotes supporting it. Select it again to hide the quotes.
 
  <details>
  <summary>Nurturing spaces for peer exchange: a place where people find each others, hear what others do, get value</summary>
@@ -80,7 +80,7 @@ order: 4
 
 ### List of clusters of insights
 
-> Select one of the insights to see the quotes supporting it. Select it again to hide the quotes.
+> Select one of the clusters of insights to see the quotes supporting it. Select it again to hide the quotes.
 
  <details>
  <summary>A catalyst for the community to get started</summary>

@@ -12,7 +12,7 @@ order:
 
 ### List of clusters of insights
 
-> Select one of the insights to see the quotes supporting it. Select it again to hide the quotes.
+> Select one of the clusters of insights to see the quotes supporting it. Select it again to hide the quotes.
 
  <details>
  <summary></summary>
@@ -35,7 +35,7 @@ order:
 
 ### List of clusters of insights
 
-> Select one of the insights to see the quotes supporting it. Select it again to hide the quotes.
+> Select one of the clusters of insights to see the quotes supporting it. Select it again to hide the quotes.
  <details>
  <summary></summary>
  <ul>

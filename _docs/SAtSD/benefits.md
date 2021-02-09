@@ -11,7 +11,7 @@ order: 3
 
 ### List of clusters of insights
 
-> Select one of the insights to see the quotes supporting it. Select it again to hide the quotes.
+> Select one of the clusters of insights to see the quotes supporting it. Select it again to hide the quotes.
 
 <details>
 <summary>Advocating & evidencing the value of Service Design & user/citizen involvment</summary>

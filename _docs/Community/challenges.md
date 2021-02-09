@@ -18,7 +18,7 @@ order: 3
 
 ### List of clusters of insights
 
-> Select one of the insights to see the quotes supporting it. Select it again to hide the quotes.
+> Select one of the clusters of insights to see the quotes supporting it. Select it again to hide the quotes.
 
 <details>
  <summary>Hard to take part</summary>
@@ -119,7 +119,7 @@ order: 3
 
 ### List of clusters of insights
 
-> Select one of the insights to see the quotes supporting it. Select it again to hide the quotes.
+> Select one of the clusters of insights to see the quotes supporting it. Select it again to hide the quotes.
 
  <details>
  <summary>Lack of critique within the community because we're in survival mode</summary>
@@ -180,7 +180,7 @@ order: 3
 
 ### List of clusters of insights for NOT sharing
 
-> Select one of the insights to see the quotes supporting it. Select it again to hide the quotes.
+> Select one of the clusters of insights to see the quotes supporting it. Select it again to hide the quotes.
 
 <details>
  <summary>Already so much out there</summary>
