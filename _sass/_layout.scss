@@ -269,6 +269,11 @@ nav > ul {
 		color: #111;
 	}
 
+	.current {
+		background-color: $brand-colour;
+		color: #ffffff;
+	}
+
 	&.top-level > a {
 		line-height: 1.5;
 		font-weight: 600;
