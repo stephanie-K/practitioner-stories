@@ -33,7 +33,7 @@ For now, just two, to explain the big Miro board
 
 ### First workshop - Tuesday 2 February - Exploring contributions& challenges
 (Write up coming soon)
-![illustration — map of Scotland and in front 5 people with a jigsaw piece and miro board of activities for the workshop](/practitioner-stories/images/workshop1-banner.jpg)
+![illustration — map of Scotland and in front 5 people with a jigsaw piece and miro board of activities for the workshop](/practitioner-stories/images/workshop/workshop1-banner.jpg)
 
 ### SDS Gathering - Guests on Thursday 4 February
 
