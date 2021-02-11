@@ -275,7 +275,7 @@ nav > ul {
 		padding-left: $space;
 	}
 
-	.current, .top-level.current{
+	&.current {
 		background-color: $brand-colour;
 		a:active, a:hover, a:link, a:visited {
 			color: #ffffff;
