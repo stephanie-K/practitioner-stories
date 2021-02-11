@@ -269,18 +269,18 @@ nav > ul {
 		color: #111;
 	}
 
-	.current {
+	&.top-level > a {
+		line-height: 1.5;
+		font-weight: 600;
+		padding-left: $space;
+	}
+
+	.current, .top-level.current{
 		background-color: $brand-colour;
 		a:active, a:hover, a:link, a:visited {
 			color: #ffffff;
 			font-weight: 600;
 		}
-	}
-
-	&.top-level > a {
-		line-height: 1.5;
-		font-weight: 600;
-		padding-left: $space;
 	}
 }
 
