@@ -3,7 +3,7 @@ title: Who we are
 ---
 
 
-We are 3 service designers living and working in Scotland passionate about our practice and with the aim of bringing the service design community together by sharing experiences and learnings and discussing the future.
+We are three service designers living and working in Scotland passionate about our practice and with the aim of bringing the service design community together by sharing experiences and learnings and discussing the future.
 
 You can get in touch with us individually on the Service Design in Scotland Slack for example or the Public Sector Design in Scotland Slack, on Twitter or LinkedIn.
 
