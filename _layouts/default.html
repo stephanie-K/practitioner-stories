@@ -56,12 +56,13 @@
 					</li>
 				</ul>
 
-				<p><strong>Insights from the 5 themes</strong></p>
+				<p><strong>Insights from the 5 themes:</strong></p>
 
 				<ul style="background-color: #f1f7f8;">
 				{% assign grouped = site.docs | group_by: 'category' %}
 				{% for group in grouped %}
 					<li class="nav-item top-level">
+						{% assign items = group.items | sort: 'order' %}
 						<a href="{{ site.baseurl }}{{ items.first.url }}">{{ group.name }}</a>
 					</li>
 				{% endfor %}
