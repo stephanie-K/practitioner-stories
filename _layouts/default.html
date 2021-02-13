@@ -67,7 +67,7 @@
 				<ul style="background-color: #f1f7f8; padding-left: 3rem">
 				{% assign grouped = site.docs | group_by: 'category' %}
 				{% for group in grouped %}
-					<li class="nav-item">
+					<li class="nav-item top-level">
 						{% assign items = group.items | sort: 'order' %}
 						<a href="{{ site.baseurl }}{{ items.first.url }}">{{ group.name }}</a>
 					</li>
