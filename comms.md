@@ -19,7 +19,7 @@ title: Communications
 
 We are going to try to produce more of them as a different way to present the data.
 
-For now, just two, to explain the big Miro board
+For now, just two, to explain the big Miro board showing all our insights over the five themes
 
 ### Quick tour of the Miro board
 
