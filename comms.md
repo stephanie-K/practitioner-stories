@@ -33,7 +33,7 @@ For now, just two, to explain the big Miro board showing all our insights over t
 
 ## Events
 
-### First workshop - Tuesday 2 February 2021 - Exploring contributions& challenges
+### First workshop - Tuesday 2 February 2021 - Exploring contributions and challenges
 ![illustration — map of Scotland and in front 5 people with a jigsaw piece and miro board of activities for the workshop](/practitioner-stories/images/workshop/workshop1-banner.jpg)
 
 <ul>

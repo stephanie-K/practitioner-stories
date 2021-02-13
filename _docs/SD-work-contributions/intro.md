@@ -39,6 +39,20 @@ Participants might have also mentioned it while answering other questions.
    <p><span><a href="/practitioner-stories/SD-work-contributions/future">Go to Future</a></span></p>
 </div>
 
+<hr class="big">
+
+
+### Workshop - Tuesday 2 February 2021 - Exploring contributions and challenges
+![illustration — map of Scotland and in front 5 people with a jigsaw piece and miro board of activities for the workshop](/practitioner-stories/images/workshop/workshop1-banner.jpg)
+
+<ul>
+    <li>see the <a href="https://github.com/stephanie-K/practitioner-stories/blob/main/images/workshop/Workshop1-grouping-of-work-on-the-day.pdf" target="_blank">work on the day as a PDF here</a></li>
+    <li><a href="https://miro.com/app/board/o9J_lZxZWng=/?moveToWidget=3074457354020152297&amp;cot=14" target="_blank">look at the Miro board for it</a> (open for comments)</li>
+    <li><a href="https://docs.google.com/presentation/d/1nRsB4Xs8C_v5SZ5gh32ORcHJs2aH-x-00x7zZB7jadw/edit?usp=sharing" target="_blank">see the summary as Google slides</a></li>
+    <li>or go through the slides below</li>
+</ul>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRV8mRQG9_0RqDD75tSMiRNy9RkMyJE3aNo-uYDsgUinl2NYfeat2YrLnJr3o0QfGjSSalLUJjoc0-M/embed?start=false&loop=false&delayms=3000" frameborder="0" width="800" height="474" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br><br>
 {% include give-feedback.html %}
