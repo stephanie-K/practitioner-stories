@@ -43,7 +43,7 @@ For now, just two, to explain the big Miro board
     <li>or go through the slides below</li>
 </ul>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRV8mRQG9_0RqDD75tSMiRNy9RkMyJE3aNo-uYDsgUinl2NYfeat2YrLnJr3o0QfGjSSalLUJjoc0-M/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRV8mRQG9_0RqDD75tSMiRNy9RkMyJE3aNo-uYDsgUinl2NYfeat2YrLnJr3o0QfGjSSalLUJjoc0-M/embed?start=false&loop=false&delayms=3000" frameborder="0" width="800" height="474" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <hr class="big">
 
