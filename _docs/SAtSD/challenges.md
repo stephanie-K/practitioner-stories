@@ -91,9 +91,12 @@ order: 4
     </ul>
 </details>
 
+<hr class="big">
+
+
 ## Barriers: organisational culture, mindset and environement
 
-> These insights are related to SAtSD but not only, they could also fit the theme **'SD work and contributions'**  or **'Working with people'**
+> These clusters of insights are related to SAtSD but not only, they could also fit the theme **'SD work and contributions'**  or **'Working with people'**
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SAtSD/satsd-barriers.png)
 <p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333735901&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
