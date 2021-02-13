@@ -24,7 +24,7 @@ Participants might have also mentioned it while answering other questions.
 <hr class="big">
 
 ## How the data is grouped
-- [General findings](/practitioner-stories/Community/general)
+- [General insights](/practitioner-stories/Community/general)
 - [Challenges](/practitioner-stories/Community/challenges)  
 - [Future and aspirations](/practitioner-stories/Community/future)
 

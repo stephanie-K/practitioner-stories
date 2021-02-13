@@ -4,11 +4,7 @@ category: Community
 order: 4
 ---
 
-![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/Community/community-future-all.png)
-
-[Access the part of the Miro Board represented in the image](https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333741304&cot=14)
-
-<hr class="big">
+<div class="item-nav"><span><a href="/practitioner-stories/Community/intro">Back to the Introduction for this theme</a></span><span><a href="/practitioner-stories/Community/general">Go to the General insights</a></span><span><a href="/practitioner-stories/Community/challenges">Go to the Challenges</a></span></div>
 
 ## The future of the Service Design Community
 

@@ -464,7 +464,7 @@ blockquote.alt {
 	border-color: $brand-colour-alt;
 }
 
-img {
+img, image {
 	max-width: 100%;
 	height: auto;
 }
@@ -591,5 +591,13 @@ details.navigation {
 
  	ul {
 		background-color: $brand-colour-light;
+	}
+}
+.item-nav {
+	span {
+		background-color: $brand-colour-light;
+		font-weight: 600;
+		padding: 0.5em 1em;
+		margin: 1em;
 	}
 }

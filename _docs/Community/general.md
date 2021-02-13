@@ -4,11 +4,8 @@ category: Community
 order: 2
 ---
 
-![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/Community/community-general.png)
+<div class="item-nav"><span><a href="/practitioner-stories/Community/intro">Back to the Introduction for this theme</a></span><span><a href="/practitioner-stories/Community/challenges">Go to the Challenges</a></span><span><a href="/practitioner-stories/Community/future">Go to the Future</a></span></div>
 
-[Access the part of the Miro Board represented in the image](https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457353671927246&cot=10)
-
-<hr class="big">
 
 ## Who with? How big?
 
