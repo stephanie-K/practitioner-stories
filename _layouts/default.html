@@ -60,11 +60,11 @@
 							margin-bottom: 0; 
 							background-color: #f1f7f8; 
 							color: #345f67;
-							padding: 0.5rem 2rem">
+							padding: 2rem 1rem 0.5rem 2rem">
 							<strong>Insights from the 5 themes:</strong>
 				</p>
 
-				<ul style="background-color: #f1f7f8; padding-left: 3rem">
+				<ul style="background-color: #f1f7f8; padding-left: 3rem; padding-bottom: 2rem;">
 				{% assign grouped = site.docs | group_by: 'category' %}
 				{% for group in grouped %}
 					<li class="nav-item top-level">
