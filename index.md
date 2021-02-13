@@ -70,26 +70,19 @@ We are 3 service designers living and working in Scotland passionate about our p
 
 ## Sharing our research
 
-<p>This website (started on the 05/02/21) is a new way to share the research we did as an alternative to the <a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352792688587&cot=14" target="_blank">big Miro board we have</a>. This is very much a work in progress.</p>
+<p>This website (started on the 05/02/21) is a new way to share the research we did as an alternative to the <a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352792688587&cot=14" target="_blank">big Miro board we have</a>. This is very much a work in progress. Let us know how we can make it better for you.</p>
 
 
-[Learn how to use this website](/practitioner-stories/how-to)
+<ul>
+<li><a href="/practitioner-stories/how-to">Learn how to use this website</a></li>
+<li><a href="https://practitionerstories.medium.com/stories-of-service-design-in-scotland-8f267710a2ba" target="_blank"> Learn more about the project in this Medium post</a></li>
+<li><a href="/practitioner-stories/comms">Access more posts and other communications about the project</a></li>
+</ul>
+
 
 <hr class="big">
 
-## Learn more about the project
-
-<p><a href="https://practitionerstories.medium.com/stories-of-service-design-in-scotland-8f267710a2ba" target="_blank">Stories of Service Design in Scotland</a> (Medium post)</p>
-
-[Access more posts and other communications about the project](/practitioner-stories/comms)
-
-<hr class="big">
-
-## Help us improve
-
-This website is a work in progress. Let us know how we can make it better for you.
-
-{% include feedback.html %}
+{% include give-feedback.html %}
 
 <div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>
 
