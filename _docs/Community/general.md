@@ -5,7 +5,7 @@ order: 2
 ---
 
 <div class="item-nav">
-<h2>Navigate the Community theme</h2>
+<h2>Navigate the Service Design Community in Scotland theme</h2>
    <p><span><a href="/practitioner-stories/Community/intro">Back to the Introduction</a></span></p>
    <p><span><a href="/practitioner-stories/Community/challenges">Go to Challenges</a></span></p>
    <p><span><a href="/practitioner-stories/Community/future">Go to Future</a></span></p>
