@@ -4,6 +4,8 @@ category: SD work and contributions
 order: 3
 ---
 
+<p><span class="tag-alt">In progress - coming soon</span></p>
+
 
 <div class="item-nav">
 <h2>Navigate the Service Design Work and contributions theme</h2>
@@ -12,6 +14,7 @@ order: 3
    <p><span><a href="/practitioner-stories/SD-work-contributions/future">Go to Future</a></span></p>
 </div>
 
+<!--
 <hr class="big">
 
 
@@ -55,7 +58,7 @@ order: 3
  </ul>
  </details>
 <br>
-
+-->
 <br><br>
 {% include give-feedback.html %}
 
