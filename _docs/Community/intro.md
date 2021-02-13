@@ -5,12 +5,10 @@ order: 1
 ---
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/Community/SD-community.png)
-<p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333741365&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
 
 <hr class="big">
 
-## Question which generated the data
-
+## Related interview questions
 <blockquote class="alt">
 <ul>
 <li>What network do you use to keep in touch with other SD? / How do you connect and keep in touch, build collaborations with other people practicing in the area?</li>
@@ -23,7 +21,19 @@ Participants might have also mentioned it while answering other questions.
 
 <hr class="big">
 
-## Navigate the groups of data for this theme
+## Summary of findings
+
+<p><strong>In progress</strong></p>
+
+<hr class="big">
+
+## View the analysis, clusters and quotes
+
+### On Miro
+
+<p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333741365&cot=14" target="_blank">See the Community theme on Miro Board</a></p>
+
+### On the website
 
 <div class="item-nav">
    <p><span><a href="/practitioner-stories/Community/general">Go to General insights</a></span></p>

@@ -10,7 +10,7 @@ order: 1
 
 <hr class="big">
 
-## Question which generated the data
+## Related interview questions
 <blockquote class="alt">
 <p>Have you heard of the Scottish Approach to Service Design? And if so, what does it mean to you?</p>
 </blockquote>

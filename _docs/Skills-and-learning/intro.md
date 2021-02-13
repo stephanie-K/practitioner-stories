@@ -13,7 +13,7 @@ order: 1
 
 <hr class="big">
 
-## Question which generated the data
+## Related interview questions
 <blockquote class="alt">
 <ul>
 <li>Have you identified any gaps in the skills of designers or the people they work with?</li>

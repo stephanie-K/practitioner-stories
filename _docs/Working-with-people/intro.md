@@ -11,7 +11,7 @@ order: 1
 <hr class="big">
 
 
-## Question which generated the data
+## Related interview questions
 <blockquote class="alt">
 <p>Do you manage to design WITH people?</p>
 <ul>
