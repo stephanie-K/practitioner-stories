@@ -9,8 +9,7 @@ The functionalities are limited for now.
 
 ## 5 Themes
 
-After the first phase of analysis, 5 themes emerged:
-
+<p style="margin-bottom: 0">After the first phase of analysis, 5 themes emerged:</p>
 1. Service design work and contributions
 2. Scottish Approach to Service Design (SAtSD)
 3. Working with people
@@ -21,7 +20,7 @@ For each theme, there are general findings and we have grouped the challenges se
 
 ![diagram illustrating how our data is structured on Miro](/practitioner-stories/images/categories.png)
 
-We kept this same structure on the website so for each theme, there is an **Introduction** page from where you can find:
+<p style="margin-bottom: 0">We kept this same structure on the website so for each theme, there is an <strong>Introduction</strong> page from where you can find:</p>
 - the **General** findings
 - the  **Challenges**
 - the aspirations for the  **Future**
@@ -31,13 +30,13 @@ We kept this same structure on the website so for each theme, there is an **Intr
 
 Within each theme, there are sub-themes and for each of them, you will find a list of clusters of insights. 
 
-If you want to learn more about a specific one then select it if it has a triangle next to it: 
+<p style="margin-bottom: 0">If you want to learn more about a specific one then select it if it has a triangle next to it: </p>
 - all the quotes from participants which support this cluster of insight will appear under it
 - select again to close it
 
 ![little video as a gif showing what happen when you select the triangle to see the quotes then select again to hide them](/practitioner-stories/images/how-to-see-quotes.gif)
 
-> We do realise it's still very complex, but this is a first step to make all our data more accessible and the analysis is not finished yet
+> We do realise it's still very complex, but this is a first step to make all our data more accessible and the analysis is not finished yet.
 >
 > We are open to suggestions and welcome feedback.
 
