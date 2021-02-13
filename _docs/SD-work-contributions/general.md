@@ -471,7 +471,7 @@ order: 2
 
 <p style="margin-bottom: 0">One quote:</p>
 - impact on the end-user, are we helping someone thrive? 
-- impact on the people we collaborate with, as the organisation: do they feel empowered to design stuff in the future, did we build the capability? 
+- impact on the people we collaborate with, as the organisation: do they feel empowered to design stuff in the future, did we build the capability?
 - [sharing learning]: can someone copy our ideas, can they be inspired by us and copy stuff?
 
 <br><br>
