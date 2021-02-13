@@ -60,15 +60,14 @@
 							margin-bottom: 0; 
 							background-color: #f1f7f8; 
 							color: #345f67;
-							border-bottom: solid 2px#73aeb8;
 							padding: 0.5rem 2rem">
 							<strong>Insights from the 5 themes:</strong>
 				</p>
 
-				<ul style="background-color: #f1f7f8;">
+				<ul style="background-color: #f1f7f8; padding-left: 3rem">
 				{% assign grouped = site.docs | group_by: 'category' %}
 				{% for group in grouped %}
-					<li class="nav-item top-level">
+					<li class="nav-item">
 						{% assign items = group.items | sort: 'order' %}
 						<a href="{{ site.baseurl }}{{ items.first.url }}">{{ group.name }}</a>
 					</li>
