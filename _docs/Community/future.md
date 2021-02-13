@@ -5,18 +5,19 @@ order: 4
 ---
 
 <div class="item-nav">
-<h2>Navigate this theme</h2>
+<h2>Navigate the Community theme</h2>
    <p><span><a href="/practitioner-stories/Community/intro">Back to the Introduction</a></span></p>
    <p><span><a href="/practitioner-stories/Community/general">Go to General insights</a></span></p>
    <p><span><a href="/practitioner-stories/Community/challenges">Go to Challenges</a></span></p>
 </div>
 
+<hr class="big">
+
 ## The future of the Service Design Community
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/Community/community-future.png)
 
-[Access the part of the Miro Board represented in the image](https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333735746&cot=14)
-
+<p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333735746&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
 
 ### List of clusters of insights
 
@@ -49,7 +50,7 @@ order: 4
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/Community/community-space-future.png)
 
-[Access the part of the Miro Board represented in the image](https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333740698&cot=14)
+<p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333740698&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
 
 ### List of clusters of insights
 
@@ -74,7 +75,7 @@ order: 4
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/Community/community-want.png)
 
-[Access the part of the Miro Board represented in the image](https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333736533&cot=14)
+<p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333736533&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
 
 - Emerging theme around ownership and representation, making connections and being stronger together
 - Who would run this community? who should represent it? guild? researchOps kind of model?

@@ -5,7 +5,7 @@ order: 1
 ---
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/Community/SD-community.png)
-[Access the part of the Miro Board represented in the image](https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333741365&cot=14)
+<p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333741365&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
 
 <hr class="big">
 
@@ -24,6 +24,7 @@ Participants might have also mentioned it while answering other questions.
 <hr class="big">
 
 ## Navigate the groups of data for this theme
+
 <div class="item-nav">
    <p><span><a href="/practitioner-stories/Community/general">Go to General insights</a></span></p>
    <p><span><a href="/practitioner-stories/Community/challenges">Go to Challenges</a></span></p>

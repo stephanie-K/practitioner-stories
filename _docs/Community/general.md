@@ -5,17 +5,18 @@ order: 2
 ---
 
 <div class="item-nav">
-<h2>Navigate this theme</h2>
+<h2>Navigate the Community theme</h2>
    <p><span><a href="/practitioner-stories/Community/intro">Back to the Introduction</a></span></p>
    <p><span><a href="/practitioner-stories/Community/challenges">Go to Challenges</a></span></p>
    <p><span><a href="/practitioner-stories/Community/future">Go to Future</a></span></p>
 </div>
 
+<hr class="big">
 
 ## Who with? How big?
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/Community/community-who-with.png)
-[Access the part of the Miro Board represented in the image](https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457353671927246&cot=10)
+<p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457353671927246&cot=10" target="_blank">Access the part of the Miro Board represented in the image</a></p>
 
 ### List of clusters of insights
 
@@ -71,7 +72,7 @@ order: 2
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/Community/community-networking.png)
 
-[Access the part of the Miro Board represented in the image](https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457354184080422&cot=10)
+<p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457354184080422&cot=10" target="_blank">Access the part of the Miro Board represented in the image</a></p>
 
 ### List of clusters of insights
 
@@ -151,8 +152,7 @@ order: 2
 ## Sharing vs not sharing - What, Why and Where?
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/Community/community-sharing.png)
-
-[Access the part of the Miro Board represented in the image](https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457353671927246&cot=10)
+<p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457353671927246&cot=10" target="_blank">Access the part of the Miro Board represented in the image</a></p>
 
 ### What type of things they share
 - What they are learning, trying
