@@ -19,7 +19,7 @@ order: 4
 
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SDwork/SDwork-fut1.png)
-<p><a href="" target="_blank">Access the part of the Miro Board represented in the image</a></p>
+<p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333735767&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
 
 ### List of clusters of insights
 
@@ -50,7 +50,7 @@ One quote: "The Covid crisis has kind of eclipsed Climate Change. We cannot igno
 ## Impact of Covid
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SDwork/SDwork-fut2.png)
-<p><a href="" target="_blank">Access the part of the Miro Board represented in the image</a></p>
+<p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333741316&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
 
 
 ### List of clusters of insights
@@ -94,7 +94,7 @@ One quote: "The Covid crisis has kind of eclipsed Climate Change. We cannot igno
 ## Public and 3rd sector: integrating design and other aspirations
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SDwork/SDwork-fut3.png)
-<p><a href="" target="_blank">Access the part of the Miro Board represented in the image</a></p>
+<p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333735749&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
 
 
 ### List of clusters of insights
@@ -186,7 +186,7 @@ One quote: "The Covid crisis has kind of eclipsed Climate Change. We cannot igno
 ## How to overcome barriers
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SDwork/SDwork-fut4.png)
-<p><a href="" target="_blank">Access the part of the Miro Board represented in the image</a></p>
+<p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333735897&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
 
 
 ### List of clusters of insights
