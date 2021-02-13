@@ -21,9 +21,10 @@ For each theme, there are general findings and we have grouped the challenges se
 
 ![diagram illustrating how our data is structured on Miro](/practitioner-stories/images/categories.png)
 
-We kept this same structure on the website so for each theme, there is an **Introduction** page, a **General** findings one, and one for **Challenges** and for the **Future**.
-
-![screenshot of the left navigation menu with the list of pages under one theme](/practitioner-stories/images/theme-sctructure.png)
+We kept this same structure on the website so for each theme, there is an **Introduction** page from where you can find:
+- the **General** findings
+- the  **Challenges**
+- the aspirations for the  **Future**
 
 
 ## Different level of detail
@@ -31,15 +32,14 @@ We kept this same structure on the website so for each theme, there is an **Intr
 Within each theme, there are sub-themes and for each of them, you will find a list of clusters of insights. 
 
 If you want to learn more about a specific one then select it if it has a triangle next to it: 
--  all the quotes from participants which support this cluster of insight will appear under it
+- all the quotes from participants which support this cluster of insight will appear under it
 - select again to close it
 
-![little video showing what happen when you select the triangle to see the quotes then select again to hide them](/practitioner-stories/images/how-to-see-quotes.gif)
+![little video as a gif showing what happen when you select the triangle to see the quotes then select again to hide them](/practitioner-stories/images/how-to-see-quotes.gif)
 
-> We do realise it's still very complex, but this is a first step to make all our data more accessible.
+> We do realise it's still very complex, but this is a first step to make all our data more accessible and the analysis is not finished yet
 >
-> We are open to suggestions and welcome feedback. **Tell us what you want to see here and in what format**.
+> We are open to suggestions and welcome feedback.
 
-
-{% include feedback.html %}
+{% include give-feedback.html %}
 <div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>
