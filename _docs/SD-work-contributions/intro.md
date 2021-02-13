@@ -29,12 +29,13 @@ Participants might have also mentioned it while answering other questions.
 
 ### On Miro
 
-<p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457353671760149&cot=10" target="_blank">See the "<strong>Service Design work and contributions</strong>" theme on Miro Board</a></p>
+<p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333741366&cot=14" target="_blank">See the "<strong>Service Design work and contributions</strong>" theme on Miro Board</a></p>
 
 ### On the website
 
 <p><span class="tag-alt">Coming soon</span></p>
 
-{% include give-feedback.html %}
 <br><br>
+{% include give-feedback.html %}
+
 <div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>

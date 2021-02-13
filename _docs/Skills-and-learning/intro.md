@@ -36,6 +36,7 @@ Participants might have also mentioned it while answering other questions.
 
 <p><span class="tag-alt">Coming soon</span></p>
 
-{% include give-feedback.html %}
 <br><br>
+{% include give-feedback.html %}
+
 <div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>

@@ -46,6 +46,7 @@ We spoke with practitioners who had different degrees of awareness about the Sco
 
 Note that a lot of insights are related to another theme "[Working with people](/practitioner-stories/Working-with-people/intro)". It's not surprising, this is the aim of the approach.
 
+<hr class="big">
 
 ## Some information about the Scottish Approach to Service Design (SAtSD)
 <ul>
@@ -57,7 +58,8 @@ Note that a lot of insights are related to another theme "[Working with people](
 
 > "When we started this, we just called it The Scottish Approach to Service Design, because civil servants in Scottish government had a philosophy called the Scottish Approach to Government and I was trying to explain to them why design connected to how they thought, so I connected the two things and it stuck." - [Cat Macaulay](https://accessibility.scot/accessible-public-services-are-we-there-yet/)
 
-{% include give-feedback.html %}
 <br><br>
+{% include give-feedback.html %}
+
 <div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>
 

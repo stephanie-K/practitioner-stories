@@ -37,6 +37,7 @@ Participants might have also mentioned it while answering other questions.
 
 Note that a lot of insights are related to another theme "[SAtSD](/practitioner-stories/SAtSD/intro)". It's not surprising, this is the aim of the approach. There is also some overlap with "[SD work and contribution](/practitioner-stories/SD-work-contributions/intro)".
 
-{% include give-feedback.html %}
 <br><br>
+{% include give-feedback.html %}
+
 <div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>
