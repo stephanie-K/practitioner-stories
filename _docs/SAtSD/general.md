@@ -152,8 +152,8 @@ SAtSD's Scottish identity is interpreted in a variety of ways, with both positiv
 #### Made for Public Sector organistions not for designers
 #### Its organisational focus has avantages and disadvantages
 
-
-
 <br><br>
+{% include give-feedback.html %}
+
 <div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>
 

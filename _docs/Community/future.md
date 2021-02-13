@@ -162,7 +162,8 @@ order: 4
  </details>
 <br>
 
-
 <br><br>
+{% include give-feedback.html %}
+
 <div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>
 
