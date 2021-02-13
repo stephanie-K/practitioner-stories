@@ -4,7 +4,12 @@ category: Community
 order: 3
 ---
 
-<div class="item-nav"><span><a href="/practitioner-stories/Community/intro">Back to the Introduction for this theme</a></span><span><a href="/practitioner-stories/Community/general">Go to the General insights</a></span></span><span><a href="/practitioner-stories/Community/future">Go to the Future</a></span></div>
+<div class="item-nav">
+<h2>Navigate this theme</h2>
+   <p><span><a href="/practitioner-stories/Community/intro">Back to the Introduction</a></span></p>
+   <p><span><a href="/practitioner-stories/Community/general">Go to General insights</a></span></p>
+   <p><span><a href="/practitioner-stories/Community/future">Go to Future</a></span></p>
+</div>
 
 ## Need more people, more diverse and inclusive, more open
 
