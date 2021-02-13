@@ -6,7 +6,6 @@ order: 1
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/Community/SD-community.png)
 
-<hr class="big">
 
 ## Related interview questions
 <blockquote class="alt">
@@ -23,7 +22,7 @@ Participants might have also mentioned it while answering other questions.
 
 ## Summary of findings
 
-<p><strong>In progress</strong></p>
+<p><span class="tag-alt">In progress</span></p>
 
 <hr class="big">
 
