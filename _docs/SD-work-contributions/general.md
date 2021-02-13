@@ -324,6 +324,7 @@ order: 2
  <ul>
     <li>Some people were interested and surprised that we‘re doing that kind of work, doing this amount of user research and trying to design something that works for them. Some people were quite enthusiastic about that</li>
     <li>Doing it [the SD] way will mean a stronger engagement</li>
+    </ul>
  </details>
   <details>
  <summary>Involvement = empathy + ownership + passion</summary>
