@@ -89,5 +89,4 @@ We are 3 service designers living and working in Scotland passionate about our p
 <!--
 <p><a href="" target="_blank"></a></p>
 <a href="" target="_blank"></a>
-
 -->
