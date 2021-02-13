@@ -44,7 +44,6 @@ order: 3
  </ul>
  </details>
 <br>
-
 <p style="margin-bottom: 0">Other insights:</p>
 - Inequality between the third sector and the public sector
 - pushing service design into a broken system
@@ -71,7 +70,6 @@ Not enough designers
  </ul>
  </details>
  <br>
-
  Small budget for design
   <details>
  <summary>Design is expensive</summary>
@@ -86,9 +84,7 @@ Not enough designers
     <li>The perceived time and cost of learning a new skill for some group that would be people who might be up-skilling or they would need up-skill if they want to deploy service design so I think there is a cost in time and actual money</li>
  </ul>
  </details>
- <br>
-
-
+<br>
 #### Lack of coordination
 
 Lack of collaboration
@@ -111,7 +107,6 @@ Lack of collaboration
  </ul>
  </details>
  <br>
-
  Lack of coordination
   <details>
  <summary>Having the right resources but don‘t know how to bring them together</summary>
@@ -126,7 +121,6 @@ Lack of collaboration
  </ul>
  </details>
  <br>
-
 Lack of design leadership
    <details>
  <summary>Skill to Commission leadership is missing</summary>
@@ -140,7 +134,6 @@ Lack of design leadership
     <li>But because there is no one there, like above us, able to steer the decision making. It just becomes a little bit like a bonfire. The coordination is what is lacking in a lot of these projects</li>
  </ul>
  </details>
- <br>
 
 <hr class="big">
 
@@ -149,12 +142,11 @@ Lack of design leadership
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SDwork/SDwork-chall3.png)
 <p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333735898&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
 
-
 ### List of clusters of insights
 
 > Select one of the clusters of insights to see the quotes supporting it. Select it again to hide the quotes.
  
- #### Legacies
+#### Legacies
  <details>
  <summary>technology taken up possibilities and setting limitations for SD</summary>
  <ul>
@@ -168,7 +160,6 @@ Lack of design leadership
  </ul>
  </details>
 <br>
-
 #### Remote service design
   <details>
  <summary>Digital is not inclusive</summary>
@@ -184,7 +175,6 @@ Lack of design leadership
  </ul>
  </details>
 <br>
-
 #### Difficult getting people involved
 <p style="margin-bottom: 0">Two quotes:</p>
 - But getting all the stakeholders involved is going to be challenging
@@ -236,7 +226,6 @@ Lack of design leadership
  </ul>
  </details>
 <br>
-
 #### Gaps in the understanding of implementating service design
 Focus on digital service design
  <details>
@@ -279,7 +268,6 @@ Focus on digital service design
  </ul>
  </details>
 <br>
-
 Lack of awareness of service design
   <details>
  <summary>Don't understand the process</summary>
@@ -301,7 +289,6 @@ Lack of awareness of service design
  </ul>
  </details>
 <br>
-
 Being stuck, not pushing until the end
   <details>
  <summary>Not enough SD at policy level</summary>
@@ -323,7 +310,6 @@ Being stuck, not pushing until the end
  </ul>
  </details>
 <br>
-
 #### Wrong expectations to SD
  <details>
  <summary>Expectations: a good facilitator can solve any problem</summary>
@@ -400,7 +386,6 @@ Being stuck, not pushing until the end
  </ul>
  </details>
 <br>
-
 #### SD want to be special
  <details>
  <summary>Trying to be different</summary>
@@ -427,7 +412,6 @@ Being stuck, not pushing until the end
  </ul>
  </details>
 <br>
-
 #### Job titles
  <details>
  <summary>SD beyond SD title</summary>
@@ -452,7 +436,6 @@ Being stuck, not pushing until the end
  </ul>
  </details>
 <br>
-
 #### Inconsistency and confusion about SD
  <details>
  <summary>All or nothing attitude</summary>
@@ -489,7 +472,6 @@ Being stuck, not pushing until the end
  </details>
 <br>
 
-
 <hr class="big">
 
 ## Gaps in how we procure service design
@@ -522,7 +504,6 @@ Being stuck, not pushing until the end
  </ul>
  </details>
 <br>
-
 #### How we hire service designers
  <details>
  <summary>Not enough people doing SD</summary>
@@ -588,7 +569,6 @@ Reducing service design to its methods and process
  </ul>
  </details>
 <br>
-
 De-professionalising service design
  <details>
  <summary>Anyone can service design</summary>
@@ -604,7 +584,6 @@ De-professionalising service design
  </ul>
  </details>
  <br>
-
 #### Mis-using service design
  <details>
  <summary>SD being commodified</summary>
@@ -625,7 +604,6 @@ De-professionalising service design
  </ul>
  </details>
 <br>
-
 #### Service design being too utopian
 
 One quote: That makes me think about service design as an industry, is it maybe too utopian? When we say we move into that space of people and environment? We are not going to solve climate crisis by ourselves, we’re not expert in this. That is just something I’ve been thinking about for a while. You know, climate crisis, human rights, sustainability, and it’s not don’t we are doing “how might we solve the climate crisis or racism” [haha] it‘s long time work.
