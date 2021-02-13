@@ -43,7 +43,6 @@ order: 3
     <li> [third sector organisations] are consistently pushed back from public sector organisations, say why we need to support this person. There’s a massive issue with evidence</li>
  </ul>
  </details>
-<br>
 <p style="margin-bottom: 0">Other insights:</p>
 - Inequality between the third sector and the public sector
 - pushing service design into a broken system
@@ -84,9 +83,8 @@ Not enough designers
     <li>The perceived time and cost of learning a new skill for some group that would be people who might be up-skilling or they would need up-skill if they want to deploy service design so I think there is a cost in time and actual money</li>
  </ul>
  </details>
-<br>
-#### Lack of coordination
 
+#### Lack of coordination
 Lack of collaboration
  <details>
  <summary>Many different department doing the same thing but not talking to each other</summary>
@@ -106,7 +104,7 @@ Lack of collaboration
     <li>The biggest barrier is silos, really. I mean I have thought I‘ve worked in large organisations in the past but [this organisation] is just extreme, [...] it‘s like a franchise. You‘ve got your [service area] and the [organisation's] logo is above the door. You‘re part of the [organisation] but people really feel they are not. And that is partly just because of the size of the institution. It‘s massive. It‘s huge</li>
  </ul>
  </details>
- <br>
+
  Lack of coordination
   <details>
  <summary>Having the right resources but don‘t know how to bring them together</summary>
@@ -120,7 +118,7 @@ Lack of collaboration
     <li>And actually, sometimes I think we have too many people in the way. It‘s like too many cooks, too many different opinions and no alignment in them</li>
  </ul>
  </details>
- <br>
+
 Lack of design leadership
    <details>
  <summary>Skill to Commission leadership is missing</summary>
@@ -159,7 +157,7 @@ Lack of design leadership
     <li>Last year I had a beautiful experience with a third sector organisation, who asked me to come in to embed user research functionality in their team and that was a discussion and a negotiation [...] I could never have done that if I was replying to something on a framework somewhere. I think this doesn't happen enough. The way people answer to tenders could be done in a different way to start to introduce ‘this is how I work’, this is how we work. Because people need turn around, especially with agencies, there is probably not enough space to take that risk, but that's the other it could happen is the way to respond: "the way you're proposing doesn't feel good to us, because it doesn't include you in the process" or something on the citizen side doesn't feel good, but that can be really risky with rigid frameworks</li>
  </ul>
  </details>
-<br>
+
 #### Remote service design
   <details>
  <summary>Digital is not inclusive</summary>
@@ -174,7 +172,7 @@ Lack of design leadership
     <li>I think Zoom is fantastic. But then you get to a client says: ‘no, can't use Zoom , have to use Teams. Now, Teams is the Devil's interface, but you got to make it work. Yesterday afternoon, we were on Teams, and it was... the last couple of weeks, I've been tearing my head around. You know, I can't do breakout rooms, how do we do it? It went fine, it was great.  And you have to figure out that...  I end up buying books like this [book on teams],  you know which [laughter]  So you have to, all the time you're learning  what works what doesn't work you figure out how Mural works, and then the client says: you know, they just Got up to speed with Teams,  you can't introduce anything else that is more complicated   than that.  Ok... so let’s find  a middle ground, something that is easier.  We did a Padlet yesterday, that worked fine. So you know, so we're kind of doing one step at a time.  In a few weeks, they'll be using Mural like pros, but not quite at the moment</li>
  </ul>
  </details>
-<br>
+
 #### Difficult getting people involved
 <p style="margin-bottom: 0">Two quotes:</p>
 - But getting all the stakeholders involved is going to be challenging
@@ -225,14 +223,13 @@ Lack of design leadership
     <li>I am always expected to do discovery work and then hand over. But I am a service designer, I am not a user researcher. So I design things and, ideally, I also oversee some of the delivery, and then again, learn from it. If not, I don’t develop. The engineers have that option. They build, they implement, they learn, the build, they implement. But I am stuck at the discovery phase. So it’s something that service design has become known for and it’s great, but now we’re overdoing it. I’m just like running around, doing user research, and then handing over to engineers who build. And it’s not like-- people understand the double diamond in a way where one discipline is responsible for one part. So service design is the discovery, User Interface design is the prototyping, and then the engineers build, and then product management does delivery. And that is absolutely nowhere close to how this was ever meant to work. It’s very difficult to do. I think we need to do more design work and more implementing it, and even patterns, cause I am not doing anything else</li>
  </ul>
  </details>
-<br>
+
 #### Gaps in the understanding of implementating service design
 Focus on digital service design
  <details>
  <summary>Digital is not always the solution</summary>
  <ul>
     <li>People really focusing on that digital will change the way people do things it needs to maybe be presented as a conversation rather than a definitive set of tools. So, I think that causes a bit of a barrier sometimes. [...] Another thing is the major focus on digital within service design. I find that a major barrier and a gap because that's not my background. And I find often that digital is not always the solution, and that often it is around ways of working and culture, so I think that really holds us back including in our community and how we talk about things. [...] My skill set brings a different kind of positives, I need some more about team mentality and not just focus on digital</li>
-    <li></li>
  </ul>
  </details>
   <details>
@@ -241,7 +238,7 @@ Focus on digital service design
     <li>Scottish government, where all the employed service designers are asked to put on digital transformation or social security, but we do not all fit in those boxes and we should be employed based on our skillset and what is actually needed</li>
  </ul>
  </details>
-<br>
+
  Understanding of discipline and value is missing
   <details>
  <summary>Lack of understanding of what user experience is</summary>
@@ -267,7 +264,7 @@ Focus on digital service design
     <li>If an engineer says ‘ I think the platform should be built this way’, Then usually someone will go ‘Omg, you are an engineer, I could never have an opinion on your great expertise that is so specific and professional. So just tell me what to do so I can enable you to do this work’. And this does not happen to me. I always wonder, you know, what is the actual thing that makes it happen for them and not for me. And I go through cycles of just thinking that it is the way we are set up, the way design language can sound arrogant to people, whereas engineering is a specialist skill somehow in people’s minds... so I think there is various issues, there is also gender and things like that, and there’s strength in numbers cause there’s 30 of them. But I think that is really interesting, and I think if we have to re-professionalise ourselves somehow and take inspiration from some of this other people that are managing to build and implement in these organisations, and are really respected for it</li>
  </ul>
  </details>
-<br>
+
 Lack of awareness of service design
   <details>
  <summary>Don't understand the process</summary>
@@ -309,7 +306,7 @@ Being stuck, not pushing until the end
     <li>My big bugbear with these stuck organisations, [...] they don't really push the best practice, or at least this type of thinking. I say that because years ago with participatory budget (PB), [the] officer leading knew nothing. They were not sure they could trust the community with money. You think there is somebody there who don't quite understand PB at all and yet best practice has been here for 8 months, 2 years and you think, wow! that ignorance is detrimental to you own organisation and never mind the people you serve</li>
  </ul>
  </details>
-<br>
+
 #### Wrong expectations to SD
  <details>
  <summary>Expectations: a good facilitator can solve any problem</summary>
@@ -385,7 +382,7 @@ Being stuck, not pushing until the end
     <li>They lack the sort of people's skills. [...] onboarding other people who are not designers, sometimes they will talk in a way that is too robotic or too jargon-based to other people in the business, and that can be a blocker. I think I'm better at it. It's just  knowing the team and the audience. But if they were to speak to [another] service designer they hadn't met face-to-face, they haven't had the relationship build up and they automatically say, "we are going to do some customer journey mapping, or service blueprinting", and that colleague didn't know what that was,  if they have the relationship with me I can say ok, so that's what this is and I'll explain it a little bit better, and we'll just get on with it. So I think if this relationship falls down, they will forget that this person they are speaking to might not know this tool or that method or the reason for doing something and that can be an issue</li>
  </ul>
  </details>
-<br>
+
 #### SD want to be special
  <details>
  <summary>Trying to be different</summary>
@@ -400,7 +397,7 @@ Being stuck, not pushing until the end
  </ul>
  </details>
   <details>
- <summary>Impostor syndrom</summary>
+ <summary>Impostor syndrome</summary>
  <ul>
     <li>Being a board member, I had mega impostor syndrom about joining, cause I genuinely was looking around the room going like ‘what do I actually know’, and I forget that I actually have done a lot of stuff and know a different way of seeing the world. But I was actually looking around the room and going ‘aahhh’, They have got like a degree in law, and there’s like a lord of something, and then this person is like an absolute expert.. And I am going, ‘so, yeah, we could probably like map like how people [use the service]’ but nobody has thought that way. [...] I try to remind myself that I come with a perspective of seeing the world [unlike the] others</li>
  </ul>
@@ -411,7 +408,7 @@ Being stuck, not pushing until the end
     <li>Service design has long been a discipline that loves to describe itself</li>
  </ul>
  </details>
-<br>
+
 #### Job titles
  <details>
  <summary>SD beyond SD title</summary>
@@ -425,17 +422,17 @@ Being stuck, not pushing until the end
     <li> I think job titles are awful, I think some of the best people doing the service design and designing services were not trained as designers and were not necessarily given that title and it's taken them a long time to get that title. Job titles are a massive blocker</li>
     <li> sometime we can get tied up in trying to define things of who is a designer who is not a service designer, have you been trained, are you a good one or a bad one, tell me your approach,     Sometimes we can be a bit tied up in you know: what is that, how do you define yourself? if your title is not service designer, does that matter?</li>
     <li> Any kind of person, that is doing any kind of work that is human-centred is of value. So, what I want to do is get my team in a position of being advocates for those. Whatever you do, just think of it in a human-centred way. That’s kind of what are starting to talk about. But we have not figured out how to make this a nice job title. So, I‘m still being called the user experience manager</li>
-    <li>job titles is a massive barrier especially in the 3rd sector, people are called things like learning officer for example, so people would not go to them because of this title, but they are in fact doing service design</li>
+    <li>Job titles is a massive barrier especially in the 3rd sector, people are called things like learning officer for example, so people would not go to them because of this title, but they are in fact doing service design</li>
  </ul>
  </details>
   <details>
  <summary>Intangible design work is difficult to show</summary>
  <ul>
     <li>[...] Although my title is Product Designer, I meet weekly with a team of user researchers and services designers. We have a community of practice around service design, so that really keeps me involved in service design projects. The title is one thing, and yes I do a lot of digital design, and design of applications, but I'm heavily involved in service design</li>
-    <li>workshops [...] with different partners or user journey or service blueprint, work I've done that's not tangible. It's not something that I can go and say "look at that pretty bit of portfolio"</li>
+    <li>Workshops [...] with different partners or user journey or service blueprint, work I've done that's not tangible. It's not something that I can go and say "look at that pretty bit of portfolio"</li>
  </ul>
  </details>
-<br>
+
 #### Inconsistency and confusion about SD
  <details>
  <summary>All or nothing attitude</summary>
@@ -503,13 +500,13 @@ Being stuck, not pushing until the end
     <li>I think the other challenge that we've got is: we procure badly, it's very different, I mean it's not a criticism of the procurement approach that are taken, it's more a criticism about how we have to procure at the moment, and we have not necessarily addressed something like service qualities [as opposed to a functional requirement ...  accessibility for example is a service quality] it's a quality attribute, we don't really deal with things like that very well</li>
  </ul>
  </details>
-<br>
+
 #### How we hire service designers
  <details>
  <summary>Not enough people doing SD</summary>
  <ul>
     <li>[Our organisation] has very few service designers. You rely on that core team. If I was to leave, or if someone was to be suddenly unavailable, then the rest of the team who have a basic grasp of the tools and methods and managing processes would probably suffer without having a permanent designer in place. Someone who keeps an overview. You can easily slip back into doing things in the old way</li>
-    <li>bodies on the ground is quite a problem</li>
+    <li>Bodies on the ground is quite a problem</li>
  </ul>
  </details>
   <details>
@@ -552,7 +549,7 @@ Reducing service design to its methods and process
  <summary>Service design is just UX</summary>
  <ul>
     <li>I was quite of candid earlier in one of my answers about the de-evolution of service design into a lot of workshops and stuff. [...]. I guess I’ve got onto places where they’ve been like, we’ve already done this before, [or] we’ve done the SAtSD and it didn’t work. And I was like, ‘well, tell me what you did’, and ‘we run this workshop, we held this workshops with young people, and we did this’ and I was like ‘what did you design?’ Did you have any interaction designers with you? Was there any developers to help?  I think SD is sometimes is too focused on the UX, the sexy thing, and it is not reeling down to... Like a lot of our work is actually really dull. The kind of... well it’s not dull, we can tell a good story about it, but you know</li>
-    <li>a service isn’t just the user experience, which is where service design unfortunately lays most of its stuff. There’s full-stack service design, so there’s all these things that are beneath the surface, that power... design decisions, accidentally, that make up the experience, and that’s like policy design, financial models, procurement, technical stack decisions, organisational charts... they are all designs, and I think that often forgotten [...] full-stack service design, is a nice way of seeing the world, of helping anybody in the organisation see they are part of the user experience. Even if you work in the, you know, procurement team, you make decisions around procurement, technology...</li>
+    <li>A service isn’t just the user experience, which is where service design unfortunately lays most of its stuff. There’s full-stack service design, so there’s all these things that are beneath the surface, that power... design decisions, accidentally, that make up the experience, and that’s like policy design, financial models, procurement, technical stack decisions, organisational charts... they are all designs, and I think that often forgotten [...] full-stack service design, is a nice way of seeing the world, of helping anybody in the organisation see they are part of the user experience. Even if you work in the, you know, procurement team, you make decisions around procurement, technology...</li>
  </ul>
  </details>
   <details>
@@ -568,7 +565,7 @@ Reducing service design to its methods and process
     <li>I kind of get really sick of the double diamond, without being disrespectful. I’m not sick of it, I use it actually, It’s very useful as a mental model. But what it inferes is that you do service design and then it is done</li>
  </ul>
  </details>
-<br>
+
 De-professionalising service design
  <details>
  <summary>Anyone can service design</summary>
@@ -583,7 +580,7 @@ De-professionalising service design
     <li>When you see service design training, I often think that it’s way too simple, it’s kind of like ‘do some storyboarding, now come up with an idea’. That’s not how life works, really. I think we just need to kind of mature our narrative around what the role service design is and what designers are in businesses, organisations, and systems. So great evolution, but de-evolutioning a little bit towards the end of that. But that’s natural and it happens across every practice, so I am not really overly critical, it’s just I really take this stuff quite seriously and want to make sure that we are really matured and more respected</li>
  </ul>
  </details>
- <br>
+
 #### Mis-using service design
  <details>
  <summary>SD being commodified</summary>
@@ -603,11 +600,10 @@ De-professionalising service design
     <li>I think it is a real danger with service design that actually it is pushed into this space of Design for Good and we tackle a lot of things that are quite complex and beyond the capability and capacity of service designer. And then we start working in spaces and having big unintended consequences because you have not really understood the complexity</li>
  </ul>
  </details>
-<br>
+
 #### Service design being too utopian
 
 One quote: That makes me think about service design as an industry, is it maybe too utopian? When we say we move into that space of people and environment? We are not going to solve climate crisis by ourselves, we’re not expert in this. That is just something I’ve been thinking about for a while. You know, climate crisis, human rights, sustainability, and it’s not don’t we are doing “how might we solve the climate crisis or racism” [haha] it‘s long time work.
-
 
 #### Designer's having own biases
 <p style="margin-bottom: 0">Two quotes:</p>

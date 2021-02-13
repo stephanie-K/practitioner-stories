@@ -61,7 +61,6 @@ order: 2
     <li>What is the meaning of UX? The [organisation] has taken design relatively seriously or at least we are exploring it quite carefully</li>
  </ul>
  </details>
-<br>
 
 #### Project and team strategy
  <details>
@@ -96,7 +95,6 @@ order: 2
     <li>I just coach [the rest of my team] in the way I’ve been coached, from a service design and community perspective, and try to push for those. I think they find that quite refreshing. It’s just a different way of thinking [...] the way I line manage, coach, [and] support my team [...] Listening and learning from them. That empathy to interaction, I guess</li>
  </ul>
  </details>
-<br>
 
 #### Evidence-based approach
  <details>
@@ -124,7 +122,6 @@ order: 2
     <li>[Taking every] opportunity to get some feedback from colleagues [as] part of that thinking process</li>
  </ul>
  </details>
-<br>
 
 #### Connecting things and people
  <details>
@@ -154,7 +151,6 @@ order: 2
     <li>[When I started leading the team] we started to look at other lean reviews for the best way forward because they were quite paper heavy and hard work for people to get into</li>
  </ul>
  </details>
-<br>
 
 #### Improving processes and systems
  <details>
@@ -164,7 +160,7 @@ order: 2
  </ul>
  </details>
   <details>
- <summary>identifying patterns, simplifying systems</summary>
+ <summary>Identifying patterns, simplifying systems</summary>
  <ul>
     <li> Things like booking an appointment happens over and over again, every single day in many different places. So if we actually [...] sort out how does that work well for a [user], for staff, for the system so that all three get a good deal out of this, and we back that up with the software we design, [and] the data we need. [...] this is a massive potential</li>
     <li>[when] I took over the team [...] we started to look at other lean reviews for the best way forward because they were quite paper heavy and hard work for people to get into</li>
@@ -177,7 +173,6 @@ order: 2
  </ul>
  </details>
 <br>
-
 
 <hr class="big">
 
@@ -235,7 +230,6 @@ order: 2
     <li>Then we kind of grown it and realised the accessibility of service design compared to the Lean stuff</li>
  </ul>
  </details>
-<br>
 
 #### Better services built on user insights
  <details>
@@ -256,13 +250,6 @@ order: 2
     <li>Presenting any findings, whether that are blueprints or user journeys, to make change happen or to provoke conversation at senior management level. [...] and for people to listen those  recommendations or prototypes or whatever else</li>
  </ul>
  </details>
-  <details>
- <summary></summary>
- <ul>
-    <li></li>
- </ul>
- </details>
-<br>
 
 #### Citizen participation
  <details>
@@ -284,7 +271,6 @@ order: 2
     <li> Its contribution to the civic sphere is that it engages people. [...] service design is a means  to fundamentally [...] about shifting democracy into something that is more participative. [...] A practical approach to participative democracy, that's always where I saw that design had [...] the potential to involve citizens in a participatory way in how the world is constructed and how it serves them</li>
  </ul>
  </details>
-<br>
 
 #### Engagement and collaboration
  <details>
