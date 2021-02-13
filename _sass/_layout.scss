@@ -559,3 +559,18 @@ summary {
 	padding: 0.5rem 2rem;
 	margin: 1rem 0;
 }
+
+
+details.feedback {
+
+	summary {
+		border-color: $brand-colour-alt;
+		background-color: $brand-colour-light-alt;
+		color:#1a1a1a;
+		padding: 2rem;
+	}
+
+ 	div{
+		background-color: $brand-colour-light-alt;
+	}
+}
