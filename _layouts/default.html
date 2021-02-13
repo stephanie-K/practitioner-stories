@@ -56,7 +56,18 @@
 					</li>
 				</ul>
 
-				<details class="navigation">
+				<p><strong>Insights from the 5 themes</strong></p>
+
+				<ul style="background-color: #f1f7f8;">
+				{% assign grouped = site.docs | group_by: 'category' %}
+				{% for group in grouped %}
+					<li class="nav-item top-level">
+						<a href="{{ site.baseurl }}{{ items.first.url }}">{{ group.name }}</a>
+					</li>
+				{% endfor %}
+				</ul>
+				
+				<!--details class="navigation">
 					<summary>Insights from the 5 themes</summary>
 					<ul>
 					{% assign grouped = site.docs | group_by: 'category' %}
@@ -72,7 +83,7 @@
 						</li>
 					{% endfor %}
 					</ul>
-				</details>
+				</details-->
 
 				<!--ul style="background-color: #f1f7f8; border-bottom: solid 4px#73aeb8;">
 					{% assign grouped = site.docs | group_by: 'category' %}
