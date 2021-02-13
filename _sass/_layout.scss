@@ -258,7 +258,7 @@ nav > ul {
 	> a {
 		color: #333;
 		text-decoration: none;
-		font-size: 1.4rem;
+		font-size: 1.6rem;
 		padding: $space / 2 0 $space / 2 $space * 2;
 		display: block;
 	}
@@ -581,10 +581,9 @@ details.feedback {
 details.navigation {
 
 	summary {
-		background-color: $brand-colour-light-alt;
 		color:#333;
 		font-weight: 600;
-		font-size: 1.4rem;
+		font-size: 1.6rem;
 	}
 
  	ul {
