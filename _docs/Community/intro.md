@@ -21,7 +21,7 @@ Participants might have also mentioned it while answering other questions.
 <hr class="big">
 
 ## Summary of findings
-
+<br><br>
 <p><span class="tag-alt">In progress</span></p>
 
 <hr class="big">
