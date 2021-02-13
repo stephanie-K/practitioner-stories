@@ -4,7 +4,7 @@ category: Skills and learning
 order: 1
 ---
 
-![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/skills-learning.png)
+![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/skills-learning/skills-learning.png)
 
 
 ## Related interview questions

@@ -4,7 +4,7 @@ category: Working with people
 order: 1
 ---
 
-![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/working-with-people.png)
+![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/working-with/working-with-people.png)
 
 ## Related interview questions
 <blockquote class="alt">

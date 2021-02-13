@@ -4,7 +4,7 @@ category: SD work and contributions
 order: 1
 ---
 
-![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/contributions.png)
+![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SDwork/SDwork-all.png)
 
 ## Related interview questions
 <blockquote class="alt">
