@@ -34,7 +34,7 @@ Connect on <a href="https://www.linkedin.com/in/serena-n%C3%BCsing-543295173/" t
 
 ## Stéphanie Krus
 
-She works for Scottish Enterprise as a service designer. She came to Scotland 16 years ago. Her background is in Teaching and computing initially. She studied UX design online but never really studied Service Design as such, She has learned by doing on the job in previous roles in a Council and at the Ministry of Justice.
+She works for Scottish Enterprise as a service designer. She came to Scotland 16 years ago. Her background is in teaching and computing initially. She studied UX design online but never really studied service sesign as such, She has learned by doing on the job in previous roles in a council and at the Ministry of Justice.
 
 <p><image src="/practitioner-stories/images/photoSK.png"  width="200" height="200" style="vertical-align:middle; border-radius: 100%" alt="profile photo for Stéphanie"></image></p>
 
