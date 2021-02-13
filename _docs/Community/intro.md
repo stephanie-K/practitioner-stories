@@ -23,10 +23,12 @@ Participants might have also mentioned it while answering other questions.
 
 <hr class="big">
 
-## How the data is grouped
-- [General insights](/practitioner-stories/Community/general)
-- [Challenges](/practitioner-stories/Community/challenges)  
-- [Future and aspirations](/practitioner-stories/Community/future)
+## Navigate the groups of data for this theme
+<div class="item-nav">
+   <p><span><a href="/practitioner-stories/Community/general">Go to General insights</a></span></p>
+   <p><span><a href="/practitioner-stories/Community/challenges">Go to Challenges</a></span></p>
+   <p><span><a href="/practitioner-stories/Community/future">Go to Future</a></span></p>
+</div>
 
 
 <br><br>
