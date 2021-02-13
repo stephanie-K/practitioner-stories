@@ -234,7 +234,7 @@ nav p {
 }
 
 nav > ul {
-	padding: $space / 2 0;
+	//padding: $space / 2 0;
 
 	& + ul {
 		border-top: 1px solid rgba(0, 0, 0, 0.075);
@@ -576,4 +576,18 @@ details.feedback {
 		padding: 10px 15px;
 	}
 	margin-bottom: 2rem;
+}
+
+details.navigation {
+
+	summary {
+		background-color: $brand-colour-light-alt;
+		color:#333;
+		font-weight: 600;
+		font-size: 1.4rem;
+	}
+
+ 	ul {
+		background-color: #f1f7f8;
+	}
 }

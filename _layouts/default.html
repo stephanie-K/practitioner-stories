@@ -55,7 +55,10 @@
 						<a href="https://stephanie-k.github.io/practitioner-stories/how-to">How to use this website</a>
 					</li>
 				</ul>
-				<ul style="background-color: #f1f7f8; border-bottom: solid 4px#73aeb8;">
+
+				<details class="navigation">
+					<summary>Insights from the 5 themes</summary>
+					<ul>
 					{% assign grouped = site.docs | group_by: 'category' %}
 					{% for group in grouped %}
 						<li class="nav-item top-level">
@@ -68,9 +71,25 @@
 							</ul>
 						</li>
 					{% endfor %}
-				</ul>
+					</ul>
+				</details>
 
-				<ul>
+				<!--ul style="background-color: #f1f7f8; border-bottom: solid 4px#73aeb8;">
+					{% assign grouped = site.docs | group_by: 'category' %}
+					{% for group in grouped %}
+						<li class="nav-item top-level">
+							{% assign items = group.items | sort: 'order' %}
+							<a href="{{ site.baseurl }}{{ items.first.url }}">{{ group.name }}</a>
+							<ul>
+								{% for item in items %}
+									<li class="nav-item {% if item.url == page.url %}current{% endif %}"><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
+								{% endfor %}
+							</ul>
+						</li>
+					{% endfor %}
+				</ul-->
+
+				<ul style="border-top: solid 4px#73aeb8;">
 					<li class="nav-item top-level {% if page.url == '/changelog/' %}current{% endif %}">
 						{% assign changelog = site.html_pages | where: 'url', '/changelog/' | first %}
 						<a href="{{ site.baseurl }}/changelog/">{{ changelog.title }}</a>
