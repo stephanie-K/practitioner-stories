@@ -33,7 +33,13 @@ Participants might have also mentioned it while answering other questions.
 
 ### On the website
 
-<p><span class="tag-alt">Coming soon</span></p>
+<div class="item-nav">
+   <p><span><a href="/practitioner-stories/SD-work-contributions/general">Go to General</a></span> <span class="tag-alt">Coming soon</span></p>
+   <p><span><a href="/practitioner-stories/SD-work-contributions/challenges">Go to Challenges</a></span> <span class="tag-alt">Coming soon</span></p></p>
+   <p><span><a href="/practitioner-stories/SD-work-contributions/future">Go to Future</a></span></p>
+</div>
+
+
 
 <br><br>
 {% include give-feedback.html %}

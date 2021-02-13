@@ -1,16 +1,15 @@
 ---
-title: 
-category: 
-order: 
+title: General
+category: SD work and contributions
+order: 2
 ---
 
 
 <div class="item-nav">
-<h2>Navigate the Service Design Community in Scotland theme</h2>
-   <p><span><a href="/practitioner-stories/Category/intro">Back to the Introduction</a></span></p>
-   <p><span><a href="/practitioner-stories/Category/general">Go to General</a></span></p>
-   <p><span><a href="/practitioner-stories/Category/challenges">Go to Challenges</a></span></p>
-   <p><span><a href="/practitioner-stories/Category/future">Go to Future</a></span></p>
+<h2>Navigate the Service Design Work and contributions theme</h2>
+   <p><span><a href="/practitioner-stories/SD-work-contributions/intro">Back to the Introduction</a></span></p>
+   <p><span><a href="/practitioner-stories/SD-work-contributions/challenges">Go to Challenges</a></span></p>
+   <p><span><a href="/practitioner-stories/SD-work-contributions/future">Go to Future</a></span></p>
 </div>
 
 <hr class="big">
@@ -19,7 +18,7 @@ order:
 ## title of high level group
 
 
-![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/Category/)
+![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SDwork/)
 <p><a href="" target="_blank">Access the part of the Miro Board represented in the image</a></p>
 
 ### List of clusters of insights
@@ -42,8 +41,9 @@ order:
 
 ## other big group
 
-![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/Category/)
+![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SDwork/)
 <p><a href="" target="_blank">Access the part of the Miro Board represented in the image</a></p>
+
 
 ### List of clusters of insights
 
