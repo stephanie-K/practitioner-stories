@@ -4,6 +4,16 @@ category: SAtSD
 order: 3
 ---
 
+<div class="item-nav">
+<h2>Navigate the SAtSD theme</h2>
+   <p><span><a href="/practitioner-stories/SAtSD/intro">Back to the Introduction</a></span></p>
+   <p><span><a href="/practitioner-stories/SAtSD/general">Go to General insights</a></span></p>
+   <p><span><a href="/practitioner-stories/SAtSD/challenges">Go to Challenges</a></span></p>
+   <p><span><a href="/practitioner-stories/SAtSD/future">Go to Future</a></span></p>
+</div>
+
+<hr class="big">
+
 ## Benefits of the SAtSD
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SAtSD/satsd-gen2.png)
