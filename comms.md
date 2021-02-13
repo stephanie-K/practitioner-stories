@@ -39,7 +39,7 @@ For now, just two, to explain the big Miro board
 <ul>
     <li>see the <a href="https://github.com/stephanie-K/practitioner-stories/blob/main/images/workshop/Workshop1-grouping-of-work-on-the-day.pdf" target="_blank">work on the day as a PDF here</a></li>
     <li><a href="https://miro.com/app/board/o9J_lZxZWng=/?moveToWidget=3074457354020152297&amp;cot=14" target="_blank">look at the Miro board for it</a> (open for comments)</li>
-    <li><a href="https://docs.google.com/presentation/d/1nRsB4Xs8C_v5SZ5gh32ORcHJs2aH-x-00x7zZB7jadw/edit?usp=sharing" target="_blank">see the summary as Google slides</li>
+    <li><a href="https://docs.google.com/presentation/d/1nRsB4Xs8C_v5SZ5gh32ORcHJs2aH-x-00x7zZB7jadw/edit?usp=sharing" target="_blank">see the summary as Google slides</a></li>
     <li>or go through the slides below</li>
 </ul>
 
