@@ -21,7 +21,7 @@ Participants might have also mentioned it while answering other questions.
 <hr class="big">
 
 ## Summary of findings
-<br><br>
+<br>
 <p><span class="tag-alt">In progress</span></p>
 
 <hr class="big">
@@ -30,7 +30,7 @@ Participants might have also mentioned it while answering other questions.
 
 ### On Miro
 
-<p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333741365&cot=14" target="_blank">See the Community theme on Miro Board</a></p>
+<p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333741365&cot=14" target="_blank">See the "<strong>Community</strong>" theme on Miro Board</a></p>
 
 ### On the website
 
@@ -40,6 +40,6 @@ Participants might have also mentioned it while answering other questions.
    <p><span><a href="/practitioner-stories/Community/future">Go to Future</a></span></p>
 </div>
 
-
+{% include give-feedback.html %}
 <br><br>
 <div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>

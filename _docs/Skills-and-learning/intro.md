@@ -5,13 +5,7 @@ order: 1
 ---
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/skills-learning.png)
-[Access the part of the Miro Board represented in the image](https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333741364&cot=14)
 
-<blockquote class="alt">
-  <p><strong>This website is a work in progress.</strong></p>
-</blockquote>
-
-<hr class="big">
 
 ## Related interview questions
 <blockquote class="alt">
@@ -26,12 +20,22 @@ Participants might have also mentioned it while answering other questions.
 
 <hr class="big">
 
-## How the data is grouped
-- [General findings](/practitioner-stories/Skills-and-learning/general) (**Not ready yet**)
-- [Challenges](/practitioner-stories/Skills-and-learning/challenges) (**Not ready yet**)
-- [Future and aspirations](/practitioner-stories/Skills-and-learning/future) (**Not ready yet**)
+## Summary of findings
+<br>
+<p><span class="tag-alt">In progress</span></p>
+
+<hr class="big">
+
+## View the analysis, clusters and quotes
+
+### On Miro
+
+<p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333741364&cot=14" target="_blank">See the "<strong>Skills and learning</strong>" theme on Miro Board</a></p>
+
+### On the website
 
 <p><span class="tag-alt">Coming soon</span></p>
 
+{% include give-feedback.html %}
 <br><br>
 <div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>
