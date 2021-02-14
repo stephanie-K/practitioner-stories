@@ -2,10 +2,12 @@
 title: How to use this website
 ---
 
-<p>We are working on providing summaries of insights and analysis to make is easier for anyone interesed in this research to read about it but also to use it to explore further. <span class="tag-alt">not ready yet - work in progress</span></p>
+We are working on providing summaries of insights and analysis to make is easier for anyone interesed in this research to read about it but also to use it to explore further (not ready yet - work in progress).
 
 Initially, we used Medium Posts and Miro to share our research. **This website is an attempt to show it differently**.
 The functionalities are limited for now.
+
+<hr class="big">
 
 ## 5 Themes
 
@@ -20,11 +22,15 @@ For each theme, there are general insights and we have grouped the challenges se
 
 ![diagram illustrating how our data is structured on Miro](/practitioner-stories/images/categories.png)
 
+<hr class="big">
+
 ## Explore a theme
 
 In the navigation menu you can select a theme. You then land on the introduction page for it. From there, you can access the other pages: General, Challenges and Future.
 
 <img src="/practitioner-stories/images/navigation-explanation.png" alt="showing the 2 steps with screenshots of the website" style="border: solid 1px #ea6c4e">
+
+<hr class="big">
 
 ## Different level of detail
 
