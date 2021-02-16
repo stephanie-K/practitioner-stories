@@ -11,7 +11,7 @@ You can get in touch with us individually on the Service Design in Scotland Slac
 
 ## Angela F. Orviz
 
-She has a mixed background in engineering and innovation/service design. She has been in Scotland for 12 years, primarily working as an academic doing research and consultancy. Last year, she finished a PhD looking at how people in Public Sector learn and evaluate design. And now, she is trying to set-up a social enterprise, looking for work.
+She has a mixed background in engineering and innovation/service design. She has been in Scotland for 12 years, primarily working as an academic doing research and consultancy. Last year, she finished a PhD looking at how people in Public Sector learn and evaluate design.
 
 <p><image src="/practitioner-stories/images/photoAFO.jpeg"  width="200" height="200" style="vertical-align:middle; border-radius: 100%" alt="profile photo for Angela"></image></p>
 
@@ -34,7 +34,7 @@ Connect on <a href="https://www.linkedin.com/in/serena-n%C3%BCsing-543295173/" t
 
 ## Stéphanie Krus
 
-She works for Scottish Enterprise as a service designer. She came to Scotland 16 years ago. Her background is in teaching and computing initially. She studied UX design online but never really studied service sesign as such, She has learned by doing on the job in previous roles in a council and at the Ministry of Justice.
+She works for Scottish Enterprise as a service designer. She came to Scotland 16 years ago. Her background is in teaching and computing initially. She never really studied service design as such, but has learned by doing, in previous roles, in a council and at the Ministry of Justice.
 
 <p><image src="/practitioner-stories/images/photoSK.png"  width="200" height="200" style="vertical-align:middle; border-radius: 100%" alt="profile photo for Stéphanie"></image></p>
 
