@@ -14,6 +14,15 @@ order: 4
 
 <hr class="big">
 
+## Clusters of insights - quick access
+
+- [Service Design in communities](#service-design-in-communities)
+- [Impact of Covid](#impact-of-covid)
+- [Public and 3rd sector: integrating design and other aspirations](#public-and-3rd-sector-integrating-design-and-other-aspirations)
+- [How to overcome barriers](#how-to-overcome-barriers)
+
+<hr class="big">
+
 
 ## Service Design in communities
 

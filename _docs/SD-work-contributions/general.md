@@ -13,6 +13,15 @@ order: 2
 
 <hr class="big">
 
+## Clusters of insights - quick access
+
+- [What we do in public and third sector organisations](#what-we-do-in-public-and-third-sector-organisations)
+- [How we feel we contribute](#how-we-feel-we-contribute)
+- [How do designers work in public and third sector](#how-do-designers-work-in-public-and-third-sector)
+- [Motivations for being a designer](#motivations-for-being-a-designer)
+- [Impact of design on people](#impact-of-design-on-people)
+
+<hr class="big">
 
 ## What we do in public and third sector organisations
 
@@ -328,7 +337,7 @@ order: 2
 
 <hr class="big">
 
-## How do designers work in public and thrid sector
+## How do designers work in public and third sector
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SDwork/SDwork-gen3.png)
 <p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333740786&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>

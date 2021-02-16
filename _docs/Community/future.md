@@ -13,6 +13,14 @@ order: 4
 
 <hr class="big">
 
+## Clusters of insights - quick access
+
+- [The future of the Service Design Community](#the-future-of-the-service-design-community)
+- [What a community space could be](#what-a-community-space-could-be)
+- [Things we want to see happening in our community](#things-we-want-to-see-happening-in-our-community)
+
+<hr class="big">
+
 ## The future of the Service Design Community
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/Community/community-future.png)

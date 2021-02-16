@@ -13,6 +13,16 @@ order: 2
 
 <hr class="big">
 
+## Clusters of insights - quick access
+
+- [Who with? How big](#who-with-how-big)
+- [Networking - Events - Keeping in touch](#networking---events---keeping-in-touch)
+- [Sharing vs not sharing - What, Why and Where?](#sharing-vs-not-sharing---what-why-and-where)
+
+
+<hr class="big">
+
+
 ## Who with? How big?
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/Community/community-who-with.png)

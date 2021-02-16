@@ -13,6 +13,19 @@ order: 3
 
 <hr class="big">
 
+## Clusters of insights - quick access
+
+- [Relationship between the public and the third sector - an abysss between them](#relationship-between-the-public-and-the-third-sector---an-abysss-between-them)
+- [Identified lacks in projects, teams or organisations](#identified-lacks-in-projects-teams-or-organisations)
+- [Constraints to work with](#constraints-to-work-with)
+- [Barrier: low maturity of service design](#barrier-low-maturity-of-service-design)
+- [Barrier: how we talk and present service design](#barrier-how-we-talk-and-present-service-design)
+- [Gaps in how we procure service design](#gaps-in-how-we-procure-service-design)
+- [Gaps in applying service design approaches](#gaps-in-applying-service-design-approaches)
+
+
+<hr class="big">
+
 ## Relationship between the public and the third sector - an abysss between them
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SDwork/SDwork-chall1.png)

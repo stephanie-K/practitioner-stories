@@ -14,6 +14,15 @@ order: 4
 
 <hr class="big">
 
+## Clusters of insights - quick access
+
+- [The practical problems with SAtSD](#the-practical-problems-with-satsd)
+- [Barriers: organisational culture, mindset and environement](#barriers-organisational-culture-mindset-and-environement)
+    - [Service Design is new and unfamiliar](#list-of-clusters-of-insights--service-design-is-new-and-unfamiliar)
+    - [Current ways of working is blocking service design](#list-of-clusters-of-insights--current-ways-of-working-is-blocking-service-design)
+
+<hr class="big">
+
 ## The practical problems with SAtSD
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SAtSD/satsd-practical.png)

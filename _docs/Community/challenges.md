@@ -12,6 +12,15 @@ order: 3
 </div>
 
 <hr class="big">
+
+## Clusters of insights - quick access
+
+- [Need more people, more diverse and inclusive, more open](#need-more-people-more-diverse-and-inclusive-more-open)
+- [Lack of space for honesty](#lack-of-space-for-honesty)
+- [People are not sharing](#people-are-not-sharing)
+
+<hr class="big">
+
 ## Need more people, more diverse and inclusive, more open
 
 **Many participants expressed something around feeling rejected, having to chose a group, feeling that you need to put yourself out there in a goodlight, not feeling included or worthy. Can't be honest.**
