@@ -10,6 +10,7 @@ title: Communications
     <li><a href="https://stphaniekrus.medium.com/practitioner-stories-ffa3120ffd7f" target="_blank">Practitioner Stories</a> - 27 October 2020 by Stéphanie</li>
     <li><a href="https://practitionerstories.medium.com/stories-of-service-design-in-scotland-8f267710a2ba" target="_blank">Stories of Service Design in Scotland</a> - 12 January 2021 Collective</li>
     <li><a href="https://practitionerstories.medium.com/lots-of-feedback-and-ideas-thanks-to-a-busy-week-d18c02915b0a" target="_blank">Lots of feedback and ideas thanks to a busy week</a>  - 12 February 2021 Collective</li>
+    <li><a href="https://practitionerstories.medium.com/weve-launched-the-practitioner-stories-website-944e260e97ec" target="_blank">We’ve launched the Practitioner Stories website!</a>  - 16 February 2021 Collective</li>
 </ul>
 
 
