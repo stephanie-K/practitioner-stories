@@ -8,7 +8,7 @@ Be careful with spaces, one space can break it.
 
 
 # This is an H1 
-we don't need to use one as there is one for each page already
+We don't need to use one as there is one for each page already
 
 ## This an H2
 
@@ -20,9 +20,9 @@ we don't need to use one as there is one for each page already
 
 **this is bold text**
 
-_this is italic text but for accessibility, it's best not to use it_
+_This is italic text but for accessibility, it's best not to use it_
 
-[this is the text of a link which will open in the same tab](http://www.this-is-the-url-of-your-link.com)
+[This is the text of a link which will open in the same tab](http://www.this-is-the-url-of-your-link.com)
 
 - this is the first bullet point of a list
 - this is the second
