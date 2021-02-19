@@ -13,7 +13,7 @@ order: 3
 </div>
 
 
-<h2 class="top-line">Benefits of the SAtSD<h2 class="top-line">
+<h2 class="top-line">Benefits of the SAtSD</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SAtSD/satsd-gen2.png)
 <p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333740932&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>

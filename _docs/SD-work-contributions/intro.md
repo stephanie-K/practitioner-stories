@@ -17,15 +17,12 @@ order: 1
 
 Participants might have also mentioned it while answering other questions.
 
-<hr class="big">
-
-## Summary of findings
+<h2 class="top-line">Summary of findings</h2>
 <br>
 <p><span class="tag-alt">In progress</span></p>
 
-<hr class="big">
 
-## View the analysis, clusters and quotes
+<h2 class="top-line">View the analysis, clusters and quotes</h2>
 
 ### On Miro
 
@@ -39,10 +36,7 @@ Participants might have also mentioned it while answering other questions.
    <p><span><a href="/practitioner-stories/SD-work-contributions/future">Go to Future</a></span></p>
 </div>
 
-<hr class="big">
-
-
-### Workshop - Tuesday 2 February 2021 - Exploring contributions and challenges
+<h3 class="top-line">Workshop - Tuesday 2 February 2021 - Exploring contributions and challenges</h3>
 ![illustration — map of Scotland and in front 5 people with a jigsaw piece and miro board of activities for the workshop](/practitioner-stories/images/workshop/workshop1-banner.jpg)
 
 <ul>
