@@ -43,7 +43,7 @@ You can use both on the page you are creating but don't mix them within a paragr
 
 <p><a href="http://www.this-is-the-url-of-your-link.com" target="_blank">The text of my link which will open in a new tab</a></p>
 
-This is how to make the horizontal line
+This is how to make the horizontal line, but I might change this as I've learned it's not that accessible to use this
 <hr class="big">
 
 <blockquote class="alt">
