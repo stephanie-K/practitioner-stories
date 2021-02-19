@@ -11,17 +11,14 @@ order: 4
    <p><span><a href="/practitioner-stories/Community/challenges">Go to Challenges</a></span></p>
 </div>
 
-<hr class="big">
-
-## Clusters of insights - quick access
+<h2 class="top-line">Clusters of insights - quick access</h2>
 
 - [The future of the Service Design Community](#the-future-of-the-service-design-community)
 - [What a community space could be](#what-a-community-space-could-be)
 - [Things we want to see happening in our community](#things-we-want-to-see-happening-in-our-community)
 
-<hr class="big">
 
-## The future of the Service Design Community
+<h2 class="top-line">The future of the Service Design Community</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/Community/community-future.png)
 
@@ -52,9 +49,8 @@ order: 4
  </details>
 <br>
 
-<hr class="big">
 
-## What a community space could be
+<h2 class="top-line">What a community space could be</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/Community/community-space-future.png)
 
@@ -77,9 +73,7 @@ order: 4
 <br>
 
 
-<hr class="big">
-
-## Things we want to see happening in our community
+<h2 class="top-line">Things we want to see happening in our community</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/Community/community-want.png)
 

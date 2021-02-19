@@ -18,15 +18,13 @@ order: 1
 
 Participants might have also mentioned it while answering other questions.
 
-<hr class="big">
 
-## Summary of findings
+<h2 class="top-line">Summary of findings</h2>
 <br>
 <p><span class="tag-alt">In progress</span></p>
 
-<hr class="big">
 
-## View the analysis, clusters and quotes
+<h2 class="top-line">View the analysis, clusters and quotes</h2>
 
 ### On Miro
 

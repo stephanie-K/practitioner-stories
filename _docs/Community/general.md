@@ -11,19 +11,15 @@ order: 2
    <p><span><a href="/practitioner-stories/Community/future">Go to Future</a></span></p>
 </div>
 
-<hr class="big">
 
-## Clusters of insights - quick access
+<h2 class="top-line">Clusters of insights - quick access</h2>
 
 - [Who with? How big](#who-with-how-big)
 - [Networking - Events - Keeping in touch](#networking---events---keeping-in-touch)
 - [Sharing vs not sharing - What, Why and Where?](#sharing-vs-not-sharing---what-why-and-where)
 
 
-<hr class="big">
-
-
-## Who with? How big?
+<h2 class="top-line">Who with? How big?</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/Community/community-who-with.png)
 <p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457353671927246&cot=10" target="_blank">Access the part of the Miro Board represented in the image</a></p>
@@ -76,9 +72,7 @@ order: 2
  </details>
 <br>
 
-<hr class="big">
-
-## Networking - Events - Keeping in touch
+<h2 class="top-line">Networking - Events - Keeping in touch</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/Community/community-networking.png)
 
@@ -157,9 +151,7 @@ order: 2
  </details>
 <br>
 
-<hr class="big">
-
-## Sharing vs not sharing - What, Why and Where?
+<h2 class="top-line">Sharing vs not sharing - What, Why and Where?</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/Community/community-sharing.png)
 <p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457353671927246&cot=10" target="_blank">Access the part of the Miro Board represented in the image</a></p>

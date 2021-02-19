@@ -11,17 +11,15 @@ order: 3
    <p><span><a href="/practitioner-stories/Community/future">Go to Future</a></span></p>
 </div>
 
-<hr class="big">
 
-## Clusters of insights - quick access
+<h2 class="top-line">Clusters of insights - quick access</h2>
 
 - [Need more people, more diverse and inclusive, more open](#need-more-people-more-diverse-and-inclusive-more-open)
 - [Lack of space for honesty](#lack-of-space-for-honesty)
 - [People are not sharing](#people-are-not-sharing)
 
-<hr class="big">
 
-## Need more people, more diverse and inclusive, more open
+<h2 class="top-line">Need more people, more diverse and inclusive, more open</h2>
 
 **Many participants expressed something around feeling rejected, having to chose a group, feeling that you need to put yourself out there in a goodlight, not feeling included or worthy. Can't be honest.**
 
@@ -122,9 +120,7 @@ order: 3
 <br>
 
 
-<hr class="big">
-
-## Lack of space for honesty
+<h2 class="top-line">Lack of space for honesty</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/Community/community-space.png)
 
@@ -183,9 +179,7 @@ order: 3
  </details>
 <br>
 
-<hr class="big">
-
-## People are not sharing
+<h2 class="top-line">People are not sharing</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/Community/community-not-sharing.png)
 
