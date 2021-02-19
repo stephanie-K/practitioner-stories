@@ -529,13 +529,18 @@ iframe, video {
   width: 100%;
   }
 }
+
+.top-line {
+	border-top: $brand-colour 4px solid;
+	margin-top: 2.4rem;
+	padding-top:2.4rem;
+}
+
+
 hr.big {
 	border-top: $brand-colour 4px solid;
 }
 
-hr.very-big {
-	border-top: $brand-colour 15px solid;
-}
 
 footer {
 	background-color: #666;

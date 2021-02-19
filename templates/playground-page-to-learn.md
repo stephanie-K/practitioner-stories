@@ -41,20 +41,19 @@ You can use both on the page you are creating but don't mix them within a paragr
 
 <p>This is a paragraph, you might need html instead of Mark Down if you want to add a link the open in a new tab in your paragraph</p>
 
-<p><a href="http://www.this-is-the-url-of-your-link.com" target="_blank">the text of my link which will open in a new tab</a></p>
+<p><a href="http://www.this-is-the-url-of-your-link.com" target="_blank">The text of my link which will open in a new tab</a></p>
 
 This is how to make the horizontal line
 <hr class="big">
 
 <blockquote class="alt">
-  <p>This is a quote, but this one is orangy</p>
+  <p>This is a quote, but this one is orangy, you need html to do this one.</p>
 </blockquote>
 
 
 <p><a href="" target="_blank">Access the part of the Miro Board represented in the image</a></p>
 
-### this is how to make the element which opens and closes to reveal content
-
+This is how to make the element which opens and closes to reveal content
  <details>
  <summary>Text that is seen at the top</summary>
  <p>text that displays when open - this is a paragraph</p>

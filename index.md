@@ -19,9 +19,8 @@ title: Welcome
   <p>Only 8 of our participants have 'service designer' as their job title.</p>
 </blockquote>
 
-<hr class="big">
 
-## Who we are
+<h2 class="top-line">Who we are</h2>
 We are 3 service designers living and working in Scotland passionate about our practice and with the aim of bringing the service design community together by sharing experiences and learnings and discussing the future. [Learn more about us](/practitioner-stories/who-we-are)
 - Angela F. Orviz
 - Serena Nüsing
@@ -29,9 +28,7 @@ We are 3 service designers living and working in Scotland passionate about our p
 
 > Note: we are doing this on our personal time and have no funding.
 
-<hr class="big">
-
-## The interview guide used to gather the initial data
+<h2 class="top-line"> The interview guide used to gather the initial data</h2>
 
 ### Context, your story
 - Professional background and your involvement working with SD
@@ -55,9 +52,8 @@ We are 3 service designers living and working in Scotland passionate about our p
 - Where would you like to see the relationship between the public/third sector and SD in the future?
 - Where should the community concentrate its efforts?
 
-<hr class="big">
 
-## The process we followed
+<h2 class="top-line">The process we followed</h2>
 - We transcribed interviews to keep the original wording and avoid early interpretations
 - We coded interviews by labelling each quote with a meaningful phrase and grouping them into 11 high level themes, each one becoming a tab in a Google spreadsheet
 - Next, each tab/theme has been reviewed and the groupings added as post it on Miro which allowed us to work in a more visual way and identify patterns
@@ -66,9 +62,7 @@ We are 3 service designers living and working in Scotland passionate about our p
 
 <p><a href="https://stphaniekrus.medium.com/practitioner-stories-ffa3120ffd7f" target="_blank">More about the process in this Medium post</a></p>
 
-<hr class="big">
-
-## Sharing our research
+<h2 class="top-line">Sharing our research</h2>
 
 <p>This website (started on the 05/02/21) is a new way to share the research we did as an alternative to the <a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352792688587&cot=14" target="_blank">big Miro board we have</a>. This is very much a work in progress. Let us know how we can make it better for you.</p>
 
@@ -78,9 +72,6 @@ We are 3 service designers living and working in Scotland passionate about our p
 <li><a href="https://practitionerstories.medium.com/stories-of-service-design-in-scotland-8f267710a2ba" target="_blank"> Learn more about the project in this Medium post</a></li>
 <li><a href="/practitioner-stories/comms">Access more posts and other communications about the project</a></li>
 </ul>
-
-
-<hr class="big">
 
 {% include give-feedback.html %}
 
