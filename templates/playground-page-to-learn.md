@@ -43,8 +43,12 @@ You can use both on the page you are creating but don't mix them within a paragr
 
 <p><a href="http://www.this-is-the-url-of-your-link.com" target="_blank">The text of my link which will open in a new tab</a></p>
 
-This is how to make the horizontal line, but I might change this as I've learned it's not that accessible to use this
+This is how to make the horizontal line, but I'm changing this as I've learned it's not that accessible for people with screen readers, they hear: separation block or something
 <hr class="big">
+
+So instead you can add a top line to a h2 or a h3:
+<h2 class="top-line">Heading 2 with a top line</h2>
+<h3 class="top-line">Heading 3 with a top line</h3>
 
 <blockquote class="alt">
   <p>This is a quote, but this one is orangy, you need html to do this one.</p>

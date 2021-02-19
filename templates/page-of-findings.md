@@ -13,11 +13,7 @@ order:
    <p><span><a href="/practitioner-stories/Category/future">Go to Future</a></span></p>
 </div>
 
-<hr class="big">
-
-
-## title of high level group
-
+<h2 class="top-line">title of high level group</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/Category/)
 <p><a href="" target="_blank">Access the part of the Miro Board represented in the image</a></p>
@@ -38,9 +34,7 @@ order:
 
 #### something
 
-<hr class="big">
-
-## other big group
+<h2 class="top-line">ther big group</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/Category/)
 <p><a href="" target="_blank">Access the part of the Miro Board represented in the image</a></p>

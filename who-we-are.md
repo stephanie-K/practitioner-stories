@@ -7,9 +7,8 @@ We are three service designers living and working in Scotland passionate about o
 
 You can get in touch with us individually on the Service Design in Scotland Slack for example or the Public Sector Design in Scotland Slack, on Twitter or LinkedIn.
 
-<hr class="big">
 
-## Angela F. Orviz
+<h2 class="top-line">Angela F. Orviz</h2>
 
 She has a mixed background in engineering and innovation/service design. She has been in Scotland for 12 years, primarily working as an academic doing research and consultancy. Last year, she finished a PhD looking at how people in Public Sector learn and evaluate design.
 
@@ -18,9 +17,8 @@ She has a mixed background in engineering and innovation/service design. She has
 <p>Follow her on Twitter <a href="https://twitter.com/Artmadillo" target="_blank">@Artmadillo</a><br>
 Connect on <a href="https://www.linkedin.com/in/aforviz/" target="_blank">LinkedIn</a></p>
 
-<hr class="big">
 
-## Serena Nüsing
+<h2 class="top-line">Serena Nüsing</h2>
 
 She currently works as a service designer for Scottish Government. She came to Scotland around 2.5 years ago to do her masters. She is particularly interested in co-creation and innovation in the public sector using a user-centred design approach.
 
@@ -30,9 +28,7 @@ She currently works as a service designer for Scottish Government. She came to S
 Connect on <a href="https://www.linkedin.com/in/serena-n%C3%BCsing-543295173/" target="_blank">LinkedIn</a></p>
 
 
-<hr class="big">
-
-## Stéphanie Krus
+<h2 class="top-line">Stéphanie Krus</h2>
 
 She works for Scottish Enterprise as a service designer. She came to Scotland 16 years ago. Her background is in teaching and computing initially. She never really studied service design as such, but has learned by doing, in previous roles, in a council and at the Ministry of Justice.
 

@@ -7,9 +7,8 @@ We are working on providing summaries of insights and analysis to make is easier
 Initially, we used Medium Posts and Miro to share our research. **This website is an attempt to show it differently**.
 The functionalities are limited for now.
 
-<hr class="big">
 
-## 5 Themes
+<h2 class="top-line">5 Themes</h2>
 
 <p style="margin-bottom: 0">After the first phase of analysis, 5 themes emerged:</p>
 1. Service design work and contributions
@@ -22,17 +21,15 @@ For each theme, there are general insights and we have grouped the challenges se
 
 ![diagram illustrating how our data is structured on Miro](/practitioner-stories/images/categories.png)
 
-<hr class="big">
 
-## Explore a theme
+<h2 class="top-line">Explore a theme</h2>
 
 In the navigation menu you can select a theme. You then land on the introduction page for it. From there, you can access the other pages: General, Challenges and Future.
 
 <img src="/practitioner-stories/images/navigation-explanation.png" alt="showing the 2 steps with screenshots of the website" style="border: solid 1px #ea6c4e">
 
-<hr class="big">
 
-## Different level of detail
+<h2 class="top-line">Different level of detail</h2>
 
 Within each theme, there are sub-themes and for each of them, you will find a list of clusters of insights. 
 
