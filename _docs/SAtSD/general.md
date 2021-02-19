@@ -12,9 +12,7 @@ order: 2
    <p><span><a href="/practitioner-stories/SAtSD/future">Go to Future</a></span></p>
 </div>
 
-<hr class="big">
-
-## What the SAtSD means to practitioners
+<h2 class="top-line">What the SAtSD means to practitioners</h2>
 
 ### Visual summary of the interactions
 SAtSD's Scottish identity is interpreted in a variety of ways, with both positive and negative connotations

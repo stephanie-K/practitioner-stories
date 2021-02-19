@@ -12,9 +12,9 @@ order: 5
    <p><span><a href="/practitioner-stories/SAtSD/challenges">Go to Challenges</a></span></p>
 </div>
 
-<hr class="big">
 
-## The future of SAtSD
+
+<h2 class="top-line">The future of SAtSD</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SAtSD/satsd-future.png)
 <p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333735754&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>

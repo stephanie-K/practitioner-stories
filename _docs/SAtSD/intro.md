@@ -21,15 +21,13 @@ We spoke with practitioners who had different degrees of awareness about the Sco
 - practical experience using it with public and third sector organisations
 - heard about it but have not engaged with it or 'have struggled to understand what it is'
 
-<hr class="big">
 
-## Summary of findings
+<h2 class="top-line">Summary of findings</h2>
 <br>
 <p><span class="tag-alt">In progress</span></p>
 
-<hr class="big">
 
-## View the analysis, clusters and quotes
+<h2 class="top-line">View the analysis, clusters and quotes</h2>
 
 ### On Miro
 
@@ -46,9 +44,8 @@ We spoke with practitioners who had different degrees of awareness about the Sco
 
 Note that a lot of insights are related to another theme "[Working with people](/practitioner-stories/Working-with-people/intro)". It's not surprising, this is the aim of the approach.
 
-<hr class="big">
 
-## Some information about the Scottish Approach to Service Design (SAtSD)
+<h2 class="top-line">Some information about the Scottish Approach to Service Design (SAtSD)</h2>
 <ul>
 <li><a href="https://www.gov.scot/publications/the-scottish-approach-to-service-design/pages/about-this-resource/" target="_blank">Step by step presentation on gov.scot</a></li>
 <li><a href="https://blogs.gov.scot/digital/2019/07/03/scottish-approach-to-service-design-creating-conditions-for-change" target="_blank">Scottish Approach to Service Design: Creating Conditions for Change</a> (blog post)</li>
