@@ -228,8 +228,7 @@ order: 3
  <li>At the moment, I don't feel that [there is shared ownership of the community], I feel there are a handful of people or groups of people wanting to create walled-garden, or "this is our design community here". It's very counter intuitive, because if you are working in the spirit of service design, that would not line up so well. Some groups have the right way and the quick way, and all the things. There are some people in the community that are put on pedestals without interrogating them at all, it's just about visibility, who gets to be seen, who's story gets to be told</li>
  </ul>
  </details>
-
-<br><br>
+<br>
 {% include give-feedback.html %}
 
 <div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>

@@ -38,7 +38,7 @@ Participants might have also mentioned it while answering other questions.
    <p><span><a href="/practitioner-stories/Community/future">Go to Future</a></span></p>
 </div>
 
-<br><br>
+<br>
 {% include give-feedback.html %}
 
 <div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>
