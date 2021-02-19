@@ -164,13 +164,13 @@ $nav-image: $baseurl + "/images/menu.svg";
 	color: $content-color;
 
 	h2 {
-		margin: 2rem 0 1rem 0;
+		margin: 5rem 0 1rem 0;
 	}
 	h3 {
-		margin: 1.8rem 0 1rem 0;
+		margin: 3rem 0 1rem 0;
 	} 
 	h4 {
-		margin: 1.8rem 0 1rem 0;
+		margin: 2rem 0 1rem 0;
 	} 
 }
 
@@ -532,8 +532,7 @@ iframe, video {
 
 .top-line {
 	border-top: $brand-colour 4px solid;
-	margin-top: 2.4rem;
-	padding-top:2.4rem;
+	padding-top: 3rem;
 }
 
 
