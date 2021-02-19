@@ -11,9 +11,7 @@ order: 3
    <p><span><a href="/practitioner-stories/SD-work-contributions/future">Go to Future</a></span></p>
 </div>
 
-<hr class="big">
-
-## Clusters of insights - quick access
+<h2 class="top-line">Clusters of insights - quick access</h2>
 
 - [Relationship between the public and the third sector - an abysss between them](#relationship-between-the-public-and-the-third-sector---an-abysss-between-them)
 - [Identified lacks in projects, teams or organisations](#identified-lacks-in-projects-teams-or-organisations)
@@ -23,10 +21,7 @@ order: 3
 - [Gaps in how we procure service design](#gaps-in-how-we-procure-service-design)
 - [Gaps in applying service design approaches](#gaps-in-applying-service-design-approaches)
 
-
-<hr class="big">
-
-## Relationship between the public and the third sector - an abysss between them
+<h2 class="top-line">Relationship between the public and the third sector - an abysss between them</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SDwork/SDwork-chall1.png)
 <p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333735904&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
@@ -56,13 +51,12 @@ order: 3
     <li> [third sector organisations] are consistently pushed back from public sector organisations, say why we need to support this person. There’s a massive issue with evidence</li>
  </ul>
  </details>
+
 <p style="margin-bottom: 0">Other insights:</p>
 - Inequality between the third sector and the public sector
 - pushing service design into a broken system
 
-<hr class="big">
-
-## Identified lacks in projects, teams or organisations
+<h2 class="top-line">Identified lacks in projects, teams or organisations
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SDwork/SDwork-chall2.png)
 <p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333735905&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
@@ -146,9 +140,7 @@ Lack of design leadership
  </ul>
  </details>
 
-<hr class="big">
-
-## Constraints to work with
+<h2 class="top-line">Constraints to work with</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SDwork/SDwork-chall3.png)
 <p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333735898&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
@@ -191,9 +183,8 @@ Lack of design leadership
 - But getting all the stakeholders involved is going to be challenging
 - Other barriers come from working in the third sector and with people
 
-<hr class="big">
 
-## Barrier: low maturity of service design
+<h2 class="top-line">Barrier: low maturity of service design</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SDwork/SDwork-chall4.png)
 <p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333735744&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
@@ -355,9 +346,7 @@ Being stuck, not pushing until the end
  </details>
 <br>
 
-<hr class="big">
-
-## Barrier: how we talk and present service design
+<h2 class="top-line">Barrier: how we talk and present service design</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SDwork/SDwork-chall5.png)
 <p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333735752&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
@@ -482,9 +471,8 @@ Being stuck, not pushing until the end
  </details>
 <br>
 
-<hr class="big">
 
-## Gaps in how we procure service design
+<h2 class="top-line">Gaps in how we procure service design</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SDwork/SDwork-chall6.png)
 <p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333735751&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
@@ -536,10 +524,7 @@ Being stuck, not pushing until the end
  </details>
 <br>
 
-
-<hr class="big">
-
-## Gaps in applying service design approaches
+<h2 class="top-line">Gaps in applying service design approaches</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SDwork/SDwork-chall7.png)
 <p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333736092&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
@@ -625,7 +610,7 @@ One quote: That makes me think about service design as an industry, is it maybe 
 
 
 
-<br><br>
+<br>
 {% include give-feedback.html %}
 
 <div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>

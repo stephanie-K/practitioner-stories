@@ -12,19 +12,16 @@ order: 4
    <p><span><a href="/practitioner-stories/SD-work-contributions/challenges">Go to Challenges</a></span></p>
 </div>
 
-<hr class="big">
 
-## Clusters of insights - quick access
+<h2 class="top-line">Clusters of insights - quick access</h2>
 
 - [Service Design in communities](#service-design-in-communities)
 - [Impact of Covid](#impact-of-covid)
 - [Public and 3rd sector: integrating design and other aspirations](#public-and-3rd-sector-integrating-design-and-other-aspirations)
 - [How to overcome barriers](#how-to-overcome-barriers)
 
-<hr class="big">
 
-
-## Service Design in communities
+<h2 class="top-line">Service Design in communities</h2>
 
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SDwork/SDwork-fut1.png)
@@ -51,11 +48,7 @@ order: 4
 
 One quote: "The Covid crisis has kind of eclipsed Climate Change. We cannot ignore that, and actually I think the solutions to those go hand in hand. So we have to figure out what are the connections and how do we create sustainable economies throughout Scotland and throughout the world. I mean, let's not have borders and boundaries."
 
-
-
-<hr class="big">
-
-## Impact of Covid
+<h2 class="top-line">Impact of Covid</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SDwork/SDwork-fut2.png)
 <p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333741316&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
@@ -96,10 +89,7 @@ One quote: "The Covid crisis has kind of eclipsed Climate Change. We cannot igno
  </details>
 <br>
 
-
-<hr class="big">
-
-## Public and 3rd sector: integrating design and other aspirations
+<h2 class="top-line">Public and 3rd sector: integrating design and other aspirations</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SDwork/SDwork-fut3.png)
 <p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333735749&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
@@ -187,11 +177,7 @@ One quote: "The Covid crisis has kind of eclipsed Climate Change. We cannot igno
  </details>
 <br>
 
-
-
-<hr class="big">
-
-## How to overcome barriers
+<h2 class="top-line">How to overcome barriers</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SDwork/SDwork-fut4.png)
 <p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333735897&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
@@ -219,7 +205,7 @@ One quote: "The Covid crisis has kind of eclipsed Climate Change. We cannot igno
  </ul>
  </details>
 
-<br><br>
+<br>
 {% include give-feedback.html %}
 
 <div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>

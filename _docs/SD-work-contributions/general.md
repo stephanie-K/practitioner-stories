@@ -11,9 +11,8 @@ order: 2
    <p><span><a href="/practitioner-stories/SD-work-contributions/future">Go to Future</a></span></p>
 </div>
 
-<hr class="big">
 
-## Clusters of insights - quick access
+<h2 class="top-line">Clusters of insights - quick access</h2>
 
 - [What we do in public and third sector organisations](#what-we-do-in-public-and-third-sector-organisations)
 - [How we feel we contribute](#how-we-feel-we-contribute)
@@ -21,9 +20,8 @@ order: 2
 - [Motivations for being a designer](#motivations-for-being-a-designer)
 - [Impact of design on people](#impact-of-design-on-people)
 
-<hr class="big">
 
-## What we do in public and third sector organisations
+<h2 class="top-line">What we do in public and third sector organisations</h2>
 
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SDwork/SDwork-gen1.png)
@@ -183,9 +181,7 @@ order: 2
  </details>
 <br>
 
-<hr class="big">
-
-## How we feel we contribute
+<h2 class="top-line">How we feel we contribute</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SDwork/SDwork-gen2.png)
 <p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333740871&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
@@ -335,9 +331,7 @@ order: 2
  </details>
 <br>
 
-<hr class="big">
-
-## How do designers work in public and third sector
+<h2 class="top-line">How do designers work in public and third sector</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SDwork/SDwork-gen3.png)
 <p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333740786&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
@@ -420,12 +414,9 @@ order: 2
     <li>We should have framed the problem, realise that there was a lot of moving parts and different needs before [being] parachuted into that. Regardless of how good a facilitator you are, it's massively   important that, as well as preparing meticulously well in advance,   sometimes the timing</li>
  </ul>
  </details>
- 
 <br>
 
-<hr class="big">
-
-## Motivations for being a designer
+<h2 class="top-line">Motivations for being a designer</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SDwork/SDwork-gen4.png)
 <p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333740915&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
@@ -455,10 +446,7 @@ order: 2
  </details>
 <br>
 
-
-<hr class="big">
-
-## Impact of design on people
+<h2 class="top-line">Impact of design on people</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SDwork/SDwork-gen5.png)
 <p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333740811&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
@@ -471,7 +459,7 @@ order: 2
 <li>[sharing learning] can someone copy our ideas, can they be inspired by us and copy stuff?</li>
 </ul>
 
-<br><br>
+<br>
 {% include give-feedback.html %}
 
 <div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>
