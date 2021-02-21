@@ -15,14 +15,15 @@ We are curating the clusters of insights and will soon have smaller groups of in
 Please, don’t hesitate to get in touch if you have questions or ideas. 
 
 
+<hr class="big">
 
-## changes and comments from Angela
-
-
-
+## Changes and comments from Angela
 
 
-## changes and comments from Serena
+
+
+
+## Changes and comments from Serena
 
 
 
