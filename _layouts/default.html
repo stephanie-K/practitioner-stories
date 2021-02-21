@@ -112,6 +112,9 @@
 						{% assign changelog = site.html_pages | where: 'url', '/changelog/' | first %}
 						<a href="{{ site.baseurl }}/changelog/">{{ changelog.title }}</a>
 					</li>
+					<li class="nav-item top-level {% if page.url == '/stay-updated/' %}current{% endif %}">
+						<a href="https://stephanie-k.github.io/practitioner-stories/stay-updated">Stay updated</a>
+					</li>
 				</ul>
 				<p><strong>Email us at: </strong><a href="mailto:practitionerstories@gmail.com?Subject=Website%20-%20contact"><strong>practitionerstories@gmail.com</strong></a></p>
 
