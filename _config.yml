@@ -8,7 +8,7 @@ google_analytics_key:
 show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-description: Collect stories of Service Design in the public and third sectors in Scotland
+description: Collecting stories of Service Design in the public and third sectors in Scotland
 author:
   name: 
   email:
