@@ -39,7 +39,7 @@
 			</form>
 
 			<nav {% if site.show_full_navigation %}class="full-navigation"{% endif %}>
-				<ul style="border-bottom: solid 4px#73aeb8;">
+				<ul style="border-bottom: solid 4px#599FAB;">
 					<li class="nav-item top-level {% if page.url == '/' %}current{% endif %}">
 						{% assign home = site.html_pages | where: 'url', '/' | first %}
 						<!--a href="{{ site.baseurl }}/">{{ home.title }}</a-->
@@ -92,7 +92,7 @@
 					</ul>
 				</details-->
 
-				<!--ul style="background-color: #f1f7f8; border-bottom: solid 4px#73aeb8;">
+				<!--ul style="background-color: #f1f7f8; border-bottom: solid 4px#599FAB;">
 					{% assign grouped = site.docs | group_by: 'category' %}
 					{% for group in grouped %}
 						<li class="nav-item top-level">
@@ -107,7 +107,7 @@
 					{% endfor %}
 				</ul-->
 
-				<ul style="border-top: solid 4px#73aeb8; padding-top: 4rem">
+				<ul style="border-top: solid 4px#599FAB; padding-top: 4rem">
 					<li class="nav-item top-level {% if page.url == '/changelog/' %}current{% endif %}">
 						{% assign changelog = site.html_pages | where: 'url', '/changelog/' | first %}
 						<a href="{{ site.baseurl }}/changelog/">{{ changelog.title }}</a>
