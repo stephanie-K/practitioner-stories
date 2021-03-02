@@ -26,7 +26,7 @@ order: 3
 
 <h2 class="top-line">Barriers</h2>
 
-![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/Working-with/working-with-chall1.png)
+![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/working-with/working-with-chall1.png)
 <p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333741115&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
 
 ### Organisational constraints & maturity
@@ -44,8 +44,6 @@ order: 3
     <li>[The] kind of mainstream typical commissioning pathway that I have been able to do research or service design projects  have typically be the less participatory opportunities.  The kind or  weird wonderful and unusual pathways that have come through personal relationships or through different funding pathway like charities, those have always been more participatory.</li>
  </ul>
  </details>
-<br>
-
  <details>
  <summary>Lack of awareness and skills</summary>
  <ul>
@@ -53,9 +51,6 @@ order: 3
     <li>In public services we're not always equipped to know what to do with that information</li>
  </ul>
  </details>
-<br>
-
-
  <details>
  <summary>Time and resources</summary>
  <ul>
@@ -63,9 +58,6 @@ order: 3
     <li>The time and cost of learning a new skill, people might need [to] up-skill to deploy service design. [...] When you ask people to do things like discovery and testing, if they have never done things like that before, I think the resource against that feels too overwhelming</li>
  </ul>
  </details>
-<br>
-
-
  <details>
  <summary>Organisational structures and culture</summary>
  <ul>
@@ -74,7 +66,6 @@ order: 3
     <li>We’re still on the level of [user] and staff education. [We use} non-compliance when we talk about [users]. We have a long way to go</li>
  </ul>
  </details>
-<br>
 <br>
 
 ### People's experiences with design
@@ -89,8 +80,6 @@ order: 3
     <li>When you start hearing the truth from people or something you didn't expect, it can be really jarring and unwelcome. So if teams have had an experience like that of service design, they might be apprehensive to continue or to do it again</li>
  </ul>
  </details>
-<br>
-
  <details>
  <summary>Working with designers might feel strange</summary>
  <ul>
@@ -98,12 +87,9 @@ order: 3
  </ul>
  </details>
 <br>
-<br>
-
-
 <h2 class="top-line">Challenges - Strategies - limitations</h2>
 
-![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/Working-with/working-with-chall2.png)
+![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/working-with/working-with-chall2.png)
 <p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333741124&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
 
 ### Recruiting and involving users
@@ -124,8 +110,6 @@ order: 3
     <li>  We‘re reasonable lucky with that a lot of our users are internal and relatively easy to get. [...]  in theory it‘s easy for us to get our hands-on [users, but] it can actually be surprisingly difficult</li>
  </ul>
  </details>
-<br>
-
  <details>
  <summary>Strategy: regular user grouo</summary>
  <ul>
@@ -133,8 +117,6 @@ order: 3
     <li>A user group is kind of appealing because you know they will turn up for example</li>
  </ul>
  </details>
-<br>
-
  <details>
  <summary>Limitation: When users becvome part of the team, they become biased</summary>
  <ul>
@@ -142,8 +124,6 @@ order: 3
     <li>[Having a regular user group] is not a brilliant way of doing things. [...] I think the  project team understood why I said this. [...] By the second or third meeting they could see that [the users] had been so skewed by our own thinking, by previous activities. They were almost  already members of the team and some of them actually became members of the team</li>
  </ul>
  </details>
-<br>
-
  <details>
  <summary>Challenge: recruiting the right users - who wants to engage</summary>
  <ul>
@@ -152,8 +132,6 @@ order: 3
     <li> You get different take ups from different [service areas]. I mean the way of reaching [research participants] is “find a friend in a [service area], who knows [users]”. You end up getting more participation from some [service areas] than others</li>
  </ul>
  </details>
-<br>
-
  <details>
  <summary>Challenge: Vulnerable people and danger of trauma:  ie. domestic violence, sexual abuse, people in high risk of suicide</summary>
  <ul>
@@ -161,16 +139,12 @@ order: 3
     <li>Finding people that you are confident in their mental health to deal with questions that bring back traumatic experiences for them, or negative feelings</li>
  </ul>
  </details>
-<br>
-
  <details>
  <summary>Strategy: Involving people who are no longer in a situation of vulnerability</summary>
  <ul>
     <li>[When recruiting and involving people who have been victims of some kind of abuse] They were survivors of what had happened to them, so you telling everything is in retrospect in terms of experiences, not about a modern right up-to-date story. When there is potential for trauma that can be quite difficult</li>
  </ul>
  </details>
-<br>
-
  <details>
  <summary>Other strategy: Working with organisation who already have close relationships with users and professionals who have the skills to engage with people safely</summary>
  <ul>
@@ -182,11 +156,6 @@ order: 3
  </ul>
  </details>
 <br>
-
-
-<br>
-
-
 
 ### Accessibility reciprocity
 
@@ -200,7 +169,6 @@ order: 3
     <li>There are massive challenges getting disabled people into a room, playing with post-it notes or whatever it happens to be. That is a big challenge</li>
  </ul>
  </details>
-<br>
  <details>
  <summary>Challenge: Extractive of people's time & energy</summary>
  <ul>
@@ -208,14 +176,12 @@ order: 3
     <li>[user-research and codesign] can be quite often quite extractive of people’s experiences and time and energy</li>
  </ul>
  </details>
-<br>
  <details>
  <summary>Strategy: Recruiting users into your team</summary>
  <ul>
     <li>[through our regular user groups ] a handful of people became quite interested in the UX discipline and UCD approach. So there have been a handful of them who we recruited and joined the team as interns.</li>
  </ul>
  </details>
-<br>
  <details>
  <summary>Strategy: Build up user skills</summary>
  <ul>
@@ -223,7 +189,6 @@ order: 3
     <li>We run this programme to teach young people how to research and publish their own newspaper in response to like a question set by the local authority.  Instead of doing extractive research, you were empowering them to go and do their own research, and turn it into a NewsPaper. So we would teach them the skills to do that. So we taught them how to do stakeholder mapping, interviewing their friends, and so all round it was a really kind of collaborative value model, cause young people got skills and employability skills, and something to show. We got paid to run the process cause we were doing the research, and we also paid young people, and they got answers to the question they wanted to find out. That is a less extractive model that involving people. It’s much more about co-development</li>
  </ul>
  </details>
-<br>
 <br>
 
 ### Scalability
@@ -237,15 +202,12 @@ order: 3
     <li>Citizen science is a kind of co-design where you get masses and masses, you have a massive sample pool  of people giving you  data.  They are still codesigning with you because they're giving you insight into the right thing to design. As long as you test</li>
  </ul>
  </details>
-<br>
-
  <details>
  <summary>Strategy for large scale involvment: Surveys</summary>
  <ul>
     <li>With the current survey and engagement, we inform the design and delivery of the operational services. We‘ve received so far about 22,000 responses. It‘s quite massive, extremely large scale. So, one of the largest things I‘ve ever worked on. If people are saying “oh, I‘m concerned that [..]”, then we would take all of them and feed them to local [services]. So, that they then could improve what they are doing the following week. I feel like it‘s definitely changing in a way we remote designing with people</li>
  </ul>
  </details>
-<br>
 <br>
 
 ### Uncertainty and stakeholder engagement
@@ -259,32 +221,24 @@ order: 3
     <li> it was too difficult for us to work out how we were going to make sure we could do a kind of design cycle with a wide variety of people, with a wide variety of ability in the room. [We] designed up to a certain point, and then we took it from that point to a wide range of people and a design step further, so we tried our best to ensure that they were involved in that process</li>
  </ul>
  </details>
-<br>
-
- <details>
+<details>
  <summary>Strategy: Experimenting, being honest about not knowing</summary>
  <ul>
     <li>We tried a few things out, we experimented. [...] We said to the participants: we've never done this before, we don't know if this is going to work, tell us if it doesn't, tell us how it might, we'll see if we can change it on the fly and we will see what we learn. People were open for that because we were honest and they were very very helpful and supportive in terms of how we managed to deliver the research and conduct the activities</li>
  </ul>
  </details>
-<br>
-
  <details>
  <summary>Challenge: Finding the right timing & gathering the right people around the table</summary>
  <ul>
     <li>The blocker might be the timing, but also maybe the right stakeholders are not in the room in the first place or the project might be too complicated, there might be  too many moving parts</li>
  </ul>
  </details>
-<br>
-
  <details>
  <summary>Strategy: Inviting people to scratch out change things</summary>
  <ul>
     <li>And invite people in to add comments. I try to stress that it‘s not finished. But that  it‘s also not pressured, that it is ok for people to come in and to scratch things out or change wording or say that this has to happen  before this bit. So actually, making things as movable as possible as  well. So, I avoid printing things out until a much later date. I like to  work on bits of moveable paper because I find it helps people feel that  they can get involved in it.</li>
  </ul>
  </details>
-<br>
-
  <details>
  <summary>Strategy for the lack of awareness of design language and tools: building design capacity</summary>
  <ul>
@@ -292,11 +246,10 @@ order: 3
  </ul>
  </details>
 <br>
-<br>
 
 <h2 class="top-line">Gaps in being inclusive, accessible and ethical</h2>
 
-![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/Working-with/working-with-chall3.png)
+![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/working-with/working-with-chall3.png)
 <p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333736100&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
 
 ### SD practice not open for everyone
@@ -311,16 +264,12 @@ order: 3
     <li>And being aware that we‘re so white and privileged that‘s just the service design community. So, who else is developing this?  It almost seems like I’ve worked in a massive design bubble. And then I speak with people and they say yeah design is such a big bubble</li>
  </ul>
  </details>
-<br>
-
  <details>
  <summary>Difficult getting your foot into service design</summary>
  <ul>
     <li>I can see how it can feel difficult for people, who can see its value but not knowing where to start. I feel like that‘s a question that is asked quite a lot. Like how do I begin doing this? If I would start with one tool or if I would introduce this to my team, how would I go about doing that?</li>
  </ul>
  </details>
-<br>
-
  <details>
  <summary>How we hire people</summary>
  <ul>
@@ -342,8 +291,6 @@ order: 3
     <li>I think there are barriers in terms of how people perceive themselves to be a person, who designs services. And how that can be part of your role if not the whole of your role. I think that would be an exciting thing to explore</li>
  </ul>
  </details>
-<br>
-
  <details>
  <summary>Bias, accessibility and social justice</summary>
  <ul>
@@ -351,8 +298,6 @@ order: 3
     <li>Yeah that so flipping that around [what accessiblity bring to SD] probably the answer is: not enough? but where I would like to be doing more, where I would like to see an opportunity is for more of that thinking around diverse needs, trying to encourage and support and understanding what the experience of disabled people and people with health conditions is, so what's their lived experience and how do you ensure that this is considered as part of your design process even if you can't get them into the room</li>
  </ul>
  </details>
-<br>
-
  <details>
  <summary>SD practice needs to become more inclusive and diverse</summary>
  <ul>
@@ -360,24 +305,18 @@ order: 3
     <li>What about booking a holiday, someone who uses a screen reader, can they do that? what do you mean? Can a colleague who uses a screen reader book a holiday? oh I don't know I haven't a clue... hmm ok fine, so why are we not thinking about those kinds of things as well? Now to be fair, we are [thinking about it] to an extent, but whether or not we have the knowledge in the right places is a different matter</li>
  </ul>
  </details>
-<br>
-
  <details>
  <summary>Activities and workshops not accessible</summary>
  <ul>
     <li>There are massive challenges getting disabled people into a room, playing with post it notes or whatever it happens to be, that is a big challenge, so yeah, being able to provide answers and support and understanding to help that, to ease that, that's where I would see I can make a difference</li>
  </ul>
  </details>
-<br>
-
  <details>
  <summary>Involving the right people</summary>
  <ul>
     <li>Where it‘s in fact, we know that those are the interesting people, the ones that do try out and do a bit of it while still doing their full-time job which is like answering the phones to citizens. They are the people, that are going to know what the service needs to be</li>
  </ul>
  </details>
-<br>
-
  <details>
  <summary>Missing a set of principle s for inclusive design</summary>
  <ul>
@@ -385,7 +324,6 @@ order: 3
     <li>Inclusive design, designing in an inclusive manner. I think the challenge with that is that we haven't got a define model on how we are doing that or how we might approach that, everybody is winging it, now all the service designers I know are fine at that , they think about diverse needs, they think about it in diverse ways and they're open to trying out new things and that's exactly what you need but in terms of a kind of consistent... a set of principles around service design we don't necessarily articulate it that well, or pull that together in a way that all the designers might be thinking or pulling in the same direction</li>
  </ul>
  </details>
-<br>
 <br>
 
 ### Missing discussion around ethics in SD
@@ -400,8 +338,6 @@ order: 3
     <li> The Design Justice Network is a global network looking at social justice within design, and how designers can be aware of the decisions that they are making especially around reinforcing power structure or inequity.</li>
  </ul>
  </details>
-<br>
-
  <details>
  <summary>Need to up-skill service designers to be more critical</summary>
  <ul>
@@ -409,11 +345,10 @@ order: 3
  </ul>
  </details>
 <br>
-<br>
 
 <h2 class="top-line">How we involve a community</h2>
 
-![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/Working-with/working-with-chall4.png)
+![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/working-with/working-with-chall4.png)
 <p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333736096&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
 
 ### List of clusters of insights
@@ -425,25 +360,19 @@ order: 3
     <li>We've got a community empowerment act, and I think it is that thing. I was at a community council for a project, and I asked the question: "who gets to keep the bits and pieces once it's don?", and they said, "oh, you know, it's 'the plan', so that would be the council?". So that's my thing. Community should be the client, and I think the resource to get that. I think the power corrupts the thing. When you see the rhetoric on the health side as well,  there is lots of stories on how the lack of control on one's life is the greatest issue, so.. it's a long game, I think patience is the key,  patience and persistence as I used to say to folks, you know, community is not going away, communities will shift and change, the new generation is more open minded to things, its more about management structure, easing that power. There is an opportunity to really make a leap rather than incremental</li>
  </ul>
  </details>
-<br>
-
  <details>
  <summary>Capacity building of communities</summary>
  <ul>
     <li>The community retains a lot of that information, that research as well. So they can then use it to build an understanding of their place and what they want to do. There is a lack of that. It seems to be held by others, and you need to make either an FOI request, you never know who to ask, or it's in different spaces. So I think now a common good knowledge bank for core information that will  help the community, if they want to do something they can tap into that, and  use that information, even if it's just a contact base or just previous stuff, it's your starting point to sort of build on</li>
  </ul>
  </details>
-<br>
-
- <details>
+<details>
  <summary>SD parachuting into communities</summary>
  <ul>
     <li>It just seemed very weighted on the side of the design team and the organisation that was commissioning the research or the design; and that is still a huge gap. I don't know of any team - and especially public services - where there are a lot of discussions going on about the inclusivity or not of what we do. Because of the way we do it and the way we approach communities and citizens, the way we organise these relationships - where we should have been nurturing relationships with people this whole time, we haven't been. So what does it feel like to parachute in XYZ communities and do your cute research workshop? So these conversations were not happening, it was so obvious to me when I got in the SD space. I don't know that I would have that experience in previous roles that are community based or even more community led or more participatory. That still a huge thing for me</li>
  </ul>
  </details>
-<br>
-
- <details>
+<details>
  <summary>Think they don't need to talk to people</summary>
  <ul>
     <li>Assuming that you know stuff and don't need to talk to people, which I know, is the opposite of service design ethos but I do think that occasionally you come across people that may be are kind of comfortable with skipping over the user part of things</li>
