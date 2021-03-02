@@ -22,6 +22,9 @@ order: 3
    - [SD practice not open for everyone](#sd-practice-not-open-for-everyone)
 - [Gaps in being inclusive, accessible and ethical](#gaps-in-being-inclusive-accessible-and-ethical)
 - [How we involve a community](#how-we-involve-a-community)
+- [Barriers: organisational culture, mindset and environement](#barriers-organisational-culture-mindset-and-environement)
+    - [Service Design is new and unfamiliar](#list-of-clusters-of-insights--service-design-is-new-and-unfamiliar)
+    - [Current ways of working is blocking service design](#list-of-clusters-of-insights--current-ways-of-working-is-blocking-service-design)
 
 
 <h2 id ="barriers" class="top-line">Barriers</h2>
@@ -378,6 +381,133 @@ order: 3
     <li>Assuming that you know stuff and don't need to talk to people, which I know, is the opposite of service design ethos but I do think that occasionally you come across people that may be are kind of comfortable with skipping over the user part of things</li>
  </ul>
  </details>
+<br>
+
+<h2 class="top-line" id="barriers-organisational-culture-mindset-and-environement">Barriers: organisational culture, mindset and environement</h2>
+
+> These clusters of insights are related to Working with people but not only, they could also fit the theme **'SD work and contributions'**  or **'Scottish Approach to Service Design (SAtSD)'**
+
+![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SAtSD/satsd-barriers.png)
+<p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333735901&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
+
+### List of clusters of insights : Service Design is new and unfamiliar
+
+#### People want the magic of Service Design but don't want the change that comes with it
+<details>
+<summary>Change requires investment</summary>
+    <ul>
+    <li>I think also Service Design and public service has a long way to go, it will require huge organisational change across a lot of public services, and across a lot of public bodies actually, not just public services. And that requires a lot of money, and these agencies do not have those pockets, their pockets are not deep enough. So while you can make lots of suggestions about how you might re-orient the organisation, it is not always possible that those things can happen. So that is a big challenge</li>
+    </ul>
+</details>
+
+#### It's threatening people
+<details>
+<summary>People's fear of change</summary>
+    <ul>
+    <li>Fear from front-line and mid-management staff. It tends to be a thing, but that’s not the same for everybody. Because some people get really excited about the opportunity to actually involve and redesign what’s around them. And I really try to make sure that we try and do like the kind of communication and co-design cycles with the staff, the teams. But I definitely found that individuals can be a real barrier there because they are scared of change, they’ve seen it before, it failed last time. Organisational memory is really strong. Often people in local authorities have been in the same job and will never leave in their whole life, you know, it’s one of the lasting bastions of career singularity that you can get</li>
+    <li>There is something about just change, if this is a change that's difficult and that needs leading, especially when you ask people to do things like discovery and testing, if they have never done things like that before, and I think the resource against that feel too overwhelming</li>
+    </ul>
+</details><details>
+<summary>Design is evidence based, decision-making and is threatening to other professions</summary>
+</details>
+
+#### A new mindset
+
+<details>
+<summary>Resistance to doing things differently</summary>
+    <ul>
+    <li>For the most part, people are quite open to something different. Sometimes, the clients are really onboard and they know it's going to be different. Sometimes, you have other people who maybe had not decided to bring you in, and are bit more like "oh, why are we doing this like this?" For the most part, people are positive about you being there, but sometimes you can get a bit of resistance to doing things differently</li>
+    </ul>
+</details>
+<details>
+<summary>There are a hundred barriers</summary>
+    <ul>
+    <li>There’s about a hundred answers to that question</li>
+    </ul>
+</details>
+<details>
+<summary>True participatory service design would challenge existing structures and jobs</summary>
+    <ul>
+    <li>Last time I've checked, public services in Scotland are the biggest employers, so you have all these people who - if you had strong participatory service design in - a lot of jobs would be called into question and a lot of services would be called into question either they need to reshape quite a lot or they need to go.[...] people can't feel good in that position in a public service. I think about that a lot</li>
+    </ul>
+</details>
+<details>
+<summary>A new way of thinking people are not used to</summary>
+    <ul>
+    <li>These are new ways of working for lots of traditional and bureaucratic organisations</li>
+    <li>The barrier is that the [organisation] has not done this ever before, and there isn’t an awareness. So for example, the whole attitude, the whole way of thinking. So for example [during] safety training, and part of it is looking at software and trying to discover safety issues. And there was something around ‘oh there’s this monitor that beeps if there is this specific thing wrong with the patient, what’s the clinical safety things that you need to pay attention to’. So there was things like: Human error, staff error - top of the list, always top of the list - and and the story goes ‘a not so senior nurse may misread the thing’ and, obviously as a designer sitting among clinique technicians my question was: what’s the font size on that monitor? What is the contrast? This isn’t even service design so never mind this nurse actually having enough time to go and read this thing, and why is she going in to read it, and then copying it on a piece of paper that then she carries somewhere else in the first place? You know, that's not even think about the actual service level. But basically, the organisation’s thinking was very very clear, ‘oh, staff error. We need more training. And so to get people from that attitude to, ‘wait a second, can we look at the error of the service or even the product you’ve got plunked here that makes no sense - it’s really hard work. I think stories from patients or even designing with-- or even nurses, even staff, would be really helpful. But we are a long way off of even acknowledging that that’s where the problem is</li>
+    </ul>
+</details>
+<details>
+<summary>Using the traditional method ot start a Service Design approach</summary>
+    <ul>
+    <li>It’s been interesting to see how to take something from a really traditional engagement and insight type of work - this might be a public survey - to illustrate in a way that maybe fits into a user journey and takes other research insights into account. Pushing it forward to let’s produce those insights and action points for senior leadership</li>
+    </ul>
+</details>
+
+<h3 class="top-line" id="list-of-clusters-of-insights--current-ways-of-working-is-blocking-service-design">List of clusters of insights : Current ways of working is blocking service design</h3>
+
+#### Decisions and hierachies
+<details>
+<summary>Slow to act on insights</summary>
+    <ul>
+    <li>Present the insights to various boards to just tell them that they need not invest making this happen. And it took them maybe another six months to stop the project officially for  them, the citizens, solicitors and basically for anyone. Quite  interesting and I‘m very proud that they stopped it because that‘s one  thing, they don’t admit to mistakes very easily</li>
+    </ul>
+</details>
+<details>
+<summary>Not understanding how decisions been made</summary>
+    <ul>
+    <li>There’s lots, right, like in any corporate situation - and by corporate I mean any large, complex organisation. There’s many constraints, there’s many different people who have positions of power that dictate what needs to happen and when. In my experience a lot of the challenges are organisationally and culturally influencing things, that people understand why decisions are being made</li>
+    </ul>
+</details>
+<details>
+<summary>Organisational hierachies</summary>
+    <ul>
+    <li>It’s really difficult. The hierarchies aren’t there to support our work. I don't really  know how we get around that.  We've been trained with an agency mindset, where you never have that problem. You just do a  Project,  and then move on</li>
+    </ul>
+</details>
+<details>
+<summary>How to act upon a decision?</summary>
+    <ul>
+    <li>The way I am starting to see it is that this minister has done the design. They know what they want, it’s there, there is a brief, you can go and build it. That is an interesting one to me. How do we still do service design around decisions that have already been made? And how do we sell that it is still necessary? It is exhausting</li>
+    </ul>
+</details>
+<details>
+<summary>Not admitting mistakes</summary>
+</details>
+
+#### How things are currently done
+
+<details>
+<summary>Resigning and just accepting that‘s the way it is</summary>
+    <ul>
+    <li> They‘re kind of aware of each other. But it‘s almost this sign of resignation because it‘s so big. It‘s just impossible to coordinate. We kind of feel this with us as well. My colleague describes it as pushing open doors. Why don’t we try to coordinate this a bit and unify it? And everyone says “yeah, yeah, sounds like a great idea but don‘t know how to do it”. And that is kind of the attitude how most people think. So, no one tries because everyone is kind of resigned thinking that‘s just the way how it is</li>
+    </ul>
+</details>
+<details>
+<summary>Not doing the right thing because the work is mandated (by the government)</summary>
+    <ul>
+    <li>I also think, particularly with the public sector, sometimes goals change quite regularly, and the reason to do something is not always because it's the right thing to do, it might be the right thing to do, but quite often things get done because it's mandated. So it's quite a culture shift that is still to properly take hold</li>
+    </ul>
+</details>
+<details>
+<summary>Talking instead of doing</summary>
+    <ul>
+    <li>But sometimes in Scotland it just feels like those conversations are just conversations for years and it‘s quite annoying because people dying</li>
+    </ul>
+</details>
+<details>
+<summary>Solution-driven approach vs problem-driven</summary>
+    <ul>
+    <li>There’s all these sorts of reputation risks, cause quite often the things that people have been asked to do are solution-orientated not problem-solving</li>
+    </ul>
+</details>
+<details>
+<summary>Clients want to start building things before having a shared vision</summary>
+    <ul>
+    <li>[Some want to develop code before establishing things like a ] shared vision of what that website is for. What it‘s going to achieve. What is the user going to need to do on it? What's the business need? All that stuff isn’t there</li>
+    </ul>
+</details>
 <br><br>
 {% include give-feedback.html %}
 
