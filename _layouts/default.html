@@ -5,12 +5,32 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
+<!-- Was injecting 'seo' just like feed-meta below -->
+{% if  page.title %}
+		<title>{{page.title}} | Practitioner Stories</title>
+		<meta property="og:title" content="{{page.title}}" />
+		<meta property="twitter:title" content="{{page.title}}" />
 
-		{% seo %}
-		{% feed_meta %}
+{% else %}
+		<title>Practitioner Stories</title>
+		<meta property="og:title" content="Stay updated" />
+		<meta property="twitter:title" content="Practitioner stories" />
+	
+{% endif %}
 
+		<meta name="generator" content="Jekyll v3.9.0" />
+		<meta property="og:locale" content="en_US" />
+		<meta name="description" content="Collecting stories of Service Design in the public and third sectors in Scotland" />
+		<meta property="og:description" content="Collecting stories of Service Design in the public and third sectors in Scotland" />
+		<meta property="og:site_name" content="Practitioner Stories" />
 		<meta name="twitter:card" content="summary_large_image" />
 		<meta name="twitter:image" content="{{ site.baseurl }}/images/practionerstories-square-small.png" />
+		<script type="application/ld+json">
+		
+
+		{% feed_meta %}
+
+
 
 		<link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
 		<link rel="icon" type="image/png" href="{{ site.baseurl }}/images/favicon.png">
