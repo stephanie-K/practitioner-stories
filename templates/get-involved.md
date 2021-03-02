@@ -5,17 +5,16 @@ title: Get involved
 
 With this project we really want to get the service design community involved and **we are always looking out for new ideas and stories!**
 
- ## Who should get involved?
+## Who should get involved?
 
-Anyone who is passionate about the service design practice in the public and third sector
+Anyone who is passionate about the service design practice in the public and third sector.
 
-
- ## Why?
+## Why?
 
 - to learn from other practitioners
 - build this design community
 - shape the future of the service design practice
-- experiement with the data
+- experiment with the data
 - network and meet more people
 - share your own story
 
@@ -27,7 +26,7 @@ We’re currently at the point of reviewing our research and process to plan our
 ### Explore clusters of insights 
 
 We are curating the clusters of insights to have smaller groups of insights you will be able to access and analyse further. We will published the list here, and if some of them are interesting to you then we will explain how you can get involved if you contact us.
-<p>This is a work in progress. <a href="https://twitter.com/Artmadillo" target="_blank">Get in touch with Angela</a> if this is something you would like to help us with.</p>
+<p><strong>This is a work in progress. <a href="https://twitter.com/Artmadillo" target="_blank">Get in touch with Angela</a> if this is something you would like to help us with.</strong></p>
 
 
 ### Use the data to run your own event
@@ -38,7 +37,7 @@ One of the biggest challenges we had faced with our first workshop was to balanc
 We’re now looking at ways to create a package that would allow people to run their own events/workshops. We’re not sure what form this will take just now, but it could consist of some templates and data?
 
 
-<p>If this is something you would like to be part of, then <a href="https://www.linkedin.com/in/serena-n%C3%BCsing-543295173/" target="_blank">get in touch with Serena</a> so we can develop it with people who actually plan to use it</p>
+<p><strong>If this is something you would like to be part of, then <a href="https://www.linkedin.com/in/serena-n%C3%BCsing-543295173/" target="_blank">get in touch with Serena</a> so we can develop it with people who actually plan to use it.</strong></p>
 
 
 > Please, do not hesitate to get in touch if you have questions or ideas
