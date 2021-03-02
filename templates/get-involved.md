@@ -12,11 +12,12 @@ Anyone who is passionate about the service design practice in the public and thi
 ## Why?
 
 - to learn from other practitioners
-- build this design community
-- shape the future of the service design practice
+- share your own story
 - experiment with the data
 - network and meet more people
-- share your own story
+- build this design community
+- shape the future of the service design practice
+
 
 
 ## How can you get involved?
