@@ -1,7 +1,8 @@
 ---
-title: Communications
+title: Events and blog posts
 ---
 
+You will find our Medium stories here where we write about the project and the events we have been invited to or which we have organised.
 
 ## Medium posts
 <ul>
@@ -12,6 +13,19 @@ title: Communications
     <li><a href="https://practitionerstories.medium.com/lots-of-feedback-and-ideas-thanks-to-a-busy-week-d18c02915b0a" target="_blank">Lots of feedback and ideas thanks to a busy week</a>  - 12 February 2021 Collective</li>
     <li><a href="https://practitionerstories.medium.com/weve-launched-the-practitioner-stories-website-944e260e97ec" target="_blank">We’ve launched the Practitioner Stories website!</a>  - 16 February 2021 Collective</li>
 </ul>
+
+<h2 class="top-line">Events</h2>
+
+### UX Glasgow Meetup - Wednesday 03 March 2021
+
+We will be presenting the project during their Special Service Design event.
+<p><a href="https://uxglasgow.co.uk/events/service-design-special">Learn more about the event and register on their website</a>.</p>
+
+<h3 class="top-line">SDS Gathering - Guests co-creators on Thursday 4 February 2021</h3>
+
+![illustration used on Eventbrite and social media to announce the event](/practitioner-stories/images/sdsGathering.jpeg)
+
+<p><a href="https://practitionerstories.medium.com/lots-of-feedback-and-ideas-thanks-to-a-busy-week-d18c02915b0a" target="_blank">Write up about the gathering</a> (Medium post).</p>
 
 
 <h2 class="top-line">Videos</h2>
@@ -29,9 +43,8 @@ For now, just two, to explain the big Miro board showing all our insights over t
 <iframe width="680" height="382" src="https://www.youtube.com/embed/bKgBVvcenuY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<h2 class="top-line">Events</h2>
+<h3 class="top-line">First workshop - Tuesday 2 February 2021 - Exploring contributions and challenges</h3>
 
-### First workshop - Tuesday 2 February 2021 - Exploring contributions and challenges
 ![illustration — map of Scotland and in front 5 people with a jigsaw piece and miro board of activities for the workshop](/practitioner-stories/images/workshop/workshop1-banner.jpg)
 
 <ul>
@@ -42,13 +55,6 @@ For now, just two, to explain the big Miro board showing all our insights over t
 </ul>
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRV8mRQG9_0RqDD75tSMiRNy9RkMyJE3aNo-uYDsgUinl2NYfeat2YrLnJr3o0QfGjSSalLUJjoc0-M/embed?start=false&loop=false&delayms=3000" frameborder="0" width="800" height="474" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-
-<h3 class="top-line">SDS Gathering - Guests co-creators on Thursday 4 February 2021</h3>
-
-![illustration used on Eventbrite and social media to announce the event](/practitioner-stories/images/sdsGathering.jpeg)
-
-<p><a href="https://practitionerstories.medium.com/lots-of-feedback-and-ideas-thanks-to-a-busy-week-d18c02915b0a" target="_blank">Write up about the gathering</a> (Medium post).</p>
 
 
 {% include give-feedback.html %}
