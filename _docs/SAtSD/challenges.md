@@ -21,7 +21,7 @@ order: 4
     - [Current ways of working is blocking service design](#list-of-clusters-of-insights--current-ways-of-working-is-blocking-service-design)
 
 
-<h2 class="top-line">The practical problems with SAtSD</h2>
+<h2 class="top-line" id="the-practical-problems-with-satsd">The practical problems with SAtSD</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SAtSD/satsd-practical.png)
 <p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333735755&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
@@ -98,7 +98,7 @@ order: 4
     </ul>
 </details>
 
-<h2 class="top-line">Barriers: organisational culture, mindset and environement</h2>
+<h2 class="top-line" id="barriers-organisational-culture-mindset-and-environement">Barriers: organisational culture, mindset and environement</h2>
 
 > These clusters of insights are related to SAtSD but not only, they could also fit the theme **'SD work and contributions'**  or **'Working with people'**
 

@@ -18,7 +18,7 @@ order: 4
 - [Things we want to see happening in our community](#things-we-want-to-see-happening-in-our-community)
 
 
-<h2 class="top-line">The future of the Service Design Community</h2>
+<h2 class="top-line" id="the-future-of-the-service-design-community">The future of the Service Design Community</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/Community/community-future.png)
 
@@ -50,7 +50,7 @@ order: 4
 <br>
 
 
-<h2 class="top-line">What a community space could be</h2>
+<h2 class="top-line" id="what-a-community-space-could-be">What a community space could be</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/Community/community-space-future.png)
 
@@ -73,7 +73,7 @@ order: 4
 <br>
 
 
-<h2 class="top-line">Things we want to see happening in our community</h2>
+<h2 class="top-line" id="things-we-want-to-see-happening-in-our-community">Things we want to see happening in our community</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/Community/community-want.png)
 

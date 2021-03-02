@@ -21,7 +21,7 @@ order: 2
 - [Impact of design on people](#impact-of-design-on-people)
 
 
-<h2 class="top-line">What we do in public and third sector organisations</h2>
+<h2 class="top-line" id="what-we-do-in-public-and-third-sector-organisations">What we do in public and third sector organisations</h2>
 
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SDwork/SDwork-gen1.png)
@@ -181,7 +181,7 @@ order: 2
  </details>
 <br>
 
-<h2 class="top-line">How we feel we contribute</h2>
+<h2 class="top-line" id="how-we-feel-we-contribute">How we feel we contribute</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SDwork/SDwork-gen2.png)
 <p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333740871&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
@@ -331,7 +331,7 @@ order: 2
  </details>
 <br>
 
-<h2 class="top-line">How do designers work in public and third sector</h2>
+<h2 class="top-line" id="how-do-designers-work-in-public-and-third-sector">How do designers work in public and third sector</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SDwork/SDwork-gen3.png)
 <p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333740786&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
@@ -416,7 +416,7 @@ order: 2
  </details>
 <br>
 
-<h2 class="top-line">Motivations for being a designer</h2>
+<h2 class="top-line" id="motivations-for-being-a-designer">Motivations for being a designer</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SDwork/SDwork-gen4.png)
 <p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333740915&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
@@ -446,7 +446,7 @@ order: 2
  </details>
 <br>
 
-<h2 class="top-line">Impact of design on people</h2>
+<h2 class="top-line" id="impact-of-design-on-people)">Impact of design on people</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SDwork/SDwork-gen5.png)
 <p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333740811&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
