@@ -8,7 +8,7 @@ order: 2
 <p><span class="tag-alt">Working on this page just now!</span></p>
 
 <div class="item-nav">
-<h2>Navigate the Service Design Community in Scotland theme</h2>
+<h2>Navigate the Working with people theme</h2>
    <p><span><a href="/practitioner-stories/Working-with-people/intro">Back to the Introduction</a></span></p>
    <p><span><a href="/practitioner-stories/Working-with-people/challenges">Go to Challenges</a></span></p>
    <p><span><a href="/practitioner-stories/Working-with-people/future">Go to Future</a></span></p>

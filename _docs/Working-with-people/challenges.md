@@ -6,7 +6,7 @@ order: 3
 
 
 <div class="item-nav">
-<h2>Navigate the Service Design Community in Scotland theme</h2>
+<h2>Navigate the Working with people theme</h2>
    <p><span><a href="/practitioner-stories/Working-with-people/intro">Back to the Introduction</a></span></p>
    <p><span><a href="/practitioner-stories/Working-with-people/general">Go to General</a></span></p>
    <p><span><a href="/practitioner-stories/Working-with-people/future">Go to Future</a></span></p>
@@ -24,7 +24,7 @@ order: 3
 - [How we involve a community](#how-we-involve-a-community)
 
 
-<h2 class="top-line">Barriers</h2>
+<h2 id ="barriers"class="top-line">Barriers</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/working-with/working-with-chall1.png)
 <p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333741115&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
@@ -87,7 +87,7 @@ order: 3
  </ul>
  </details>
 <br>
-<h2 class="top-line">Challenges - Strategies - limitations</h2>
+<h2 class="top-line" id="challenges---strategies---limitations">Challenges - Strategies - limitations</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/working-with/working-with-chall2.png)
 <p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333741124&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
@@ -247,7 +247,7 @@ order: 3
  </details>
 <br>
 
-<h2 class="top-line">Gaps in being inclusive, accessible and ethical</h2>
+<h2 class="top-line" id="gaps-in-being-inclusive-accessible-and-ethical">Gaps in being inclusive, accessible and ethical</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/working-with/working-with-chall3.png)
 <p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333736100&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
@@ -346,7 +346,7 @@ order: 3
  </details>
 <br>
 
-<h2 class="top-line">How we involve a community</h2>
+<h2 class="top-line" id="how-we-involve-a-community">How we involve a community</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/working-with/working-with-chall4.png)
 <p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333736096&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
