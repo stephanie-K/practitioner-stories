@@ -43,5 +43,5 @@ We’re now looking at ways to create a package that would allow people to run t
 > Please, do not hesitate to get in touch if you have questions or ideas
 
 <br><br>
-<div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>
+<p><a href="#"><strong>Back to top</strong></a></p>
 

@@ -24,4 +24,4 @@ We have a mailing list to let people know when we publish something about the pr
 
 
 <br><br><br><br>
-<div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>
+<p><a href="#"><strong>Back to top</strong></a></p>

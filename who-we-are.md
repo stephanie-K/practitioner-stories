@@ -38,4 +38,4 @@ She works for Scottish Enterprise as a service designer. She came to Scotland 16
 Connect on <a href="https://www.linkedin.com/in/stephanie-krus/" target="_blank">LinkedIn</a></p>
 
 <br><br>
-<div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>
+<p><a href="#"><strong>Back to top</strong></a></p>

@@ -293,5 +293,5 @@ order: 2
 <br>
 {% include give-feedback.html %}
 
-<div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>
+<p><a href="#"><strong>Back to top</strong></a></p>
 

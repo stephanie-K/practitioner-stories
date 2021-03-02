@@ -44,4 +44,4 @@ Within each theme, there are sub-themes and for each of them, you will find a li
 > We are open to suggestions and welcome feedback.
 
 {% include give-feedback.html %}
-<div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>
+<p><a href="#"><strong>Back to top</strong></a></p>
