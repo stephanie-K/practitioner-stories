@@ -446,7 +446,7 @@ order: 2
  </details>
 <br>
 
-<h2 class="top-line" id="impact-of-design-on-people)">Impact of design on people</h2>
+<h2 class="top-line" id="impact-of-design-on-people">Impact of design on people</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SDwork/SDwork-gen5.png)
 <p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333740811&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>

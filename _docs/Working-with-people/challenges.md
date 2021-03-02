@@ -24,7 +24,7 @@ order: 3
 - [How we involve a community](#how-we-involve-a-community)
 
 
-<h2 id ="barriers"class="top-line">Barriers</h2>
+<h2 id ="barriers" class="top-line">Barriers</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/working-with/working-with-chall1.png)
 <p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333741115&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>

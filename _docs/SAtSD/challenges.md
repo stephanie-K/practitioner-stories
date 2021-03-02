@@ -160,7 +160,7 @@ order: 4
     </ul>
 </details>
 
-<h3 class="top-line">List of clusters of insights : Current ways of working is blocking service design</h3>
+<h3 class="top-line" id="list-of-clusters-of-insights--current-ways-of-working-is-blocking-service-design">List of clusters of insights : Current ways of working is blocking service design</h3>
 
 #### Decisions and hierachies
 <details>
