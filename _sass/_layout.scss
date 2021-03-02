@@ -609,3 +609,12 @@ details.navigation {
 		text-decoration: none;
 	}
 }
+
+.date {
+	margin-bottom: 0;
+	span {
+		background-color: $brand-colour-light;
+		color: #467F89;
+		font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+	}
+}
