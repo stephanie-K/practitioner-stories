@@ -21,7 +21,16 @@ Anyone who is passionate about the service design practice in the public and thi
 
 ## How can you get involved?
 
-We’re currently at the point of reviewing our research and process to plan our next steps. 
+<p>There are different ways how you can get involved and support the project:</p>
+<ul>
+    <li><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457354466156107&cot=10" target="_blank">visit the Miro board</a> or navigate the website and help us analysing the data</li>
+    <li>read through the data and provide feedback</li>
+    <li>run your own session with people to discuss insights</li>
+    <li><a href="https://twitter.com/PractitionerSt1" target="_blank">follow us on Twitter</a> and <a href="https://practitionerstories.medium.com" target="_blank">Medium</a></li>
+    <li>stay updated and join any upcoming events</li>
+    <li>get in touch if you have a question or would like to learn more</li>
+</ul>
+
 
 ### Explore clusters of insights 
 
