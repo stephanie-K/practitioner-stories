@@ -18,8 +18,9 @@ You will find our Medium stories here where we write about the project and the e
 
 ### UX Glasgow Meetup - Wednesday 03 March 2021
 
-We will be presenting the project during their Special Service Design event.
-<p><a href="https://uxglasgow.co.uk/events/service-design-special" target="_blank">Learn more about the event and register on their website</a>.</p>
+We presented the project during their Special Service Design event.
+<p><a href="https://uxglasgow.co.uk/events/service-design-special" target="_blank">Learn more about the event</a>.</p>
+<p>You will find lots of resources about service design on that page as well.</p>
 
 <h3 class="top-line">SDS Gathering - Guests co-creators on Thursday 4 February 2021</h3>
 
