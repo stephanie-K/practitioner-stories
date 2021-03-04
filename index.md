@@ -15,7 +15,7 @@ title: Welcome
 
 
 <blockquote class="alt">
-  <p><strong>This is about Service Design, which is wider than just service designers.</strong></p>
+  <p><strong>This is about Service Design practice, which is wider than just service designers.</strong></p>
   <p>Only 8 of our participants have 'service designer' as their job title.</p>
 </blockquote>
 
