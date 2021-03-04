@@ -54,8 +54,10 @@ Note that a lot of insights are related to another theme "[Working with people](
 </ul>
 
 <blockquote>
-<p> "When we started this, we just called it The Scottish Approach to Service Design, because civil servants in Scottish government had a philosophy called the Scottish Approach to Government and I was trying to explain to them why design connected to how they thought, so I connected the two things and it stuck." - <a href="https://accessibility.scot/accessible-public-services-are-we-there-yet/" target="_blank">Cat Macaulay</a></p>
+<p> "When we started this, we just called it The Scottish Approach to Service Design, because civil servants in Scottish government had a philosophy called the Scottish Approach to Government and I was trying to explain to them why design connected to how they thought, so I connected the two things and it stuck." - Cat Macaulay</p>
 </blockquote>
+
+<p>The quote above comes from this <a href="https://accessibility.scot/accessible-public-services-are-we-there-yet/" target="_blank">video of Cat Macaulay's talk at the Accessibility Scotland conference</a> in November 2019 - worth a watch!</p>
 
 <br><br>
 {% include give-feedback.html %}
