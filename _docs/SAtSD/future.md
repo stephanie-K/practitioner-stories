@@ -86,7 +86,7 @@ order: 5
 </details>
 
 
-#### Including guidance for design practioners
+#### Including guidance for design practitioners
 
 <br><br>
 {% include give-feedback.html %}
