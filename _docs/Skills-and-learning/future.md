@@ -85,9 +85,9 @@ order: 4
     <li>I know it depends on time and capacity, but it is the reflection and actively thinking that through, and holding yourself up against those criteria and those standards even doing retrospectives, working as a cycle. It wouldn't be so hard to say: well actually these are the things that we want to be able to reflect on at the end of that. To integrate that into ways of working, and come together as a full team</li>
  </ul>
  </details>
- <br>
+<br>
 
- #### Building capacity in your organisation
+#### Building capacity in your organisation
    <details>
  <summary>Skills up everyone: teach the SD language and facilitation</summary>
  <ul>
@@ -117,8 +117,8 @@ order: 4
  <ul>
     <li>Kind of continuous improvement? just because you have been doing it for a while doesn't mean that you still would not benefit from a mentor or someone else who might have been doing it in a different field or a bit longer, or with a different skill set that you want to bounce off of</li>
  </ul>
- </details>
-    <details>
+</details>
+<details>
  <summary>Mentoring to meet new people outside your normal circle</summary>
  <ul>
     <li>I was quite interested in the mentoring scheme [...] because it's a way to meet others that you would not meet in your typical circles and it's a different you could be mentored by someone, that would be nice for me as well, having someone outside of my day to day but who's got a bit more experience that I can learn from, and then vice versa. So I do mentor a lady she used to be an intern and now she works for a different company but I still mentor her, I enjoy it, so I suppose I do a little bit</li>

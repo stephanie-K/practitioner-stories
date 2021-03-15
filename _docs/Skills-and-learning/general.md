@@ -59,7 +59,7 @@ order: 2
 <br>
 
 
-<h2 class="top-line">ther big group</h2>
+<h2 class="top-line">Service Design Education</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/skills-learning/skills-gen3.png)
 <p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333736223&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
@@ -68,13 +68,54 @@ order: 2
 
 > Select one of the clusters of insights to see the quotes supporting it. Select it again to hide the quotes.
  <details>
- <summary></summary>
+ <summary>SD should be in the curriculum for anyone as an approach about how you think</summary>
  <ul>
-    <li></li>
+    <li> I think design led approaches to things should be part of the curriculum and in terms of academia, how people learn about SD and not necessarily to be a Service designer but more like that may not be your job, but it's an approach about how you think about things</li>
  </ul>
  </details>
-<br>
-
+     <details>
+ <summary>Too many expectations</summary>
+ <ul>
+    <li>We are expecting people to come out of service design courses within the universities after either a couple of years learning about design history and design as a process and map it or doing it as a one or two year masters at the end of something else</li>
+ </ul>
+ </details>
+  <details>
+ <summary>How: a lot of people coming through the same route (2 years of uni or SD courses)</summary>
+ <ul>
+    <li> A lot of people arriving in service design have come through the same route [service design courses within the universities after either a couple of years]</li>
+ </ul>
+ </details>
+   <details>
+ <summary>How: put yourself in a position of looking at how something got made and make it better</summary>
+ <ul>
+    <li>to most people I say ‘ditch the Masters and just go and work in a business and make it something better. Learn all the materials and organisations, get yourself in the position of having to be in a meeting and make an argument. Go and put yourself in a position of looking at how something got made. And I think, that for me is probably what’s missing in terms of skillset</li>
+ </ul>
+ </details>
+   <details>
+ <summary>How: self directed learning</summary>
+ <ul>
+    <li>My Masters’ degree was self-taught and self-developed</li>
+ </ul>
+ </details>
+   <details>
+ <summary>How: no need for a masters</summary>
+ <ul>
+    <li>Where do you find designers, because there is a growing demand for them, but is academia actually filling that demand, and where are they coming from, I suppose what skills should you have? does it really matter if you have a service design degree or is it more about how you think as a person. So from an academic point of view what does that mean? I think it's a whole other conversation though</li>
+    <li> I advice people that say ‘how do I get into service design’ if they are doing a career change or trying to get into it from another discipline. Lot’s of people look at very expensive Masters courses. And I have to be careful what I say, because I really respect [that kind of training]. But going to a Masters if you want, you need the time in your life to go and do some introspective thinking and get over your impostor syndrome</li>
+ </ul>
+ </details>
+   <details>
+ <summary>Who: open up to diverse people not keeping a very straight, privilege white line of people coming to SD</summary>
+ <ul>
+    <li>you trained your brain to think in different ways and then brought this different thinking into this discipline, makes you kind of magical in terms of how you can approach a problem. And I was like, why are we not doing this within the design industry? Why are we expecting people to go through the same pipeline and then come out different, come out as diverse as we need? We're not going to answer that question by maintaining a very privileged, very white pipeline of designers. We‘re not going to answer that</li>
+ </ul>
+ </details>
+    <details>
+ <summary>Who: bringing in different people with different background,lived experience </summary>
+ <ul>
+    <li>All of those people coming into design jobs from other jobs, who previously been project managers, or musicians or other types of designers, all those people, who have fascinating brains and fascinating ways of walking through problems and telling stories, and people with lived experiences of the services, that we are designing, those are the people that I would love to see doing the job. Because I think they are more interesting than art school students</li>
+ </ul>
+ </details>
 <br><br>
 {% include give-feedback.html %}
 
