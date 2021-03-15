@@ -15,11 +15,11 @@ order: 3
 
 <h2 class="top-line">Clusters of insights - quick access</h2>
 
-- [Things we're missing in our SD practice](#)
-- [Gaps in the Service Design Education](#)
+- [Things we're missing in our SD practice](#things-missing)
+- [Gaps in the Service Design Education](#gaps-in-education)
 
 
-<h2 class="top-line">Things we're missing in our SD practice</h2>
+<h2 class="top-line" id="things-missing">Things we're missing in our SD practice</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/skills-learning/skills-chall1.png)
 <p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333736097&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
@@ -80,7 +80,7 @@ order: 3
 
 
 
-<h2 class="top-line">Gaps in the Service Design Education</h2>
+<h2 class="top-line" id="gaps-in-education">Gaps in the Service Design Education</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/skills-learning/skills-chall2.png)
 <p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333736222&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
@@ -112,8 +112,6 @@ order: 3
     <li>the hierarchies aren’t there to support our work. I don't really  know how we get around that.  We've been trained with an agency mindset, where you never have that problem. You just do a Project,  and then move on. I wonder if [ universities] should do public sector design course</li>
  </ul>
  </details>
-<br>
-
 <br><br>
 {% include give-feedback.html %}
 
