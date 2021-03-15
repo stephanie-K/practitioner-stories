@@ -42,15 +42,117 @@ order: 2
  </details>
 <br>
 
-<h2 class="top-line">ther big group</h2>
+<h2 class="top-line">Skills to have</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/skills-learning/skills-gen2.png)
 <p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333736224&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
 
-### List of clusters of insights
+### How our skills are perceived
+
+#### List of clusters of insights
+
+> Select one of the clusters of insights to see the quotes supporting it. Select it again to hide the quotes.
+
+##### Distinction from other disciplines
+ <details>
+ <summary></summary>
+ <ul>
+    <li></li>
+ </ul>
+ </details>
+  <details>
+ <summary></summary>
+ <ul>
+    <li></li>
+ </ul>
+ </details>
+ <br>
+
+##### Expected to be super heroes (have the whole skills set)
+  <details>
+ <summary></summary>
+ <ul>
+    <li></li>
+ </ul>
+ </details>
+  <details>
+ <summary></summary>
+ <ul>
+    <li></li>
+ </ul>
+ </details>
+  <details>
+ <summary></summary>
+ <ul>
+    <li></li>
+ </ul>
+ </details>
+  <details>
+ <summary></summary>
+ <ul>
+    <li></li>
+ </ul>
+ </details>
+ <br>
+
+ ##### Gradient from: "anyone can do SD after a 1/2 training session" up to: "you need a masters plus years of experience"
+  <details>
+ <summary>Some think only experts can do Service design</summary>
+ <ul>
+    <li> I find designers who have been doing it for a long time or have a big name for themselves are very skeptical about other people doing design. I think I'm on the fence. Because if you talk to someone like that, [...] they think it's bad that other people are doing design because they are not experts in it and it dilutes the quality  I think it's just wrong when you hear... it's almost like a head chef mentality that "only I can do this, and nobody else can do this". That's my general view of how design has changed. We have got better at implementing it within businesses and  charities. We should not really be scared that it's becoming more common knowledge.</li>
+ </ul>
+ </details>
+  <details>
+ <summary>Wrong image of what the skills of a SD are</summary>
+ <ul>
+    <li>you get this picture that a service designer is a person, who either does research themselves or works with researchers, produces a hell lot of personas and journeys maps and diagrams and then maybe makes some prototypes of varying degree of fidelity and then probably makes something like a blueprint. We educate ourselves that it is our job to make things and you produce diagrams. So, we‘re seeing a lot of people coming out of university being able to produce really nice diagrams. And one of the things I‘m reflecting on in these conversations is that this is such a small percentage of the job</li>
+ </ul>
+ </details>
+<br>
+
+### How we facilitate, tell the story, take people on the journey
+
+#### List of clusters of insights
 
 > Select one of the clusters of insights to see the quotes supporting it. Select it again to hide the quotes.
  <details>
+ <summary></summary>
+ <ul>
+    <li></li>
+ </ul>
+ </details>
+<br>
+
+### Other
+
+#### List of clusters of insights
+
+> Select one of the clusters of insights to see the quotes supporting it. Select it again to hide the quotes.
+ <details>
+ <summary></summary>
+ <ul>
+    <li></li>
+ </ul>
+ </details>
+  <details>
+ <summary></summary>
+ <ul>
+    <li></li>
+ </ul>
+ </details>
+  <details>
+ <summary></summary>
+ <ul>
+    <li></li>
+ </ul>
+ </details>
+  <details>
+ <summary></summary>
+ <ul>
+    <li></li>
+ </ul>
+ </details>
+  <details>
  <summary></summary>
  <ul>
     <li></li>
