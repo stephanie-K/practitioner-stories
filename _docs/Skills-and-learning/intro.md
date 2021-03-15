@@ -34,6 +34,12 @@ Participants might have also mentioned it while answering other questions.
 
 <p><span class="tag-alt">Coming soon</span></p>
 
+<!-- div class="item-nav">
+   <p><span><a href="/practitioner-stories/Skills-and-learning/general">Go to General</a></span></p>
+   <p><span><a href="/practitioner-stories/Skills-and-learning/challenges">Go to Challenges</a></span></p>
+   <p><span><a href="/practitioner-stories/Skills-and-learning/future">Go to Future</a></span></p>
+   </div -->
+
 <br><br>
 {% include give-feedback.html %}
 
