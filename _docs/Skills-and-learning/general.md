@@ -21,7 +21,7 @@ order: 2
 - [Skills to have](#skills-to-have)
    - [How our skills are perceived](#how-our-skills-are-perceived)
    - [How we facilitate, tell the story, take people on the journey](#how-we-facilitate-tell-the-story-take-people-on-the-journey)
-- [Service Design Education: Route into Service Design](#)
+- [Service Design Education: Route into Service Design](#sd-education)
 
 
 
@@ -284,7 +284,6 @@ There is a really wide range of learning needs / wants. For most of them it was 
  </details>
 
 ##### One participant had needs around learning Leadership / management skills because of a new job role
-
 <details>
  <summary>Become a leader / more design leadership</summary>
  <ul>
@@ -415,7 +414,7 @@ There is something here about the way we learn about the people we work with and
 
 > Select one of the clusters of insights to see the quotes supporting it. Select it again to hide the quotes.
  
- ##### Facilitation skills
+##### Facilitation skills
   This is mentioned in learning as well as a lot of participants realised they needed to improve this skill.
  
  <details>
@@ -609,7 +608,7 @@ There is something here about the way we learn about the people we work with and
     <li>you trained your brain to think in different ways and then brought this different thinking into this discipline, makes you kind of magical in terms of how you can approach a problem. And I was like, why are we not doing this within the design industry? Why are we expecting people to go through the same pipeline and then come out different, come out as diverse as we need? We're not going to answer that question by maintaining a very privileged, very white pipeline of designers. We‘re not going to answer that</li>
  </ul>
  </details>
-    <details>
+<details>
  <summary>Who: bringing in different people with different background,lived experience </summary>
  <ul>
     <li>All of those people coming into design jobs from other jobs, who previously been project managers, or musicians or other types of designers, all those people, who have fascinating brains and fascinating ways of walking through problems and telling stories, and people with lived experiences of the services, that we are designing, those are the people that I would love to see doing the job. Because I think they are more interesting than art school students</li>
