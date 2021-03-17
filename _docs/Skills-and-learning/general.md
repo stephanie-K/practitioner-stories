@@ -291,19 +291,19 @@ There is a really wide range of learning needs / wants. For most of them it was 
     <li>I guess my position is a little bit different now because now where I‘m a manager rather than a practitioner as such, I need to do less and less on the ground like user research, I need to manage other people, who are doing this. So, this is where my focus is, learning how to let go some of it and how to coach people. Managing people isn’t new to me but [...] it‘s not only that I‘m managing people, but I‘m trying to do that coordinating beyond my peers</li>
  </ul>
  </details>
-    <details>
+<details>
  <summary>leadership meetups</summary>
  <ul>
     <li>I‘ve been part of the thing called design leadership meetups, [...] And I think this would be extremely helpful for me because I think this is the thing I need mostly now</li>
  </ul>
  </details>
-    <details>
+<details>
  <summary>Understanding future role (as a design leader)</summary>
  <ul>
     <li> I guess for me it‘s just understanding what my role is. Because there will come a point, where I will be no longer involved in any kind of practice at all very much. So, the question for me is, how do I keep in touch with that? What is best practice at the moment? What does the practitioner look like in the modern world? I think that is something I have to think very carefully about.</li>
  </ul>
  </details>
-    <details>
+<details>
  <summary>From design to management</summary>
  <ul>
     <li>I don’t necessarily want to be a manager, but this is where I found myself ending up in. [...] So, I‘ve tried to balance my old job as well as trying to take up some of the management stuff and having these conversations with other managers.</li>
