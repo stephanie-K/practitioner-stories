@@ -15,12 +15,12 @@ order: 2
 
 <h2 class="top-line">Clusters of insights - quick access</h2>
 
-- [Learning]
+- Learning
    - [Ways of learning](#ways-of-learning)
-   - [Learning needs / wants](#learning-needs-/-wants)
+   - [Learning needs / wants](#learning-needs--wants)
 - [Skills to have](#skills-to-have)
    - [How our skills are perceived](#how-our-skills-are-perceived)
-   - [How we facilitate, tell the story, take people on the journey](#)
+   - [How we facilitate, tell the story, take people on the journey](#how-we-facilitate-tell-the-story-take-people-on-the-journey)
 - [Service Design Education: Route into Service Design](#)
 
 
@@ -49,7 +49,7 @@ order: 2
  </ul>
  </details>
   <details>
- <summary>listening / watching people</summary>
+ <summary>Listening / watching people</summary>
  <ul>
     <li>I‘m a bit of a looker, I like to watch what other people are doing and also watch how other people are sharing what it is what they are doing</li>
     <li>listen to my staff members, I think, listen to the team seeing what they‘re bringing in. Already the new members of our team are bringing in new perspectives and new approaches and I‘m trying to see, understand for myself, how does this fit into my understanding, my view of what we need to achieve and what is the bigger picture thing and how does it all fit together</li>
@@ -283,8 +283,9 @@ There is a really wide range of learning needs / wants. For most of them it was 
  </ul>
  </details>
 
- ##### One participant had needs around learning Leadership / management skills because of a new job role
-   <details>
+##### One participant had needs around learning Leadership / management skills because of a new job role
+
+<details>
  <summary>Become a leader / more design leadership</summary>
  <ul>
     <li>I‘m trying to figure out how to grow as a leader and what leadership means. And then figuring out do I want to stand in the design industry and then also what does design leadership mean to me. So, I think that kind of lacks in public sector organisations</li>
@@ -318,7 +319,7 @@ There is a really wide range of learning needs / wants. For most of them it was 
 > Select one of the clusters of insights to see the quotes supporting it. Select it again to hide the quotes.
 
  <details>
- <summary>being able to apply learning the learning is important</summary>
+ <summary>Being able to apply learning the learning is important</summary>
  <ul>
     <li>The next step is now to leverage that network internally as well as leverage the network nationally to try to get more people involved in those projects and to use those skills because it is all good training but if they are not gonna use it, we don’t need to bother. Because the worry is, we train a lot of people, but then the people just go back and have to go on with their day job and not been able to really use it enough</li>
     <li>I think there is always a risk that we can spend too much time doing things like formal training, without thinking how we are going to use that formal training or what that formal training changes in our approach</li>
@@ -391,7 +392,7 @@ There is a really wide range of learning needs / wants. For most of them it was 
  </details>
  <br>
 
- ##### Gradient from: "anyone can do SD after a 1/2 training session" up to: "you need a masters plus years of experience"
+##### Gradient from: "anyone can do SD after a 1/2 training session" up to: "you need a masters plus years of experience"
   <details>
  <summary>Some think only experts can do Service design</summary>
  <ul>
@@ -414,7 +415,7 @@ There is something here about the way we learn about the people we work with and
 
 > Select one of the clusters of insights to see the quotes supporting it. Select it again to hide the quotes.
  
-  ##### Facilitation skills
+ ##### Facilitation skills
   This is mentioned in learning as well as a lot of participants realised they needed to improve this skill.
  
  <details>
@@ -446,7 +447,7 @@ There is something here about the way we learn about the people we work with and
  </details>
 <br>
 
- ##### Storytelling for engagement
+##### Storytelling for engagement
  
  <details>
  <summary>People don't know how to tell a story</summary>
@@ -468,7 +469,7 @@ There is something here about the way we learn about the people we work with and
  </details>
 <br>
 
- ##### Stakeholder engagement / Reality check
+##### Stakeholder engagement / Reality check
  
  <details>
  <summary>Learn to compromise, reality and stakeholder to take into account</summary>
@@ -484,7 +485,7 @@ There is something here about the way we learn about the people we work with and
  </details>
 <br>
 
- ##### Other:
+##### Other:
 
   <details>
  <summary>Building relationships / listening and dialog, learning how to engage with people who are not familiar to SD</summary>
@@ -557,7 +558,7 @@ There is something here about the way we learn about the people we work with and
 <br>
 
 
-<h2 class="top-line">Service Design Education</h2>
+<h2 class="top-line" id="sd-education">Service Design Education</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/skills-learning/skills-gen3.png)
 <p><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352333736223&cot=14" target="_blank">Access the part of the Miro Board represented in the image</a></p>
@@ -571,7 +572,7 @@ There is something here about the way we learn about the people we work with and
     <li> I think design led approaches to things should be part of the curriculum and in terms of academia, how people learn about SD and not necessarily to be a Service designer but more like that may not be your job, but it's an approach about how you think about things</li>
  </ul>
  </details>
-     <details>
+<details>
  <summary>Too many expectations</summary>
  <ul>
     <li>We are expecting people to come out of service design courses within the universities after either a couple of years learning about design history and design as a process and map it or doing it as a one or two year masters at the end of something else</li>
@@ -589,20 +590,20 @@ There is something here about the way we learn about the people we work with and
     <li>to most people I say ‘ditch the Masters and just go and work in a business and make it something better. Learn all the materials and organisations, get yourself in the position of having to be in a meeting and make an argument. Go and put yourself in a position of looking at how something got made. And I think, that for me is probably what’s missing in terms of skillset</li>
  </ul>
  </details>
-   <details>
+<details>
  <summary>How: self directed learning</summary>
  <ul>
     <li>My Masters’ degree was self-taught and self-developed</li>
  </ul>
  </details>
-   <details>
+<details>
  <summary>How: no need for a masters</summary>
  <ul>
     <li>Where do you find designers, because there is a growing demand for them, but is academia actually filling that demand, and where are they coming from, I suppose what skills should you have? does it really matter if you have a service design degree or is it more about how you think as a person. So from an academic point of view what does that mean? I think it's a whole other conversation though</li>
     <li> I advice people that say ‘how do I get into service design’ if they are doing a career change or trying to get into it from another discipline. Lot’s of people look at very expensive Masters courses. And I have to be careful what I say, because I really respect [that kind of training]. But going to a Masters if you want, you need the time in your life to go and do some introspective thinking and get over your impostor syndrome</li>
  </ul>
  </details>
-   <details>
+<details>
  <summary>Who: open up to diverse people not keeping a very straight, privilege white line of people coming to SD</summary>
  <ul>
     <li>you trained your brain to think in different ways and then brought this different thinking into this discipline, makes you kind of magical in terms of how you can approach a problem. And I was like, why are we not doing this within the design industry? Why are we expecting people to go through the same pipeline and then come out different, come out as diverse as we need? We're not going to answer that question by maintaining a very privileged, very white pipeline of designers. We‘re not going to answer that</li>
