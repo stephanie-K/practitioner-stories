@@ -37,24 +37,276 @@ order: 2
 > Select one of the clusters of insights to see the quotes supporting it. Select it again to hide the quotes.
 
  <details>
- <summary></summary>
+ <summary>Self learning</summary>
  <ul>
-    <li></li>
+    <li>I'm at a level where I can pick things up and as long as I've got the crumbs, the sources etc etc, I can figure things out and then chase people up on the back of that</li>
+ </ul>
+ </details>
+  <details>
+ <summary>Learning by trial and error</summary>
+ <ul>
+    <li>[Remotely?] Well, I don’t know, we can try things out, we can experiment, we can learn from those experiments, we’re just learning</li>
+ </ul>
+ </details>
+  <details>
+ <summary>listening / watching people</summary>
+ <ul>
+    <li>I‘m a bit of a looker, I like to watch what other people are doing and also watch how other people are sharing what it is what they are doing</li>
+    <li>listen to my staff members, I think, listen to the team seeing what they‘re bringing in. Already the new members of our team are bringing in new perspectives and new approaches and I‘m trying to see, understand for myself, how does this fit into my understanding, my view of what we need to achieve and what is the bigger picture thing and how does it all fit together</li>
+ </ul>
+ </details>
+  <details>
+ <summary>Some kind of internship: get a a course and give back in work hours</summary>
+ <ul>
+    <li>In procurement, they have that thing called the community clause [...] I'm quite happy to do the course, 20hours a week, and give my community 20hours a week work. There is an accommodation to be made that I can pay for that, it will take me through the study, and I give them this work time not only to teach, but to be part</li>
+ </ul>
+ </details>
+  <details>
+ <summary>Learning on the role / by doing</summary>
+ <ul>
+    <li>You learn stuff from people, [...] it's the informal thing you learn by working with different people, this is the main way</li>
+    <li>I don’t know what skills I need until I’m put into a new project’. So I suppose I very much have the approach of ‘I just want to work on lots of different projects and in lots of different teams. And that’s how I learn best as well. I don't learn very well having to read stuff</li>
+    <li>It's difficult to know what  I will need until I need it. And then, you should be working in a team where you can learn those skills from other people</li>
+    <li>We need to understand the context. And you can’t really learn that, you need to go and speak with them and communicate. A lot of it is about talking to people who have been In the mechanism of government for a long time and really understand it. [...] that has to be done  during work time</li>
+    <li>I tend to think that you‘re learning a lot more by practice anyway. You know, you learn on the job, on what you‘re doing there because it‘s a real scenario. That seems to me more valuable or that is more applicable.</li>
+    <li>There is a bit of a balance - while working on a project you can learn a lot from colleagues, as you are working through stuff and that's an important part of what you do.</li>
+ </ul>
+ </details>
+  <details>
+ <summary>Peer learning - sharing - building your own community of learning</summary>
+ <ul>
+    <li> I work really hard to get a kind of deep ecosystem around me that's got all these beautiful things that I can interact with</li>
+    <li>Peer learning exchange or peer learning opportunities, development opportunities, I think this would be really cool. [...] I'm constantly talking to people through the week, I have a lot of conversations with them all, and they are receptive, we are always passing through each others</li>
+    <li>one of the most valuable things we can do is to connect with others from other institution, from other areas. And even to think beyond user experience design. I think it‘s important to connect with other like-minded people. Sometimes I go to the product meet-up</li>
+    <li>We try to build that kind of community element. So, there are community meet-ups as well. we need to bring other people on board. It‘s just we need to advocate for and sell it as an approach</li>
+    <li>I feel confident to say now that we’ve done over the years and I feel very proud of, and people had said to us they like this about us; we invested in holding up the voices of others and creating events and platforms. we are there to raise the voices and start the conversation</li>
+ </ul>
+ </details>
+  <details>
+ <summary>Learn by being engaged in a community / organisation</summary>
+ <ul>
+    <li>Another thing I enjoy doing as part of my day job is being part of the SDN network  [...]I got involved there and just the connections you make via the people in the committee and then through there because they all work in various sectors, public sector, private sector, some of them are involved in academia, and in a lot of countries as well, so you get different perspective as well</li>
+ </ul>
+ </details>
+  <details>
+ <summary>Search online, ask others</summary>
+ <ul>
+    <li>In terms of what I want to know, no idea. In terms of how I found that out, usually intranet, and it's just about searching, finding out a sensible resource which is always the fun bit, and then trying to see if anyone is saying the same thing</li>
+    <li>I find myself more drawn to the people, who say “hey, I‘m wondering about this thing, can anyone help me out with it”? So, I found most recently that I‘m taking this stance of asking a question and inviting people to either take it on themselves, which is lovely, or finding people that are thinking along the same lines to then work through that problem with. Or hearing something totally new and exciting about a different way to approach</li>
+    <li>It's always nice to know, particularly when it's government folks, if you get to know them and build a relationship and you take them to one side and go: what's the real story, what's going on? there is a bit of that that I'm missing at the moment. I was at a gathering, and I was able to grab a few folks from the network and ask them what has been going on? what's coming? what should I be looking out for? So that's what I'm missing. I miss that and hope to find a way into that again</li>
+ </ul>
+ </details>
+  <details>
+ <summary>Exposition to different contexts / moving between different sectors</summary>
+ <ul>
+    <li>It is good to be put in different contexts sometimes, in different projects, to kind of challenge your perceptions</li>
+    <li>Quite often we plan a career within design, and we are drawn to either public or private. And people kind of see themselves as a designer for public services. And actually, I think there is a lot of benefit of moving between sectors and gaining experiences and sharing skills amongst them. I think it‘s quite helpful to encourage people to spend a little bit of time on different disciplines, in different environments as a designer. Although I desperately want to build up the design scene within the public sector in Scotland, I can only see that being strong if people have experiences elsewhere as well.</li>
+    <li>That collaborative mix of tackling a brief that was completely out of the work place, [...]and just tackling a completely different brief with a completely different set of designers. It was really refreshing. I brought a lot of the facilitation that I do [...] for online workshops, tools that we should use, how do we get from a lot of research to the solution space...</li>
+    <li>It's good to work with people outside the organisation. I was able to test the facilitation tools,  my own facilitations skills in workshops, to come away with an understanding of how other organisations are working and what tools they are using</li>
+ </ul>
+ </details>
+   <details>
+ <summary>Attending events or even speaking at events</summary>
+ <ul>
+    <li>I do enjoy going to different events as well. it's nice to hear from other folks and what they have been doing</li>
+    <li>Another thing is probably going to talk and conferences, I get to do that but it kind of varies, times and things, lockdown was actually kind of good for that actually, because everything was online and you could attend things in different countries, from that point of view it was very cool.  Although it is  work, but it doesn't feel like it, you know going to an event or a workshop or something is quite fun</li>
+    <li>I like the <a href="https://www.pechakucha.com/" target="_blank">Pechakucha</a> style and I think i'm going to modify that a little bit for this audience now, because it's very much what I have learn from this audience from Zoom, some folks just speak. Some are better than others, but give me the nuggets and some context and that's should work then when I look at that, I can understand it.</li>
+    <li>Yeah, meet-ups, Slack channel and conferences. I try all of those things and connecting with people</li>
+ </ul>
+ </details>
+   <details>
+ <summary>Bringing learning opportunities to my work</summary>
+ <ul>
+    <li>I look for opportunities to bring that to my work. [Participating in a network and running events] takes up time, and I’ve talked to my line managers about doing that and how to bring that into our way of working in general, so I’ve tighten both together</li>
+ </ul>
+ </details>
+   <details>
+ <summary>Going to jams</summary>
+ <ul>
+    <li>Sometimes it's during my personal time, when it's and evening event, or jams, I haven't been to a jam for years, but that was giving up your personal time to go and work with others, do something quite different and learn new skills</li>
+ </ul>
+ </details>
+   <details>
+ <summary>Inside organisation training and learning</summary>
+ <ul>
+    <li>There's people that we reach out to learn. [...] [In the company], we have almost a weekly learning session just now. So we get practitioners in from loads of different stuff, sharing their practice. {At the company level], we are a big community now, we have ‘show and tells’ and stuff;. We are sharing, we have big ones three or four times a year with the whole company, so you learn projects and we have unconferences and stuff</li>
+    <li>I'm probably doing more learning and development than I was in any other job. [...] through running sessions on competency-based interviews, facilitation of workshops, [...] they were able to roll this out as a piece of training for everyone else. [That] means that, when you set up a workshop in Miro or Mural, all the people already know, sort of use it before you even get to your own workshop, which is really beneficial</li>
+ </ul>
+ </details>
+   <details>
+ <summary>Learning through writing as a reflective exercise</summary>
+ <ul>
+    <li>I enjoy writing about personal development and like trials within design work. I find it helpful as a reflective exercise</li>
+ </ul>
+ </details>
+   <details>
+ <summary>Learning through  reading</summary>
+ <ul>
+    <li>Most recent books I've read Lou Downe good Services, Validating product ideas (Tomer Sharon) because I was struggling personally with this big complex projects I wanted to get to the bottom of how to prioritise things, so reading is a big part</li>
+    <li>I literally I'm one of those people that orders books all the time and half read them. So like, I'm a bit of knowledge junkie, like I just wanna know stuff all the time so... I gravitate to so many different topics</li>
+    <li>Do a fair bit of reading in my work time, but I also do a hell of a lot in my personal time. All the blogging I do is in my personal time</li>
+    <li>Reading in the evening, attend meet-ups...</li>
+ </ul>
+ </details>
+   <details>
+ <summary>Useful resources</summary>
+ <ul>
+    <li>I can recommend GDS, they’ve got a lot of very articulate Articles and what not around how it's useful, and we borrow liberally.</li>
  </ul>
  </details>
 <br>
 
+##### About learning courses
+
+> Please note: This was mostly one person talking about it so might not be representative - Would need more research
+
+ <details>
+ <summary>Too much for beginners / not enough for advanced</summary>
+ <ul>
+    <li>From a formal point of view, there is not a huge amount out there in terms of like formal stuff  a lot of workshop you take is more aimed at people who are maybe new to service design, there's lot of bootcamps, and like "3 days welcome to service design" thing there's maybe pockets of workshop for things</li>
+ </ul>
+ </details>
+  <details>
+ <summary>Quite a time commitment</summary>
+ <ul>
+    <li>I was sent to service design course. It looked interesting to me, so I signed up, which is quite a commitment actually for an employer because it is quite a big time commitment. It‘s a professional development award. So, it got four modules for which they recommend you forty hours of study each and there are two camps. So, [it was] six days spread about two or three months. And then lots of studying around that</li>
+ </ul>
+ </details>
+  <details>
+ <summary>Not much learning from the course</summary>
+ <ul>
+    <li>It was quite an interesting course but I‘m not quite sure how much I‘ve really learned from the course itself. Maybe more through the reading I was doing around that. Spending the forty hours on it was maybe quite good for me but I‘m not sure how much it really enhanced my understanding</li>
+ </ul>
+ </details>
+  <details>
+ <summary>Expectations not met (only one person)</summary>
+ <ul>
+    <li>Maybe it has to do with my expectations on that course. I was expected a bit theory like design theory, which we did kind of got, but a lot of it I felt was quite superficial</li>
+ </ul>
+ </details>
+  <details>
+ <summary>Allows to have time to learn in different ways</summary>
+ <ul>
+    <li>[...] busy with training. The [organisation] has actually been really good to allow me to do that stuff - a combination of [...] online training sessions [...], reading books, definitely keep me on my toes</li>
+ </ul>
+ </details>
+ <br>
+
+
 ### Learning needs / wants
 
+There is a really wide range of learning needs / wants. For most of them it was only one or two participants expressing it.
 
 #### List of clusters of insights
 
 > Select one of the clusters of insights to see the quotes supporting it. Select it again to hide the quotes.
 
- <details>
- <summary></summary>
+<details>
+ <summary>Some think they have nothing to learn [not the interviewee but people they have worked with]</summary>
  <ul>
-    <li></li>
+    <li>They said they were at that stage where they no longer had to read books .... for me you should never be at that stage,</li>
+    <li>If you are going to be good at a subject, you need to know what other people are saying about that subject</li>
+ </ul>
+ </details>
+ <details>
+ <summary>Using data, AI and working with people with these skills</summary>
+ <ul>
+    <li>How to use data better</li>
+    <li>I'm really interested in the analytic side of things, but it's something that personally I'm not really good at [...], there is a lot of data enabling services but then also the analytics side, for the measurement side, so I  think it's something I don't really know enough</li>
+    <li>from a data analytic point of view that would be helpful as a service designer to help me to have a better understanding of like how to use these things or even how to work with others who have those skills.It's unusual to have those skills in your project team. Maybe it's about working more closely with data analytical people</li>
+    <li>I think there is a knack for what it is that you gather and how you analyse that, and that there is no bias in your data. [...] And more and more with AI, biases, understanding the data side of things would be really helpful</li>
+ </ul>
+ </details>
+  <details>
+ <summary>Visual skills and communication</summary>
+ <ul>
+    <li>There are probably some technical and visual design skills that I do not have, it can be complicated in a blended team where people are coming from a visual background for example, partly because the way I tend to express myself and produce things tends to be very text based. So I would really love and I've been practicing doing things like visual notes taking and trying to express my thoughts in sketches instead of words. I'm finding it really difficult because I'm un-learning all these things so I would really love to develop that</li>
+ </ul>
+ </details>
+  <details>
+ <summary>Really listening to people / language & communication (one person)</summary>
+ <ul>
+    <li>Really it's about people talking and at the same time you got people really listening, listening properly, that's a skill in itself</li>
+    <li> Now more than ever, we need to be a bit more exacting in our communication and what we want to convey and why, and likewise, so that a range of people can understand it and now we have this multilingual society, you have subtitle, you have the written form you can have translation</li>
+ </ul>
+ </details>
+   <details>
+ <summary>Achieving good outputs / practical advice instead of templates (one person)</summary>
+ <ul>
+    <li> “How to avoid being biased” or “how to write a good interview script”, or “how do you interview people”</li>
+    <li>It was more “here is a template, off you go and speak to someone”. Not much about how to make that the output is going to be good</li>
+ </ul>
+ </details>
+  <details>
+ <summary>Understanding how government works,  how design fits in it, policy making</summary>
+ <ul>
+    <li>learning about how design fits in and what is appropriate In terms of design in that context [SG]. I think there is quite a lot in terms of the scaling that I need to just really understand the nuts and bolts of how government works. So in terms of the policy profession,  what do policy makers  do, how do they think?</li>
+    <li> there’s a whole range of thing that are on offer on the Scottish Government because it’s a policy environment and they have been revisiting and relooking at what the policy profession looks like in the Scottish Government so that’s a really good opportunity to look at how they are thinking that through</li>
+    <li>Looking at what is happening in different areas and what does that look like at the very beginning of a piece of work for someone who sits in policy or what is it that you are being asked to do by a Minister for example</li>
+ </ul>
+ </details>
+  <details>
+ <summary>Guidance, framing what we should be doing for each stage of work - set expectations</summary>
+ <ul>
+    <li>Some more guidance for some things... I flip between this desire for more guidance for particular parts... like when I am running a discovery, what should I be doing in that space? How should I be acting and behaving? And what are the expectations on me? Instead of being frustrated with those expectations. You know, service designers are very positive in one way and they are really negative in other way, because the project wasn’t scoped correctly, or you haven't got the right time-frame in</li>
+ </ul>
+ </details>
+  <details>
+ <summary>remote facilitation, how to make it work for people</summary>
+ <ul>
+    <li>everything to do with online facilitation, what works and what doesn't work. Technically how that does work, what works, what doesn't work, and how do you evolve it and stuff. [...] So it's about learning stuff ourselves, but also about learning what other people want to use and what they are capable of using at the moment, but how you can encourage them forward. Because it's all about how you empower them with tools that enable them to collaborate with each other;  not with us, that's not important,  it's between them</li>
+ </ul>
+ </details>
+  <details>
+ <summary>System thinking</summary>
+ <ul>
+    <li>I have been really interested in systems thinking approaches</li>
+ </ul>
+ </details>
+  <details>
+ <summary>Inclusivity, BLM (Black Lives Matter)</summary>
+ <ul>
+    <li>I'm reading a lot about the black lives matter at the moment, I've ordered like a significant amount of books to try and make sure that I am educated on that</li>
+ </ul>
+ </details>
+  <details>
+ <summary>Social justice, responsibility, how social systems works</summary>
+ <ul>
+    <li>Understanding more complex nuances around social justice and social responsibility and how social systems work. Definitely working in that space. Reading a lot about social justice and anti-racist books and novels, that’s were my head is at at the moment. It’s far more oriented towards things outside of design</li>
+    <li>I am also more interested in that future space, strategic future. Learning how you implement that</li>
+ </ul>
+ </details>
+  <details>
+ <summary>Coding</summary>
+ <ul>
+    <li>I wish I could code properly. I taught myself to code and I made websites. So I understand code at an Ok level, but I would really like to be able to code software. It would be my dream. I will probably take some time out in the next couple of years and I think I might engage in that. so I am looking at courses, and loads of stuff online</li>
+ </ul>
+ </details>
+
+ ##### One participant had needs around learning Leadership / management skills because of a new job role
+   <details>
+ <summary>Become a leader / more design leadership</summary>
+ <ul>
+    <li>I‘m trying to figure out how to grow as a leader and what leadership means. And then figuring out do I want to stand in the design industry and then also what does design leadership mean to me. So, I think that kind of lacks in public sector organisations</li>
+    <li>I guess my position is a little bit different now because now where I‘m a manager rather than a practitioner as such, I need to do less and less on the ground like user research, I need to manage other people, who are doing this. So, this is where my focus is, learning how to let go some of it and how to coach people. Managing people isn’t new to me but [...] it‘s not only that I‘m managing people, but I‘m trying to do that coordinating beyond my peers</li>
+ </ul>
+ </details>
+    <details>
+ <summary>leadership meetups</summary>
+ <ul>
+    <li>I‘ve been part of the thing called design leadership meetups, [...] And I think this would be extremely helpful for me because I think this is the thing I need mostly now</li>
+ </ul>
+ </details>
+    <details>
+ <summary>Understanding future role (as a design leader)</summary>
+ <ul>
+    <li> I guess for me it‘s just understanding what my role is. Because there will come a point, where I will be no longer involved in any kind of practice at all very much. So, the question for me is, how do I keep in touch with that? What is best practice at the moment? What does the practitioner look like in the modern world? I think that is something I have to think very carefully about.</li>
+ </ul>
+ </details>
+    <details>
+ <summary>From design to management</summary>
+ <ul>
+    <li>I don’t necessarily want to be a manager, but this is where I found myself ending up in. [...] So, I‘ve tried to balance my old job as well as trying to take up some of the management stuff and having these conversations with other managers.</li>
  </ul>
  </details>
 <br>
@@ -68,9 +320,9 @@ order: 2
  <details>
  <summary>being able to apply learning the learning is important</summary>
  <ul>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>The next step is now to leverage that network internally as well as leverage the network nationally to try to get more people involved in those projects and to use those skills because it is all good training but if they are not gonna use it, we don’t need to bother. Because the worry is, we train a lot of people, but then the people just go back and have to go on with their day job and not been able to really use it enough</li>
+    <li>I think there is always a risk that we can spend too much time doing things like formal training, without thinking how we are going to use that formal training or what that formal training changes in our approach</li>
+    <li>’ve been sent on an introduction to leadership training course [...] it was a brilliant course. [...] The struggle I had initially was applying it because for the first six month being in the position, I didn’t really have a team, it was basically me.</li>
  </ul>
  </details>
   <details>
