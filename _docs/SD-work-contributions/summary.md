@@ -6,8 +6,14 @@ order: 5
 
 
 <div style="background-color: #fdf0ed">
-<h2 style="color: #CB3B18">Navigate the Service Design Work and contributions theme</h2>
-<p>You can <a href="/practitioner-stories/SD-work-contributions/intro">go back to the Introduction</a>, <a href="/practitioner-stories/SD-work-contributions/general">go to General</a>, <a href="/practitioner-stories/SD-work-contributions/challenges">go to challenges</a> or <a href="/practitioner-stories/SD-work-contributions/future">go to Future</a>.
+   <h2 style="color: #CB3B18">Navigate the Service Design Work and contributions theme</h2>
+   <p style="margin-bottom: 0">You can go back to:</p>
+   <ul>
+      <li><a href="/practitioner-stories/SD-work-contributions/intro">Introduction</a></li>
+      <li><a href="/practitioner-stories/SD-work-contributions/general">General</a></li>
+      <li><a href="/practitioner-stories/SD-work-contributions/challenges">Challenges</a></li>
+      <li><a href="/practitioner-stories/SD-work-contributions/future">Future</a></li>
+   </ul>
 </div>
 
 <h2 class="top-line-alt">Quick access</h2>
