@@ -18,9 +18,11 @@ order: 1
 Participants might have also mentioned it while answering other questions.
 
 <h2 class="top-line">Summary of findings</h2>
-<br>
-<p><span class="tag-alt">In progress</span></p>
 
+These insights come from our 15 remote interviews and one online workshop. You can:
+- [see them on the website](/practitioner-stories/SD-work-contributions/summary)
+- <a href="https://practitionerstories.medium.com/service-design-practice-in-the-scottish-public-and-third-sectors-5b2090352ab" target="_blank">see them as a Medium post</a>
+- <a href="https://docs.google.com/document/d/1ZlS6_aIB6hO0imkKJCVQ3nGI1GJ8YdCoibtFmI4TOx4/edit?usp=sharing" target="_blank">see them on our Google doc and comment as well</a>
 
 <h2 class="top-line">View the analysis, clusters and quotes</h2>
 
@@ -30,11 +32,20 @@ Participants might have also mentioned it while answering other questions.
 
 ### On the website
 
-<div class="item-nav">
+<div class="nav-panel">
+   <p style="margin-bottom: 0">Go to:</p>
+   <ul>
+      <li><a href="/practitioner-stories/SD-work-contributions/general"><strong>General</strong></a></li>
+      <li><a href="/practitioner-stories/SD-work-contributions/challenges"><strong>Challenges</strong></a></li>
+      <li><a href="/practitioner-stories/SD-work-contributions/future"><strong>Future</strong></a></li>
+   </ul>
+</div>
+
+<!--div class="item-nav">
    <p><span><a href="/practitioner-stories/SD-work-contributions/general">Go to General</a></span></p>
    <p><span><a href="/practitioner-stories/SD-work-contributions/challenges">Go to Challenges</a></span></p>
    <p><span><a href="/practitioner-stories/SD-work-contributions/future">Go to Future</a></span></p>
-</div>
+</div-->
 
 <h3 class="top-line">Workshop - Tuesday 2 February 2021 - Exploring contributions and challenges</h3>
 ![illustration — map of Scotland and in front 5 people with a jigsaw piece and miro board of activities for the workshop](/practitioner-stories/images/workshop/workshop1-banner.jpg)
