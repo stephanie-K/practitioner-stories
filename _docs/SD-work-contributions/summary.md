@@ -5,14 +5,14 @@ order: 5
 ---
 
 
-<div style="background-color: #fdf0ed">
-   <h2 style="color: #CB3B18">Navigate the Service Design Work and contributions theme</h2>
+<div class="nav-panel-alt">
+   <h2>Navigate the Service Design Work and contributions theme</h2>
    <p style="margin-bottom: 0">You can go back to:</p>
    <ul>
-      <li><a href="/practitioner-stories/SD-work-contributions/intro">Introduction</a></li>
-      <li><a href="/practitioner-stories/SD-work-contributions/general">General</a></li>
-      <li><a href="/practitioner-stories/SD-work-contributions/challenges">Challenges</a></li>
-      <li><a href="/practitioner-stories/SD-work-contributions/future">Future</a></li>
+      <li><a href="/practitioner-stories/SD-work-contributions/intro"><strong>Introduction</strong></a></li>
+      <li><a href="/practitioner-stories/SD-work-contributions/general"><strong>General</strong></a></li>
+      <li><a href="/practitioner-stories/SD-work-contributions/challenges"><strong>Challenges</strong></a></li>
+      <li><a href="/practitioner-stories/SD-work-contributions/future"><strong>Future</strong></a></li>
    </ul>
 </div>
 

@@ -586,6 +586,24 @@ details.navigation {
 	}
 }
 
+.nav-panel {
+	background-color: $brand-colour-light;
+	padding: 1em;
+	h2 {
+		color: $brand-colour;
+		padding-top:0;
+	}
+}
+
+.nav-panel-alt {
+	background-color: $brand-colour-light-alt;
+	padding: 1em;
+	h2 {
+		color: #CB3B18;
+		padding-top:0;
+	}
+}
+
 .date {
 	margin-bottom: 0;
 	border-top: solid 2px $brand-colour;
