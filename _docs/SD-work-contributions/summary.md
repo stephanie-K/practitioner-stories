@@ -4,12 +4,10 @@ category: SD work and contributions
 order: 5
 ---
 
-<div class="item-nav">
-<h2>Navigate the Service Design Work and contributions theme</h2>
-   <p><span class="alt"><a href="/practitioner-stories/SD-work-contributions/intro">Back to the Introduction</a></span></p>
-   <p><span><a href="/practitioner-stories/SD-work-contributions/general">Go to General</a></span></p>
-   <p><span><a href="/practitioner-stories/SD-work-contributions/challenges">Go to challenges</a></span></p>
-   <p><span><a href="/practitioner-stories/SD-work-contributions/future">Go to Future</a></span></p>
+
+<div style="background-color: #fdf0ed">
+<h2 style="color: #CB3B18">Navigate the Service Design Work and contributions theme</h2>
+<p>You can <a href="/practitioner-stories/SD-work-contributions/intro">go back to the Introduction</a>, <a href="/practitioner-stories/SD-work-contributions/general">go to General</a>, <a href="/practitioner-stories/SD-work-contributions/challenges">go to challenges</a> or <a href="/practitioner-stories/SD-work-contributions/future">go to Future</a>.
 </div>
 
 <h2 class="top-line-alt">Quick access</h2>
@@ -19,12 +17,14 @@ order: 5
 - [Project and team strategy and direction](#project-and-team-strategy-and-direction)
 - [Bringing an evidence-based approach](#bringing-an-evidence-based-approach)
 - [Connecting things and people](#connecting-things-and-people)
+- [Improving services, processes, and systems](#improving-services-processes-systems)
 
 <h2 class="top-line-alt">Contextualising insights</h2>
 
 These insights come from 15 remote interviews and one online workshop.
 
-<p style="margin-bottom: 0">Although we speak of service design practice, we use the term service design very loosely.</p>
+Although we speak of service design practice, we use the term service design very loosely.
+
 - Only half of our interviewees self-identified as service designers or had Service Designer as their job title. Other practitioners using service design approaches had roles in user research, accessibility, community engagement, user experience design, and design training
 - We interviewed people working in different locations across Scotland
 - Some practitioners worked as free-lancers, consultants and contractors; others were employed by design agencies; and others were employed by public and third sector organisations
@@ -44,14 +44,14 @@ Although we did not ask interviewees directly what they did in their roles ([see
 
 How much time practitioners invest in these or other activities will most definitely depend on their role. The workshop activity below shows that these activities have different weights in practitioners’ daily work.
 
-Mapping activity part of the workshop we did — [see the Google slides for it](https://docs.google.com/presentation/d/1nRsB4Xs8C_v5SZ5gh32ORcHJs2aH-x-00x7zZB7jadw/edit?usp=sharing):
+<p style="margin-bottom: 0">Mapping activity part of the workshop we did — <a href="https://docs.google.com/presentation/d/1nRsB4Xs8C_v5SZ5gh32ORcHJs2aH-x-00x7zZB7jadw/edit?usp=sharing" target="_blank">see the Google slides for it</a>:</p>
 ![Screenshot of the mapping activity with lots of blue notes and some coloured one placed on the axes](/practitioner-stories/images/workshop/mapping-exercise.png)
 
 Beyond roles, interviewees also appreciated differences between working as an external consultant and working from inside the organisation that we would love to explore further. For instance, being an insider seems to allow a more holistic overview of how research and insights feed into the wider strategy.
 
 <h2 class="top-line-alt" id="building-design-awareness-and-capacity">Building design awareness and capacity</h2>
 
-![](/practitioner-stories/images/SDwork/awareness.jpeg)
+!(/practitioner-stories/images/SDwork/awareness.jpeg)
 
 Service design practitioners in the public and third sector still constantly face the battle of advocating and proving service design and its value and on the other side demystifying, defining and clarifying it for an organisation or its people.
 
@@ -69,7 +69,7 @@ One of the strategies mentioned was to send managers or key people at the top to
 
 <h2 class="top-line-alt" id="project-and-team-strategy-and-direction">Project and team strategy and direction</h2>
 
-![](/practitioner-stories/images/SDwork/strategy.jpeg)
+!(/practitioner-stories/images/SDwork/strategy.jpeg)
 
 Service designer practitioners play an important role when setting up a new project or aligning projects including developing a shared vision, setting a strategy, and coaching the team.
 
@@ -81,7 +81,7 @@ They feel they coach, manage, and support their teams in a ‘refreshing, differ
 
 <h2 class="top-line-alt" id="bringing-an-evidence-based-approach">Bringing an evidence-based approach</h2>
 
-![](/practitioner-stories/images/SDwork/evidence.jpeg)
+!(/practitioner-stories/images/SDwork/evidence.jpeg)
 
 Some of the practitioners we interviewed were in ‘research heavy’ roles, and thus their work focused on doing user research, and presenting evidence back to colleagues and decision-makers inside and outside their organisations.
 
@@ -93,7 +93,7 @@ Public and third sector teams may have ‘never seen themselves as someone who p
 
 <h2 class="top-line-alt" id="connecting-things-and-people">Connecting things and people</h2>
 
-![](/practitioner-stories/images/SDwork/connecting.jpeg)
+!(/practitioner-stories/images/SDwork/connecting.jpeg)
 
 Practitioners also see as part of their roles ‘to connect the dots between different services, departments and organisations’; as well as integrating design approaches with other methodologies such as Scrum and Lean.
 They also found ‘relationship building’ important in their role, driven by their soft skills, openness, and willingness to share. The relationship building in the public sector is different due to the organisational structure, and the willingness to share as a (service) designer adds value to it.
@@ -106,7 +106,7 @@ Facilitation of people and workshops, internally and externally, was a key eleme
 
 <h2 class="top-line-alt" id="improving-services-processes-systems">Improving services, processes, and systems</h2>
 
-![](/practitioner-stories/images/SDwork/process.jpeg)
+!(/practitioner-stories/images/SDwork/process.jpeg)
 
 Ultimately, service design methods seek to improve outputs, experiences, ways of working, services, processes, and systems.
 
@@ -123,7 +123,7 @@ This is far from being a comprehensive list of the activities carried out in a s
 As we continue analysing practitioners’ contributions and skills, we hope to get a richer picture. But we would love to hear from you what is missing or what surprises you.
 
 <blockquote class="alt">
-A special thank you to <a href="https://www.linkedin.com/in/vinishree-verma-2a31056/" target="_blank">Vinishree Verma</a>, <a href="https://www.linkedin.com/in/carolina-moyano-izquierdo-412a121a1/" target="_blank">Carolina Moyano</a> and <a href="https://www.linkedin.com/in/nicoladobiecka/" target="_blank">Nicola Dobiecka</a> for joining the team!
+A special thank you to <a href="https://www.linkedin.com/in/vinishree-verma-2a31056/" target="_blank">Vinishree Verma</a>, <a href="https://www.linkedin.com/in/carolina-moyano-izquierdo-412a121a1/" target="_blank">Carolina Moyano</a> and <a href="https://www.linkedin.com/in/nicoladobiecka/" target="_blank">Nicola Dobiecka</a> for contributing to this work.
 </blockquote>
 
 <br>
