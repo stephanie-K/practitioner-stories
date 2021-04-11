@@ -57,7 +57,7 @@ Beyond roles, interviewees also appreciated differences between working as an ex
 
 <h2 class="top-line-alt" id="building-design-awareness-and-capacity">Building design awareness and capacity</h2>
 
-![""](/practitioner-stories/images/SDwork/awareness.jpeg)
+![illustration of the concept of awareness](/practitioner-stories/images/SDwork/awareness.jpeg)
 
 Service design practitioners in the public and third sector still constantly face the battle of advocating and proving service design and its value and on the other side demystifying, defining and clarifying it for an organisation or its people.
 
@@ -75,7 +75,7 @@ One of the strategies mentioned was to send managers or key people at the top to
 
 <h2 class="top-line-alt" id="project-and-team-strategy-and-direction">Project and team strategy and direction</h2>
 
-![""](/practitioner-stories/images/SDwork/strategy.jpeg)
+![illustration of the concept of strategy](/practitioner-stories/images/SDwork/strategy.jpeg)
 
 Service designer practitioners play an important role when setting up a new project or aligning projects including developing a shared vision, setting a strategy, and coaching the team.
 
@@ -87,7 +87,7 @@ They feel they coach, manage, and support their teams in a ‘refreshing, differ
 
 <h2 class="top-line-alt" id="bringing-an-evidence-based-approach">Bringing an evidence-based approach</h2>
 
-![""](/practitioner-stories/images/SDwork/evidence.jpeg)
+![illustration of the concept of evidence](/practitioner-stories/images/SDwork/evidence.jpeg)
 
 Some of the practitioners we interviewed were in ‘research heavy’ roles, and thus their work focused on doing user research, and presenting evidence back to colleagues and decision-makers inside and outside their organisations.
 
@@ -99,7 +99,7 @@ Public and third sector teams may have ‘never seen themselves as someone who p
 
 <h2 class="top-line-alt" id="connecting-things-and-people">Connecting things and people</h2>
 
-![""](/practitioner-stories/images/SDwork/connecting.jpeg)
+![illustration of the concept of connection](/practitioner-stories/images/SDwork/connecting.jpeg)
 
 Practitioners also see as part of their roles ‘to connect the dots between different services, departments and organisations’; as well as integrating design approaches with other methodologies such as Scrum and Lean.
 They also found ‘relationship building’ important in their role, driven by their soft skills, openness, and willingness to share. The relationship building in the public sector is different due to the organisational structure, and the willingness to share as a (service) designer adds value to it.
@@ -112,7 +112,7 @@ Facilitation of people and workshops, internally and externally, was a key eleme
 
 <h2 class="top-line-alt" id="improving-services-processes-systems">Improving services, processes, and systems</h2>
 
-![""](/practitioner-stories/images/SDwork/process.jpeg)
+![illustration of the concept of process](/practitioner-stories/images/SDwork/process.jpeg)
 
 Ultimately, service design methods seek to improve outputs, experiences, ways of working, services, processes, and systems.
 

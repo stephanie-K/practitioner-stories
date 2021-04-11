@@ -37,7 +37,7 @@ We spoke with practitioners who had different degrees of awareness about the Sco
 
    <ul>
       <li><a href="/practitioner-stories/SAtSD/general"><strong>General</strong></a></li>
-      <li><a href="/practitioner-stories/SAtSD/benefits"><strong>Benefits</strong></a></span></li>
+      <li><a href="/practitioner-stories/SAtSD/benefits"><strong>Benefits</strong></a></li>
       <li><a href="/practitioner-stories/SAtSD/challenges"><strong>Challenges</strong></a></li>
       <li><a href="/practitioner-stories/SAtSD/future"><strong>Future</strong></a></li>
    </ul>
