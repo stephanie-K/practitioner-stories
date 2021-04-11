@@ -576,7 +576,10 @@ details.navigation {
 	}
 	span.alt {
 		background-color: $brand-colour-light-alt;
-		border: solid 1px $brand-colour-alt
+		border: solid 1px $brand-colour-alt;
+		a {
+			color: $brand-colour-alt;
+		}
 	}
 	a {
 		text-decoration: none;
