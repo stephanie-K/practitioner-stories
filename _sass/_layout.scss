@@ -284,41 +284,6 @@ nav > ul {
 	}
 }
 
-.settings-panel-example {
-	@extend p;
-	@include display-flex();
-	@include flex-direction(column);
-
-	.example {
-		max-width: 300px;
-		background-color: #fafafa;
-		margin: 0;
-		padding: 0;
-		font-size: 0;
-		line-height: 1;
-		border-radius: 2px;
-		overflow: hidden;
-	}
-
-	@media (min-width: 960px) {
-		@include flex-direction(row);
-
-		.details {
-			@include flex(1);
-			margin-right: 20px;
-		}
-
-		p + .highlight > pre {
-			margin-bottom: 0;
-		}
-
-		.example {
-			@include flex(0 0 300px);
-			max-width: 100%;
-		}
-	}
-}
-
 .highlight {
 	margin-left: 0;
 	margin-right: 0;
@@ -534,6 +499,10 @@ iframe, video {
 	border-top: $brand-colour 4px solid;
 	padding-top: 3rem;
 }
+.top-line-alt {
+	border-top: $brand-colour-alt 4px solid;
+	padding-top: 3rem;
+}
 
 
 hr.big {
@@ -604,6 +573,10 @@ details.navigation {
 		padding: 0.5em 1em;
 		margin: 1em 0;
 		border: solid 1px $brand-colour
+	}
+	span.alt {
+		background-color: $brand-colour-light-alt;
+		border: solid 1px $brand-colour-alt
 	}
 	a {
 		text-decoration: none;
