@@ -4,12 +4,15 @@ category: SAtSD
 order: 2
 ---
 
-<div class="item-nav">
-<h2>Navigate the SAtSD theme</h2>
-   <p><span><a href="/practitioner-stories/SAtSD/intro">Back to the Introduction</a></span></p>
-   <p><span><a href="/practitioner-stories/SAtSD/benefits">Go to Benefits</a></span></p>
-   <p><span><a href="/practitioner-stories/SAtSD/challenges">Go to Challenges</a></span></p>
-   <p><span><a href="/practitioner-stories/SAtSD/future">Go to Future</a></span></p>
+<div class="nav-panel">
+   <h2>Navigate the SAtSD theme</h2>
+   <p style="margin-bottom: 0">You can go back to:</p>
+   <ul>
+      <li><a href="/practitioner-stories/SAtSD/intro"><strong>Introduction</strong></a></li>
+      <li><a href="/practitioner-stories/SAtSD/benefits"><strong>Benefits</strong></a></li>
+      <li><a href="/practitioner-stories/SAtSD/challenges"><strong>Challenges</strong></a></li>
+      <li><a href="/practitioner-stories/SAtSD/future"><strong>Future</strong></a></li>
+   </ul>
 </div>
 
 <h2 class="top-line">What the SAtSD means to practitioners</h2>

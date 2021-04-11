@@ -4,12 +4,14 @@ category: Working with people
 order: 3
 ---
 
-
-<div class="item-nav">
-<h2>Navigate the Working with people theme</h2>
-   <p><span><a href="/practitioner-stories/Working-with-people/intro">Back to the Introduction</a></span></p>
-   <p><span><a href="/practitioner-stories/Working-with-people/general">Go to General</a></span></p>
-   <p><span><a href="/practitioner-stories/Working-with-people/future">Go to Future</a></span></p>
+<div class="nav-panel">
+   <h2>Navigate the Working with people theme</h2>
+   <p style="margin-bottom: 0">You can go back to:</p>
+   <ul>
+      <li><a href="/practitioner-stories/Working-with-people/intro"><strong>Introduction</strong></a></li>
+      <li><a href="/practitioner-stories/Working-with-people/general"><strong>General</strong></a></li>
+      <li><a href="/practitioner-stories/Working-with-people/future"><strong>Future</strong></a></li>
+   </ul>
 </div>
 
 <h2 class="top-line">Clusters of insights - quick access</h2>

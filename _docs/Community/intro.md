@@ -32,11 +32,11 @@ Participants might have also mentioned it while answering other questions.
 
 ### On the website
 
-<div class="item-nav">
-   <p><span><a href="/practitioner-stories/Community/general">Go to General insights</a></span></p>
-   <p><span><a href="/practitioner-stories/Community/challenges">Go to Challenges</a></span></p>
-   <p><span><a href="/practitioner-stories/Community/future">Go to Future</a></span></p>
-</div>
+   <ul>
+      <li><a href="/practitioner-stories/Community/general"><strong>General</strong></a></li>
+      <li><a href="/practitioner-stories/Community/challenges"><strong>Challenges</strong></a></li>
+      <li><a href="/practitioner-stories/Community/future"><strong>Future</strong></a></li>
+   </ul>
 
 <br>
 {% include give-feedback.html %}

@@ -35,12 +35,12 @@ We spoke with practitioners who had different degrees of awareness about the Sco
 
 ### On the website
 
-<div class="item-nav">
-   <p><span><a href="/practitioner-stories/SAtSD/general">Go to General insights</a></span></p>
-   <p><span><a href="/practitioner-stories/SAtSD/benefits">Go to Benefits</a></span></p>
-   <p><span><a href="/practitioner-stories/SAtSD/challenges">Go to Challenges</a></span></p>
-   <p><span><a href="/practitioner-stories/SAtSD/future">Go to Future</a></span></p>
-</div>
+   <ul>
+      <li><a href="/practitioner-stories/SAtSD/general"><strong>General</strong></a></li>
+      <li><a href="/practitioner-stories/SAtSD/benefits"><strong>Benefits</strong></a></span></li>
+      <li><a href="/practitioner-stories/SAtSD/challenges"><strong>Challenges</strong></a></li>
+      <li><a href="/practitioner-stories/SAtSD/future"><strong>Future</strong></a></li>
+   </ul>
 
 Note that a lot of insights are related to another theme "[Working with people](/practitioner-stories/Working-with-people/intro)". It's not surprising, this is the aim of the approach.
 

@@ -4,14 +4,15 @@ category: Skills and learning
 order: 4
 ---
 
-
-<div class="item-nav">
-<h2>Navigate the Skills and learning theme</h2>
-   <p><span><a href="/practitioner-stories/Skills-and-learning/intro">Back to the Introduction</a></span></p>
-   <p><span><a href="/practitioner-stories/Skills-and-learning/general">Go to General</a></span></p>
-   <p><span><a href="/practitioner-stories/Skills-and-learning/challenges">Go to Challenges</a></span></p>
+<div class="nav-panel">
+   <h2>Navigate the Skills and learning theme</h2>
+   <p style="margin-bottom: 0">You can go back to:</p>
+   <ul>
+      <li><a href="/practitioner-stories/Skills-and-learning/intro"><strong>Introduction</strong></a></li>
+      <li><a href="/practitioner-stories/Skills-and-learning/general"><strong>General</strong></a></li>
+      <li><a href="/practitioner-stories/Skills-and-learning/challenges"><strong>Challenges</strong></a></li>
+   </ul>
 </div>
-
 
 <h2 class="top-line">Clusters of insights - quick access</h2>
 

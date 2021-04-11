@@ -4,11 +4,14 @@ category: Community
 order: 4
 ---
 
-<div class="item-nav">
-<h2>Navigate the Service Design Community in Scotland theme</h2>
-   <p><span><a href="/practitioner-stories/Community/intro">Back to the Introduction</a></span></p>
-   <p><span><a href="/practitioner-stories/Community/general">Go to General insights</a></span></p>
-   <p><span><a href="/practitioner-stories/Community/challenges">Go to Challenges</a></span></p>
+<div class="nav-panel">
+   <h2>Navigate the Service Design Community in Scotland theme</h2>
+   <p style="margin-bottom: 0">You can go back to:</p>
+   <ul>
+      <li><a href="/practitioner-stories/Community/intro"><strong>Introduction</strong></a></li>
+            <li><a href="/practitioner-stories/Community/general"><strong>General</strong></a></li>
+      <li><a href="/practitioner-stories/Community/challenges"><strong>Challenges</strong></a></li>
+   </ul>
 </div>
 
 <h2 class="top-line">Clusters of insights - quick access</h2>

@@ -30,12 +30,11 @@ Participants might have also mentioned it while answering other questions.
 
 ### On the website
 
-<div class="item-nav">
-   <p><span><a href="/practitioner-stories/Working-with-people/general">Go to General</a></span></p>
-   <p><span><a href="/practitioner-stories/Working-with-people/challenges">Go to Challenges</a></span></p>
-   <p><span><a href="/practitioner-stories/Working-with-people/future">Go to Future</a></span></p>
-</div>
-
+   <ul>
+      <li><a href="/practitioner-stories/Working-with-people/general"><strong>General</strong></a></li>
+      <li><a href="/practitioner-stories/Working-with-people/challenges"><strong>Challenges</strong></a></li>
+      <li><a href="/practitioner-stories/Working-with-people/future"><strong>Future</strong></a></li>
+   </ul>
 
 Note that a lot of insights are related to another theme "[SAtSD](/practitioner-stories/SAtSD/intro)". It's not surprising, this is the aim of the approach. There is also some overlap with "[SD work and contribution](/practitioner-stories/SD-work-contributions/intro)".
 
