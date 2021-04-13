@@ -12,6 +12,7 @@ You will find our Medium stories here where we write about the project and the e
     <li><a href="https://practitionerstories.medium.com/stories-of-service-design-in-scotland-8f267710a2ba" target="_blank">Stories of Service Design in Scotland</a> - 12 January 2021 Collective</li>
     <li><a href="https://practitionerstories.medium.com/lots-of-feedback-and-ideas-thanks-to-a-busy-week-d18c02915b0a" target="_blank">Lots of feedback and ideas thanks to a busy week</a>  - 12 February 2021 Collective</li>
     <li><a href="https://practitionerstories.medium.com/weve-launched-the-practitioner-stories-website-944e260e97ec" target="_blank">We’ve launched the Practitioner Stories website!</a>  - 16 February 2021 Collective</li>
+    <li><a href="https://practitionerstories.medium.com/service-design-practice-in-the-scottish-public-and-third-sectors-5b2090352ab" target="_blank">Service design practice in the Scottish public and third sectors</a> - 8 April 2021 Collective</li>
 </ul>
 
 <h2 class="top-line">Events</h2>
