@@ -20,9 +20,10 @@ Participants might have also mentioned it while answering other questions.
 <h2 class="top-line">Summary of findings</h2>
 
 These insights come from our 15 remote interviews and one online workshop. You can see them:
-- [on the website](/practitioner-stories/SD-work-contributions/summary)
-- <a href="https://practitionerstories.medium.com/service-design-practice-in-the-scottish-public-and-third-sectors-5b2090352ab" target="_blank">as a Medium post</a>
-- <a href="https://docs.google.com/document/d/1ZlS6_aIB6hO0imkKJCVQ3nGI1GJ8YdCoibtFmI4TOx4/edit?usp=sharing" target="_blank">on our Google doc and <strong>comment as well</strong></a>
+- [on the website](/practitioner-stories/SD-work-contributions/summary) [the contributions will be added too soon]
+- <a href="https://practitionerstories.medium.com/service-design-practice-in-the-scottish-public-and-third-sectors-5b2090352ab" target="_blank">as a Medium post for the SD work</a>
+- <a href="https://practitionerstories.medium.com/service-design-contributions-in-public-and-third-sectors-in-scotland-7633ca48348e" target="_blank">as a Medium post for the contributions</a>
+
 
 <h2 class="top-line">View the analysis, clusters and quotes</h2>
 
