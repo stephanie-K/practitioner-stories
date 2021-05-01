@@ -18,28 +18,36 @@ order: 5
 
 <h2 class="top-line-alt">Quick access</h2>
 
-- [What do practitioners do in public and third sector organisations in Scotland?](#what-do-they-do)
-- [Building design awareness and capacity](#building-design-awareness-and-capacity)
-- [Project and team strategy and direction](#project-and-team-strategy-and-direction)
-- [Bringing an evidence-based approach](#bringing-an-evidence-based-approach)
-- [Connecting things and people](#connecting-things-and-people)
-- [Improving services, processes, and systems](#improving-services-processes-systems)
+- [Contextualising insights](#context)
+- [Service Design work](#sd-work)
+   - [What do practitioners do in public and third sector organisations in Scotland?](#what-do-they-do)
+   - [Building design awareness and capacity](#building-design-awareness-and-capacity)
+   - [Project and team strategy and direction](#project-and-team-strategy-and-direction)
+   - [Bringing an evidence-based approach](#bringing-an-evidence-based-approach)
+   - [Connecting things and people](#connecting-things-and-people)
+   - [Improving services, processes, and systems](#improving-services-processes-systems)
+- [Contributions](#contributions)
+   - [Bringing a service design perspective](#sd-perspective)
+   - [Enabling Collaborations](#collaboration)
+   - [Creative Engagement](#creative-engagement)
 
-<h2 class="top-line-alt">Contextualising insights</h2>
 
-These insights come from 15 remote interviews and one online workshop.
+<h2 class="top-line-alt" id="context">Contextualising insights</h2>
 
-Although we speak of service design practice, we use the term service design very loosely.
+These insights come from 15 remote interviews and a two-hour online workshop with design practitioners.
 
-- Only half of our interviewees self-identified as service designers or had Service Designer as their job title. Other practitioners using service design approaches had roles in user research, accessibility, community engagement, user experience design, and design training
+Although we speak of service design practice, **we use the term service design very broadly**.
+
+- half of our interviewees self-identified them as service designers or have service designer as their job title. Other practitioners using service design approaches have roles in areas such as user research, accessibility, community engagement, user experience design, and design training
 - We interviewed people working in different locations across Scotland
 - Some practitioners worked as free-lancers, consultants and contractors; others were employed by design agencies; and others were employed by public and third sector organisations
 - All interviewees had a mid to senior level of experience working either in service design or in public/third sector
 
 When we refer to **‘practitioners’**, we refer to people who engage in service design approaches and practice within the Scottish public and third sectors independently of their job title.
 
+<h2 class="top-line-alt" id="sd-work">Service Design work</h2>
 
-<h2 class="top-line-alt" id="what-do-they-do">What do practitioners do in public and third sector organisations in Scotland?</h2>
+<h3 id="what-do-they-do">What do practitioners do in public and third sector organisations in Scotland?</h3>
 
 Although we did not ask interviewees directly what they did in their roles ([see interview guide](/practitioner-stories/#context-your-story)), a few activities stood out.
 - Building design awareness & capacity
@@ -55,9 +63,9 @@ How much time practitioners invest in these or other activities will most defini
 
 Beyond roles, interviewees also appreciated differences between working as an external consultant and working from inside the organisation that we would love to explore further. For instance, being an insider seems to allow a more holistic overview of how research and insights feed into the wider strategy.
 
-<h2 class="top-line-alt" id="building-design-awareness-and-capacity">Building design awareness and capacity</h2>
+<h3 class="top-line-alt" id="building-design-awareness-and-capacity">Building design awareness and capacity</h3>
 
-![illustration of the concept of awareness](/practitioner-stories/images/SDwork/awareness.jpeg)
+![illustration of the concept of awareness](/practitioner-stories/images/SDwork/awareness.jpg)
 
 Service design practitioners in the public and third sector still constantly face the battle of advocating and proving service design and its value and on the other side demystifying, defining and clarifying it for an organisation or its people.
 
@@ -73,9 +81,9 @@ They mentioned teaching user research, prototyping, the Double Diamond, doing se
 
 One of the strategies mentioned was to send managers or key people at the top to service design training. But in order to make design available and be able to work with people in the organisation, practitioners need to ‘upskill and lift the bar across [the organisation]’. They need to reach a point where ‘everyone knows the language, why we are doing things, and why it is beneficial in the long run’.
 
-<h2 class="top-line-alt" id="project-and-team-strategy-and-direction">Project and team strategy and direction</h2>
+<h3 class="top-line-alt" id="project-and-team-strategy-and-direction">Project and team strategy and direction</h3>
 
-![illustration of the concept of strategy](/practitioner-stories/images/SDwork/strategy.jpeg)
+![illustration of the concept of strategy](/practitioner-stories/images/SDwork/strategy.jpg)
 
 Service designer practitioners play an important role when setting up a new project or aligning projects including developing a shared vision, setting a strategy, and coaching the team.
 
@@ -85,9 +93,9 @@ Furthermore, they facilitate and coach their teams. They make sure that they ‘
 
 They feel they coach, manage, and support their teams in a ‘refreshing, different way of thinking’. One that builds on ‘listening and learning’ and ‘empathy’.
 
-<h2 class="top-line-alt" id="bringing-an-evidence-based-approach">Bringing an evidence-based approach</h2>
+<h3 class="top-line-alt" id="bringing-an-evidence-based-approach">Bringing an evidence-based approach</h3>
 
-![illustration of the concept of evidence](/practitioner-stories/images/SDwork/evidence.jpeg)
+![illustration of the concept of evidence](/practitioner-stories/images/SDwork/evidence.jpg)
 
 Some of the practitioners we interviewed were in ‘research heavy’ roles, and thus their work focused on doing user research, and presenting evidence back to colleagues and decision-makers inside and outside their organisations.
 
@@ -97,9 +105,9 @@ Service design practitioners are heavily involved in research to ensure approach
 
 Public and third sector teams may have ‘never seen themselves as someone who provided a service’, even if they do ‘provide face to face and digital services’. They lack ‘the user experience perspective [and] the evidence that backs-up the existence of the service’ or their decisions. Instead, they have a back-to-front approach, where they know ‘what they do and why it’s good’
 
-<h2 class="top-line-alt" id="connecting-things-and-people">Connecting things and people</h2>
+<h3 class="top-line-alt" id="connecting-things-and-people">Connecting things and people</h3>
 
-![illustration of the concept of connection](/practitioner-stories/images/SDwork/connecting.jpeg)
+![illustration of the concept of connection](/practitioner-stories/images/SDwork/connecting.jpg)
 
 Practitioners also see as part of their roles ‘to connect the dots between different services, departments and organisations’; as well as integrating design approaches with other methodologies such as Scrum and Lean.
 They also found ‘relationship building’ important in their role, driven by their soft skills, openness, and willingness to share. The relationship building in the public sector is different due to the organisational structure, and the willingness to share as a (service) designer adds value to it.
@@ -110,9 +118,9 @@ There is this other side of relationship building, because it‘s quite importan
 
 Facilitation of people and workshops, internally and externally, was a key element of day to day work for many practitioners. They facilitate collaborations for the purposes of design research, collective activity, sense making…
 
-<h2 class="top-line-alt" id="improving-services-processes-systems">Improving services, processes, and systems</h2>
+<h3 class="top-line-alt" id="improving-services-processes-systems">Improving services, processes, and systems</h3>
 
-![illustration of the concept of process](/practitioner-stories/images/SDwork/process.jpeg)
+![illustration of the concept of process](/practitioner-stories/images/SDwork/process.jpg)
 
 Ultimately, service design methods seek to improve outputs, experiences, ways of working, services, processes, and systems.
 
@@ -122,16 +130,73 @@ Practitioners also seek to influence and change some of the practices and ways o
 
 Some of this work is not as ‘sexy’ or tangible as practitioners would like. Integrating services may boil down to ‘creating an algorithm’, which success cannot be shown in images but in numbers.
 
-<h2 class="top-line-alt" id="conclusion">Conclusion: what is missing?</h2>
-
-This is far from being a comprehensive list of the activities carried out in a service design approach. But we believe that it can be useful for people new to the field to see what things practitioners do beyond designing services; such as raising design awareness or building relationships.
-
-As we continue analysing practitioners’ contributions and skills, we hope to get a richer picture. But we would love to hear from you what is missing or what surprises you.
 
 <blockquote class="alt">
 A special thank you to <a href="https://www.linkedin.com/in/vinishree-verma-2a31056/" target="_blank">Vinishree Verma</a>, <a href="https://www.linkedin.com/in/carolina-moyano-izquierdo-412a121a1/" target="_blank">Carolina Moyano</a> and <a href="https://www.linkedin.com/in/nicoladobiecka/" target="_blank">Nicola Dobiecka</a> for contributing to this work.
 </blockquote>
 
+<h2 class="top-line-alt" id="contributions">Contributions</h2>
+
+**Practitioners feel they primarily contribute by**:
+- fostering citizen/user participation and collaboration
+- bringing in an empathic and evidence-based approach
+- saving money through better services and practices
+**Interviewees emphasised three ways in which they make these contributions**:
+- bringing a service design perspective
+- enabling collaborations
+- engaging people creatively
+
+
+<h3 class="top-line-alt"  id="sd-perspective">Bringing a service design perspective</h3>
+
+![illustration of the concept of ](/practitioner-stories/images/SDwork/perspective.jpg)
+
+- **Getting findings heard**:<br>
+Design research outputs; such as user journeys, blueprints, recommendations, or prototypes; contribute to ‘making change happen, and provoking conversations at senior management level’
+- **Building empathy**:<br> 
+Design has an emphasis on empathy and ‘being in someone else’s shoes’ to understand different experiences of services. Compared to other approaches such as lean, practitioners see service design as being more accessible, more customer-focused, and more exciting. Sometimes instead of contributing by bringing in the user perspective, the practitioner first needs to focus on getting buy-in to use these approaches. As an interviewee noted that, ‘some people [in the public and third sectors] think it is nonsense’
+- **Helping people recognise that they actually run services**:<br> 
+A participant emphasised the importance of ‘helping people recognise that they actually run services. ‘A lot of public bodies, receive money and annual policy letters and you have to turn them into stuff, but there is a whole lot of businesses with no one even thinking that they are designing a service’. ‘Seeing the world in a service way’ brings value to organisations by making those services tangible, so the people working there can ‘start to really see themselves as service providers’. It would be interesting to explore further how this shift in self-perception impacts the people running those services
+- **Saving time and money**:<br> 
+‘Doing things the service design way saves time and money by making services more efficient’. The ’core purpose’ is to address ‘citizen needs’, while doing it in a way that ‘also benefits the [organisation] financially or in other ways’
+- **Building data-driven organisations**:<br> 
+Design’s evidence-based and iterative approach is about helping organisations to implement a ‘test and learn approach on an ongoing basis’ and ‘make decisions based on what you are learning’ through quantitative and qualitative data
+
+<h3 class="top-line-alt" id="collaboration">Enabling Collaborations</h3>
+
+![illustration of the concept of ](/practitioner-stories/images/SDwork/collab.jpg)
+
+Service design practitioners play an important role in enabling collaborations:
+
+> “Things don’t just happen in isolation [and,] often, the service designer is that link [or] focal point’ for different people and perspectives to ‘come together around essential points.”
+
+Interviewees noted that public and third sector organisations have ‘to address complex, wicked problems’ where ‘working in partnership is key’, and having the ability to facilitate collaborations becomes essential.
+“
+> Service design practitioners have to become ‘the glue between the different partners and agencies’, design ‘what these relationships look like, and how [people] thrive and communicate with each other.”
+Service design approaches ‘give people an opportunity to stop and think’ and ‘creates the space to challenge’ how they currently work. But embedding these reflexive and collaborative practices in organisations in a sustainable way remains really difficult.
+
+**A key part of practitioners’ work is ‘to develop trust’**, and they shared some lessons with us:
+1. Be ‘very open’
+2. Invite people in
+3. Don’t focus on outputs, people are more ‘receptive’ when they can engage in the process and the work becomes ‘a collective priority’
+
+But they do not only bring their skills for building relationships and collaborations.Their tools and processes allow them to gain a holistic understanding of how different elements interconnect.
+
+>“Service design has the amazing capacity to coordinate all the layers in a service: the [user] experience, staff workflows, safety, modelling of data, technology…”
+
+
+<h3 class="top-line-alt" id="creative-engagement"></h3>
+
+![illustration of the concept of Creative Engagement](/practitioner-stories/images/SDwork/creative.jpg)
+
+> [In public and third sector contexts,] there is a real flip between logical, evidence-based, robust thinking and analysis’ on the one hand, and the ‘desire for this creative spark’ on the other. And normally, that creative spark falls under the service designer.
+
+At the core of these contributions and where many practitioners see ‘the difference that service design makes if it’s done well [is that] it engages people creatively.’ An interviewee contrasted their work with ‘Town Hall consultations, where you just sit or look at boards [because] they don’t want you to think; they are just ticking the boxes. Service design takes us way beyond that’.
+
+By ‘re-centering everything around the user’, practitioners help organisations ‘understand the needs and aspirations of the people they serve’. A core part of this work is ‘figuring out different ways of engaging [people] creatively’.
+The openness and creative engagement generated by service design ‘will mean stronger engagement’. The fact that designers take the time to do a great amount of user research and try to design things that work for’ people, not only ‘surprises’ some people but can get them ‘quite enthusiastic’. Practitioners argue that the involvement of users, clients, and other stakeholders fosters empathy, ownership, and passion.
+
+Some participants see design ‘as a means to fundamentally shift democracy’. Its ‘contribution to the civic sphere is that it engages people’ in shaping the world around them, offering ‘a practical approach to participative democracy’.
 <br>
 {% include give-feedback.html %}
 
