@@ -137,12 +137,11 @@ A special thank you to <a href="https://www.linkedin.com/in/vinishree-verma-2a31
 
 <h2 class="top-line-alt" id="contributions">Contributions</h2>
 
-<p style="margin-bottom: 0"><strong>Practitioners feel they primarily contribute by:</strong></p>
+**Practitioners feel they primarily contribute by**:
 - fostering citizen/user participation and collaboration
 - bringing in an empathic and evidence-based approach
 - saving money through better services and practices
-
-<p style="margin-bottom: 0"><strong>Interviewees emphasised three ways in which they make these contributions:</strong></p>
+**Interviewees emphasised three ways in which they make these contributions**:
 - bringing a service design perspective
 - enabling collaborations
 - engaging people creatively
@@ -186,7 +185,7 @@ But they do not only bring their skills for building relationships and collabora
 >“Service design has the amazing capacity to coordinate all the layers in a service: the [user] experience, staff workflows, safety, modelling of data, technology…”
 
 
-<h3 class="top-line-alt" id="creative-engagement">Creative Engagement</h3>
+<h3 class="top-line-alt" id="creative-engagement"></h3>
 
 ![illustration of the concept of Creative Engagement](/practitioner-stories/images/SDwork/creative.jpg)
 
