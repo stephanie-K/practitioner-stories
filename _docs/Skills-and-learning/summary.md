@@ -49,7 +49,7 @@ When we refer to **‘practitioners’**, we refer to people who engage in servi
 
 <h2 class="top-line-alt" id="motivations">Motivations for being a designer</h2>
 
-![illustration of the concept of motivation - person with balloons](/practitioner-stories/images/skills-learning/motivations.png)
+![illustration of the concept of motivation - person with balloons](/practitioner-stories/images/skills-learning/motivation.png)
 
 > A lot of the motivations we heard were not specific to service design (SD), but more about design in a wider sense.
 
@@ -111,7 +111,7 @@ Some of the **things we are missing to support the SD practice** mentioned by th
 - **Take time to reflect**, and for continuous improvement, **learn from a mentor or someone you can bounce off**, and at the same time, **do encourage others**, and let other people lift you up “I don’t shine if you don’t shine”
 - Being a mentor yourself can be a way to meet new people outside your normal circle and to bring learning from outside SD, broaden your knowledge and thinking, get out of your design world bubble
 
-If you are looking for a mentor or think you could be one, the website <a href="" target="_blank">Mega Mentor could help you</a>.
+If you are looking for a mentor or think you could be one, the website <a href="https://mega-mentor.com/" target="_blank">Mega Mentor could help you</a>.
 
 <h2 class="top-line-alt" id="how-to-learn-and-what">How to learn and what to learn</h2>
 
@@ -146,7 +146,7 @@ Whatever way you learn, **being able to apply this learning is really important*
 - **Learning through writing** as a reflective exercise
 - **Learning through reading**
 
-<h4>Something a bit different <a href="https://www.gov.scot/publications/scottish-government-community-benefits-public-procurement-guidance-note/" target="_blank">“the community benefit clause”</a></h4>
+<h4>Something a bit different "<a href="https://www.gov.scot/publications/scottish-government-community-benefits-public-procurement-guidance-note/" target="_blank">the community benefit clause</a>"</h4>
 - Internship: get a course and give back in work hours
 
 <h4>Learning courses</h4>
