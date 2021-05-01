@@ -20,8 +20,9 @@ Participants might have also mentioned it while answering other questions.
 
 
 <h2 class="top-line">Summary of findings</h2>
-<br>
-<p><span class="tag-alt">In progress</span></p>
+These insights come from our 15 remote interviews and one online workshop. You can see them:
+- [on the website](/practitioner-stories/Skills-and-learning/summary)
+- <a href="https://practitionerstories.medium.com/motivations-skills-and-learning-of-the-practitioners-9dc5c8291da4" target="_blank">as a Medium post</a>
 
 
 <h2 class="top-line">View the analysis, clusters and quotes</h2>

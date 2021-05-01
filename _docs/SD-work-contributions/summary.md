@@ -38,7 +38,7 @@ These insights come from 15 remote interviews and a two-hour online workshop wit
 
 Although we speak of service design practice, **we use the term service design very broadly**.
 
-- half of our interviewees self-identified them as service designers or have service designer as their job title. Other practitioners using service design approaches have roles in areas such as user research, accessibility, community engagement, user experience design, and design training
+- half of our interviewees self-identified as service designers or have service designer as their job title
 - We interviewed people working in different locations across Scotland
 - Some practitioners worked as free-lancers, consultants and contractors; others were employed by design agencies; and others were employed by public and third sector organisations
 - All interviewees had a mid to senior level of experience working either in service design or in public/third sector
@@ -150,7 +150,7 @@ A special thank you to <a href="https://www.linkedin.com/in/vinishree-verma-2a31
 
 <h3 class="top-line-alt"  id="sd-perspective">Bringing a service design perspective</h3>
 
-![illustration of the concept of ](/practitioner-stories/images/SDwork/perspective.jpg)
+![illustration of the concept of perspective with a person with glasses](/practitioner-stories/images/SDwork/perspective.jpg)
 
 - **Getting findings heard**:<br>
 Design research outputs; such as user journeys, blueprints, recommendations, or prototypes; contribute to ‘making change happen, and provoking conversations at senior management level’
@@ -165,7 +165,7 @@ Design’s evidence-based and iterative approach is about helping organisations 
 
 <h3 class="top-line-alt" id="collaboration">Enabling Collaborations</h3>
 
-![illustration of the concept of ](/practitioner-stories/images/SDwork/collab.jpg)
+![illustration of the concept of collaboration with people around a table doing a jigsaw](/practitioner-stories/images/SDwork/collab.jpg)
 
 Service design practitioners play an important role in enabling collaborations:
 
@@ -188,7 +188,7 @@ But they do not only bring their skills for building relationships and collabora
 
 <h3 class="top-line-alt" id="creative-engagement">Creative Engagement</h3>
 
-![illustration of the concept of Creative Engagement](/practitioner-stories/images/SDwork/creative.jpg)
+![illustration of the concept of Creative Engagement with a bulb with stars inside and a twirl around it](/practitioner-stories/images/SDwork/creative.jpg)
 
 > [In public and third sector contexts,] there is a real flip between logical, evidence-based, robust thinking and analysis’ on the one hand, and the ‘desire for this creative spark’ on the other. And normally, that creative spark falls under the service designer.
 

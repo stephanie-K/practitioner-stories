@@ -1,202 +1,199 @@
 ---
 title: Summary of insights
-category: SD work and contributions
+category: Skills and learning
 order: 5
 ---
 
 
 <div class="nav-panel-alt">
-   <h2>Navigate the Service Design Work and contributions theme</h2>
+   <h2>Navigate the Skills and learning theme</h2>
    <p style="margin-bottom: 0">You can go back to:</p>
    <ul>
-      <li><a href="/practitioner-stories/SD-work-contributions/intro"><strong>Introduction</strong></a></li>
-      <li><a href="/practitioner-stories/SD-work-contributions/general"><strong>General</strong></a></li>
-      <li><a href="/practitioner-stories/SD-work-contributions/challenges"><strong>Challenges</strong></a></li>
-      <li><a href="/practitioner-stories/SD-work-contributions/future"><strong>Future</strong></a></li>
+      <li><a href="/practitioner-stories/Skills-and-learning/intro"><strong>Introduction</strong></a></li>
+      <li><a href="/practitioner-stories/Skills-and-learning/general"><strong>General</strong></a></li>
+      <li><a href="/practitioner-stories/Skills-and-learning/challenges"><strong>Challenges</strong></a></li>
+      <li><a href="/practitioner-stories/Skills-and-learning/future"><strong>Future</strong></a></li>
    </ul>
 </div>
 
 <h2 class="top-line-alt">Quick access</h2>
 
-- [Contextualising insights](#context)
-- [Service Design work](#sd-work)
-   - [What do practitioners do in public and third sector organisations in Scotland?](#what-do-they-do)
-   - [Building design awareness and capacity](#building-design-awareness-and-capacity)
-   - [Project and team strategy and direction](#project-and-team-strategy-and-direction)
-   - [Bringing an evidence-based approach](#bringing-an-evidence-based-approach)
-   - [Connecting things and people](#connecting-things-and-people)
-   - [Improving services, processes, and systems](#improving-services-processes-systems)
-- [Contributions](#contributions)
-   - [Bringing a service design perspective](#sd-perspective)
-   - [Enabling Collaborations](#collaboration)
-   - [Creative Engagement](#creative-engagement)
+- [Motivations for being a designer](#motivations)
+- [The skills to have](#skills-to-have)
+- [How to improve and support](#improve-and-support)
+- [How to learn and what to learn](#how-to-learn-and-what)
+   - [Ways of learning](#ways-of-learning)
+   - [Learning needs / wants](#learning-needs-wants)
+- [Sharing](#sharing)
+
 
 
 <h2 class="top-line-alt" id="context">Contextualising insights</h2>
 
 These insights come from 15 remote interviews and a two-hour online workshop with design practitioners.
 
+Our interview questions were very broad and we got a wide range of perspectives, but we do not know if these views are really representative of the community.
+
+This is why we are now developing questionnaires to find convergences and divergences across the practitioners in the community. But individuals’ experiences and stories still offer relevant insights and reveal interesting debates.
+
+**The views in this summary are often of two to three people**. We tried to make explicit when we include views expressed by only one person, or shared by many participants.
+
 Although we speak of service design practice, **we use the term service design very broadly**.
 
-- half of our interviewees self-identified them as service designers or have service designer as their job title. Other practitioners using service design approaches have roles in areas such as user research, accessibility, community engagement, user experience design, and design training
-- We interviewed people working in different locations across Scotland
-- Some practitioners worked as free-lancers, consultants and contractors; others were employed by design agencies; and others were employed by public and third sector organisations
-- All interviewees had a mid to senior level of experience working either in service design or in public/third sector
+- half of our interviewees self-identified as service designers or have service designer as their job title
+- we interviewed people working in different locations across Scotland
+- some practitioners worked as free-lancers, consultants and contractors; others were employed by design agencies; and others were employed by public and third sector organisations
+- all interviewees had a mid to senior level of experience working either in service design or in public/third sector
 
 When we refer to **‘practitioners’**, we refer to people who engage in service design approaches and practice within the Scottish public and third sectors independently of their job title.
 
-<h2 class="top-line-alt" id="sd-work">Service Design work</h2>
+<h2 class="top-line-alt" id="motivations">Motivations for being a designer</h2>
 
-<h3 id="what-do-they-do">What do practitioners do in public and third sector organisations in Scotland?</h3>
+![illustration of the concept of motivation - person with balloons](/practitioner-stories/images/skills-learning/motivations.png)
 
-Although we did not ask interviewees directly what they did in their roles ([see interview guide](/practitioner-stories/#context-your-story)), a few activities stood out.
-- Building design awareness & capacity
-- Project and team strategy and direction
-- Bringing an evidence-based approach
-- Connecting things and people
-- Improving services, processes, and systems
+> A lot of the motivations we heard were not specific to service design (SD), but more about design in a wider sense.
 
-How much time practitioners invest in these or other activities will most definitely depend on their role. The workshop activity below shows that these activities have different weights in practitioners’ daily work.
+The design process involves people in a creative and emotional sense. Practitioners enjoy it for themselves but also as a way to engage people.They want to make things better by enabling others and working along with them, to make a positive difference in people’s lives: improve the places we live in, make Scotland more equal, build a better world.
 
-<p style="margin-bottom: 0">Mapping activity part of the workshop we did — <a href="https://docs.google.com/presentation/d/1nRsB4Xs8C_v5SZ5gh32ORcHJs2aH-x-00x7zZB7jadw/edit?usp=sharing" target="_blank">see the Google slides for it</a>:</p>
-![Screenshot of the mapping activity with lots of blue notes and some coloured one placed on the axes](/practitioner-stories/images/workshop/mapping-exercise.png)
+Collaboration is seen as meaningful, preferable and enjoyable. Practitioners see design as more than just a job or a practice, it’s a mindset, almost a lifestyle.They do (service) design because they believe it works.
 
-Beyond roles, interviewees also appreciated differences between working as an external consultant and working from inside the organisation that we would love to explore further. For instance, being an insider seems to allow a more holistic overview of how research and insights feed into the wider strategy.
+Solving problems is a key part of the design work as well as a key motivation for doing it.
 
-<h3 class="top-line-alt" id="building-design-awareness-and-capacity">Building design awareness and capacity</h3>
-
-![illustration of the concept of awareness](/practitioner-stories/images/SDwork/awareness.jpg)
-
-Service design practitioners in the public and third sector still constantly face the battle of advocating and proving service design and its value and on the other side demystifying, defining and clarifying it for an organisation or its people.
-
-In many public and third sector spaces, design approaches are a new thing. So practitioners invest a fair amount of their time raising awareness, demonstrating its value, and building design capacity in organisations.
-
-When design is not part of the organisational conversation, practitioners speak of taking every ‘opportunity to talk about service design’ and ‘bringing their service design skills’ to whatever role they are in and even when it is beyond what they ‘should do’.
-
-But this lack of awareness means that they still feel the need to ‘demystify design’ and ‘push and prove’ its value for the organisation.
-
-Once organisations are onboard, practitioners speak of defining the meaning of design for the organisation, giving design tasters, and building capacity.
-
-They mentioned teaching user research, prototyping, the Double Diamond, doing service safaris, ideation…
-
-One of the strategies mentioned was to send managers or key people at the top to service design training. But in order to make design available and be able to work with people in the organisation, practitioners need to ‘upskill and lift the bar across [the organisation]’. They need to reach a point where ‘everyone knows the language, why we are doing things, and why it is beneficial in the long run’.
-
-<h3 class="top-line-alt" id="project-and-team-strategy-and-direction">Project and team strategy and direction</h3>
-
-![illustration of the concept of strategy](/practitioner-stories/images/SDwork/strategy.jpg)
-
-Service designer practitioners play an important role when setting up a new project or aligning projects including developing a shared vision, setting a strategy, and coaching the team.
-
-Practitioners also drive project and team strategy. They have the ‘knowledge of how to scope out and set up a project in an inclusive and accessible way, how to research and analyse things, how to use different methods’… This allows them greater influence to encourage prototyping, make data and insights more open throughout the process, or feed ‘insights to be taken into account in various streams of work.
-
-Furthermore, they facilitate and coach their teams. They make sure that they ‘get alignment within the project team’ to build a shared vision, and set up appropriate ways for the team to communicate.
-
-They feel they coach, manage, and support their teams in a ‘refreshing, different way of thinking’. One that builds on ‘listening and learning’ and ‘empathy’.
-
-<h3 class="top-line-alt" id="bringing-an-evidence-based-approach">Bringing an evidence-based approach</h3>
-
-![illustration of the concept of evidence](/practitioner-stories/images/SDwork/evidence.jpg)
-
-Some of the practitioners we interviewed were in ‘research heavy’ roles, and thus their work focused on doing user research, and presenting evidence back to colleagues and decision-makers inside and outside their organisations.
-
-However, discovery is central to service design approaches, and practitioners in design roles however, when called into a new project, felt the need to shift the procurers’ perception of design from a ‘production task’ to a discovery process. While the initial brief may ask them to ‘design something that does this’, they come back with questions about ‘the problem’. They want to provide ‘a more impactful, long-lasting solution’, which requires ‘discovery, researching the problem, and involving people before you even touch the production side of it’.
-
-Service design practitioners are heavily involved in research to ensure approach is based on evidence.
-
-Public and third sector teams may have ‘never seen themselves as someone who provided a service’, even if they do ‘provide face to face and digital services’. They lack ‘the user experience perspective [and] the evidence that backs-up the existence of the service’ or their decisions. Instead, they have a back-to-front approach, where they know ‘what they do and why it’s good’
-
-<h3 class="top-line-alt" id="connecting-things-and-people">Connecting things and people</h3>
-
-![illustration of the concept of connection](/practitioner-stories/images/SDwork/connecting.jpg)
-
-Practitioners also see as part of their roles ‘to connect the dots between different services, departments and organisations’; as well as integrating design approaches with other methodologies such as Scrum and Lean.
-They also found ‘relationship building’ important in their role, driven by their soft skills, openness, and willingness to share. The relationship building in the public sector is different due to the organisational structure, and the willingness to share as a (service) designer adds value to it.
-
-<blockquote class="alt">
-There is this other side of relationship building, because it‘s quite important. [This public sector organisation] has such a different culture of leadership to any other organisation I‘ve ever been in or worked with. Relationship building and those skills from our sphere work, has been extremely useful like the openness, the willingness to share everything that we can.
-</blockquote>
-
-Facilitation of people and workshops, internally and externally, was a key element of day to day work for many practitioners. They facilitate collaborations for the purposes of design research, collective activity, sense making…
-
-<h3 class="top-line-alt" id="improving-services-processes-systems">Improving services, processes, and systems</h3>
-
-![illustration of the concept of process](/practitioner-stories/images/SDwork/process.jpg)
-
-Ultimately, service design methods seek to improve outputs, experiences, ways of working, services, processes, and systems.
-
-Practitioners see huge potential for simplifying services and having systemic impact by improving everyday problems and interactions that occur across services. Efforts towards improving the system is possible by working within the system, which allows one to work more closely with users, staff, and stakeholders.
-
-Practitioners also seek to influence and change some of the practices and ways of working in the public and third sectors to be more in alignment with service design approaches.
-
-Some of this work is not as ‘sexy’ or tangible as practitioners would like. Integrating services may boil down to ‘creating an algorithm’, which success cannot be shown in images but in numbers.
+There seems to be a perpetual learning about people and their behavioural patterns. Practitioners are curious and enjoy the continuous learning embedded in design.
 
 
-<blockquote class="alt">
-A special thank you to <a href="https://www.linkedin.com/in/vinishree-verma-2a31056/" target="_blank">Vinishree Verma</a>, <a href="https://www.linkedin.com/in/carolina-moyano-izquierdo-412a121a1/" target="_blank">Carolina Moyano</a> and <a href="https://www.linkedin.com/in/nicoladobiecka/" target="_blank">Nicola Dobiecka</a> for contributing to this work.
-</blockquote>
+<h2 class="top-line-alt" id="skills-to-have">The skills to have</h2>
 
-<h2 class="top-line-alt" id="contributions">Contributions</h2>
+![illustration of the concept of skills - person with ](/practitioner-stories/images/skills-learning/skills.png)
 
-**Practitioners feel they primarily contribute by**:
-- fostering citizen/user participation and collaboration
-- bringing in an empathic and evidence-based approach
-- saving money through better services and practices
-**Interviewees emphasised three ways in which they make these contributions**:
-- bringing a service design perspective
-- enabling collaborations
-- engaging people creatively
+> When we asked about the main skills to have, all the answers were around the way we can learn from people, engage them and take them on the journey with us.
 
+<h3>Facilitation</h3>
+Facilitation is seen as a fundamental skill to have and many were trying to learn to get better at it.
+Facilitating work covers organising workshops with people and taking them through a new creative process. It also involves all the preparation and material used to create the right energy for the people taking part. Facilitating can also be ‘encouraging or prompting’ people, providing elements to show what’s wrong so people make it right.
 
-<h3 class="top-line-alt"  id="sd-perspective">Bringing a service design perspective</h3>
+<h3>Storytelling</h3>
+Storytelling for engagement is essential and practitioners are trying to get better at it and use different ways: text, images, metaphors or even using a theatrical method (using a structure, dramatic arches in everything you do to engage people). Some mentioned the power of a story, a lived experience.
 
-![illustration of the concept of ](/practitioner-stories/images/SDwork/perspective.jpg)
+<h3>Other important skills</h3>
+Others skills mentioned were around building relationships, listening, engaging with people who are not familiar with SD, learning about the organisation, understanding the power and politics you are working with and then compromise and get the balance right between your vision and what you can achieve practically
 
-- **Getting findings heard**:<br>
-Design research outputs; such as user journeys, blueprints, recommendations, or prototypes; contribute to ‘making change happen, and provoking conversations at senior management level’
-- **Building empathy**:<br> 
-Design has an emphasis on empathy and ‘being in someone else’s shoes’ to understand different experiences of services. Compared to other approaches such as lean, practitioners see service design as being more accessible, more customer-focused, and more exciting. Sometimes instead of contributing by bringing in the user perspective, the practitioner first needs to focus on getting buy-in to use these approaches. As an interviewee noted that, ‘some people [in the public and third sectors] think it is nonsense’
-- **Helping people recognise that they actually run services**:<br> 
-A participant emphasised the importance of ‘helping people recognise that they actually run services. ‘A lot of public bodies, receive money and annual policy letters and you have to turn them into stuff, but there is a whole lot of businesses with no one even thinking that they are designing a service’. ‘Seeing the world in a service way’ brings value to organisations by making those services tangible, so the people working there can ‘start to really see themselves as service providers’. It would be interesting to explore further how this shift in self-perception impacts the people running those services
-- **Saving time and money**:<br> 
-‘Doing things the service design way saves time and money by making services more efficient’. The ’core purpose’ is to address ‘citizen needs’, while doing it in a way that ‘also benefits the [organisation] financially or in other ways’
-- **Building data-driven organisations**:<br> 
-Design’s evidence-based and iterative approach is about helping organisations to implement a ‘test and learn approach on an ongoing basis’ and ‘make decisions based on what you are learning’ through quantitative and qualitative data
+<h3>Curating information</h3>
+Curating information was mentioned as well. SD is a field which forces you to have a wide set of skills and learn from a lot of sources. Many practitioners have to deal with a lot of information during work hours (people in various roles but also things like slack, emails, workshops, research) but we heard the same thing about having too many sources to learn from outside work, between social media, events and books.
 
-<h3 class="top-line-alt" id="collaboration">Enabling Collaborations</h3>
+<h3>Soft skills, using patterns as an approach, craft making</h3>
+There were other skills mentioned like soft skills (collaborating, working in a team) using patterns as an approach but also craft making: quite a few practitioners have a background in textile or jewellery for example.
 
-![illustration of the concept of ](/practitioner-stories/images/SDwork/collab.jpg)
-
-Service design practitioners play an important role in enabling collaborations:
-
-> “Things don’t just happen in isolation [and,] often, the service designer is that link [or] focal point’ for different people and perspectives to ‘come together around essential points.”
-
-Interviewees noted that public and third sector organisations have ‘to address complex, wicked problems’ where ‘working in partnership is key’, and having the ability to facilitate collaborations becomes essential.
-“
-> Service design practitioners have to become ‘the glue between the different partners and agencies’, design ‘what these relationships look like, and how [people] thrive and communicate with each other.”
-Service design approaches ‘give people an opportunity to stop and think’ and ‘creates the space to challenge’ how they currently work. But embedding these reflexive and collaborative practices in organisations in a sustainable way remains really difficult.
-
-**A key part of practitioners’ work is ‘to develop trust’**, and they shared some lessons with us:
-1. Be ‘very open’
-2. Invite people in
-3. Don’t focus on outputs, people are more ‘receptive’ when they can engage in the process and the work becomes ‘a collective priority’
-
-But they do not only bring their skills for building relationships and collaborations.Their tools and processes allow them to gain a holistic understanding of how different elements interconnect.
-
->“Service design has the amazing capacity to coordinate all the layers in a service: the [user] experience, staff workflows, safety, modelling of data, technology…”
+> “Craft learning gives you an approach to looking at the world in a very different way”
 
 
-<h3 class="top-line-alt" id="creative-engagement"></h3>
+<h2 class="top-line-alt" id="improve-and-support">How to improve and support</h2>
 
-![illustration of the concept of Creative Engagement](/practitioner-stories/images/SDwork/creative.jpg)
+![illustration of the concept of support](/practitioner-stories/images/skills-learning/support.png)
 
-> [In public and third sector contexts,] there is a real flip between logical, evidence-based, robust thinking and analysis’ on the one hand, and the ‘desire for this creative spark’ on the other. And normally, that creative spark falls under the service designer.
+So how do we improve our practice?
 
-At the core of these contributions and where many practitioners see ‘the difference that service design makes if it’s done well [is that] it engages people creatively.’ An interviewee contrasted their work with ‘Town Hall consultations, where you just sit or look at boards [because] they don’t want you to think; they are just ticking the boxes. Service design takes us way beyond that’.
+Some of the **things we are missing to support the SD practice** mentioned by the practitioners:
+- Access to mentoring or coaching
+- Having a designer in a leadership position
+- Discussion about the emotional part of our work
 
-By ‘re-centering everything around the user’, practitioners help organisations ‘understand the needs and aspirations of the people they serve’. A core part of this work is ‘figuring out different ways of engaging [people] creatively’.
-The openness and creative engagement generated by service design ‘will mean stronger engagement’. The fact that designers take the time to do a great amount of user research and try to design things that work for’ people, not only ‘surprises’ some people but can get them ‘quite enthusiastic’. Practitioners argue that the involvement of users, clients, and other stakeholders fosters empathy, ownership, and passion.
+> “The set up of a project is a perfect time to open up and say what we are going to do together, it’s going to be hard, what can we put in place to support each other? How can we be safe?”
 
-Some participants see design ‘as a means to fundamentally shift democracy’. Its ‘contribution to the civic sphere is that it engages people’ in shaping the world around them, offering ‘a practical approach to participative democracy’.
+**In terms of missing skills, various things were mentioned**
+
+- **Lack of awareness of our own gaps**: “Everybody has gaps, it’s just about being aware of them”
+- **A lack of questioning our own discipline** “we just assume that SD is the right thing to do all the time”, we do not question what is “being asked of designers and researchers, what will happen to people after”.
+- Do **not always track the impact of our design**, and its implementation
+- **Be curious and creative, learn from previous projects**, and don’t be afraid to **present your work at an early stage**
+- **Learn how to learn!** the context of design keeps shifting
+- **Build capacity in the organisation**: skills up everyone, the SD language and facilitation, invest in your people instead of paying for consultant to do it for you
+- **Take time to reflect**, and for continuous improvement, **learn from a mentor or someone you can bounce off**, and at the same time, **do encourage others**, and let other people lift you up “I don’t shine if you don’t shine”
+- Being a mentor yourself can be a way to meet new people outside your normal circle and to bring learning from outside SD, broaden your knowledge and thinking, get out of your design world bubble
+
+If you are looking for a mentor or think you could be one, the website <a href="" target="_blank">Mega Mentor could help you</a>.
+
+<h2 class="top-line-alt" id="how-to-learn-and-what">How to learn and what to learn</h2>
+
+![illustration of the concept of learning](/practitioner-stories/images/skills-learning/learning.png)
+
+We mentioned earlier that continuous learning is part of the motivations for practitioners. They have a wide variety of ways to do this and often use more than one.
+
+Some set themselves short term goals, one participant starts each project with the intention to do something different: tools to try out or a method.
+
+Whatever way you learn, **being able to apply this learning is really important**:
+
+> “There is a risk that we can spend too much time doing things like formal training, without thinking how we are going to use that training or what [it] changes in our approach”
+
+
+<h3 class="top-line-alt" id="ways-of-learning">Ways of learning</h3>
+
+<h4>Being part of a community</h4>
+[we will expand on this theme in a future post]
+
+- Peer learning, sharing, building your own community of learning
+- Learning by being engaged in a community or organisation
+
+<h4>Other ways of learning we heard of:</h4>
+
+- **Self learning** (just some pointers and chase people up on the back of it)
+- **Learning by trial and errors**
+- **Listening / watching people** and learning from it
+- **Learning on the role / by doing** “it’s difficult to know what I will need until I need it […] you should be working in a team where you learn those skills from other people
+- **Search online, ask others**
+- **Attending events or even speaking at an event**, going to design jams
+- **Training and learning offered by the organisation** you’re part of by other members of the organisation
+- **Learning through writing** as a reflective exercise
+- **Learning through reading**
+
+<h4>Something a bit different <a href="https://www.gov.scot/publications/scottish-government-community-benefits-public-procurement-guidance-note/" target="_blank">“the community benefit clause”</a></h4>
+- Internship: get a course and give back in work hours
+
+<h4>Learning courses</h4>
+One participant had experienced attending a service design course outside of formal education. The course they had taken felt like a big time commitment and a lot of the learning was actually not so much from the course itself but more from the reading around it. They also reflected that there was too much training offer for beginners and not enough for more advanced learning.
+<h4>A growing demand for designers, do they need a master?</h4>
+There is a growing demand for designers, a lot of people are arriving to SD through the same route: service design courses within universities after a couple of years.
+
+Some think only experts can do SD and that you need years or experience and a master, but others think there is no need for a master and it’s more about ‘how you thing as a person’ and you can just ‘go and put yourself in a position of looking at how something got made and make it better’.
+
+> “Service design is not rocket science, it’s very instinctual stuff”
+
+<h4>Design Education</h4>
+Some think that design education is not good enough at the moment “we are expecting people to come out of SD courses within universities after a couple of years learning about design history and design as a process” to do the job.
+
+One participant said that ‘in formal education, you’re taught how to stand up and give a presentation, you learn how to use your voice and how to use a powerpoint’. According to them, facilitation, which they viewed as a key skill, is not taught well enough.
+
+> “When students reach the workforce […] they need to learn how to behave within a wider team while it’s necessary for them to explain what their role is”
+
+To improve students’ readiness to work, some suggested introducing learning about public sector hierarchies and structures and also to involve the industry to improve academia curriculum.
+
+Even outside Service Design, there was a suggestion that design led approach to things should be part of the curriculum for all:
+
+> “That may not be your job, but it’s an approach about how you think about things”
+
+
+
+<h3 class="top-line-alt" id="learning-needs-wants">Learning needs / wants</h3>
+
+It was very varied:
+- Design leadership: How to make the transition to management / leader role
+- Using data better, AI (Artificial Intelligence) and how to work with people with these skills
+- Coding
+- System thinking approaches
+- Inclusivity, BLM (Black Lives Matter), social justice , responsibility, how social systems work
+
+Some of these needs are **illustrations of the lack of adequate training available in Design Education mentioned earlier**:
+- Understanding policy making and how government work and how design fits in it
+- Communication: visual skills, achieving good outputs, really listening to people
+- Getting practical advice instead of templates, guidance, framing what we should be doing for each stage of work
+- Remote facilitation
+
+
+<h2 class="top-line-alt" id="sharing">Sharing</h2>
+
+A big part of the way practitioners learn is by sharing. This will be developped as part of the Community theme later.
+
+
 <br>
 {% include give-feedback.html %}
 
