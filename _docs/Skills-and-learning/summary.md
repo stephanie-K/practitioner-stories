@@ -111,7 +111,7 @@ Some of the **things we are missing to support the SD practice** mentioned by th
 - **Take time to reflect**, and for continuous improvement, **learn from a mentor or someone you can bounce off**, and at the same time, **do encourage others**, and let other people lift you up “I don’t shine if you don’t shine”
 - Being a mentor yourself can be a way to meet new people outside your normal circle and to bring learning from outside SD, broaden your knowledge and thinking, get out of your design world bubble
 
-If you are looking for a mentor or think you could be one, the website <a href="https://mega-mentor.com/" target="_blank">Mega Mentor could help you</a>.
+If you are looking for a mentor or think you could be one, the website <a href="https://mega-mentor.com/" target="_blank"><strong>Mega Mentor</strong> could help you</a>.
 
 <h2 class="top-line-alt" id="how-to-learn-and-what">How to learn and what to learn</h2>
 

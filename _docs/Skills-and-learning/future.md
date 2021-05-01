@@ -8,6 +8,7 @@ order: 4
    <h2>Navigate the Skills and learning theme</h2>
    <p style="margin-bottom: 0">You can go back to:</p>
    <ul>
+      <li><a href="/practitioner-stories/Skills-and-learning/summary"><strong>Summary of insights</strong></a></li>
       <li><a href="/practitioner-stories/Skills-and-learning/intro"><strong>Introduction</strong></a></li>
       <li><a href="/practitioner-stories/Skills-and-learning/general"><strong>General</strong></a></li>
       <li><a href="/practitioner-stories/Skills-and-learning/challenges"><strong>Challenges</strong></a></li>
