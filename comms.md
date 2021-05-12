@@ -14,7 +14,8 @@ You will find our Medium stories here where we write about the project and the e
     <li><a href="https://practitionerstories.medium.com/weve-launched-the-practitioner-stories-website-944e260e97ec" target="_blank">We’ve launched the Practitioner Stories website!</a>  - 16 February 2021 Collective</li>
     <li><a href="https://practitionerstories.medium.com/service-design-practice-in-the-scottish-public-and-third-sectors-5b2090352ab" target="_blank">Service design practice in the Scottish public and third sectors</a> - 8 April 2021 Collective</li>
     <li><a href="https://practitionerstories.medium.com/motivations-skills-and-learning-of-the-practitioners-9dc5c8291da4" target="_blank">Motivations, skills and learning of the practitioners</a> - 22 April 2021 Collective</li>
-        <li><a href="https://practitionerstories.medium.com/service-design-contributions-in-public-and-third-sectors-in-scotland-7633ca48348e" target="_blank">Service design contributions in public and third sectors in Scotland</a> - 29 April 2021 Collective</li>
+    <li><a href="https://practitionerstories.medium.com/service-design-contributions-in-public-and-third-sectors-in-scotland-7633ca48348e" target="_blank">Service design contributions in public and third sectors in Scotland</a> - 29 April 2021 Collective</li>
+    <li><a href="https://practitionerstories.medium.com/sharing-2b4692248702" target="_blank">Sharing</a> - 11 May 2021 Collective</li>
 </ul>
 
 ## Surveys
