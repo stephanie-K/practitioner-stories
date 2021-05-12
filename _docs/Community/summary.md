@@ -128,6 +128,7 @@ This was a feeling shared by the practitioners who attended our workshop on desi
 
 
 ![post its of people saying they have the same issues, challenges and one says: makes me feel a lot less alone and a lot less like I am the crazy one as a usually pretty lonely service designer in public sector](/practitioner-stories/images/Community/postit-feelings.jpeg)
+
 _From the feedback frame of the workshop on Miro_
 
 <h3 class="top-line-alt" id="open-share-resources">Being open, sharing resources and research</h3>

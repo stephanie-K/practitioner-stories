@@ -20,8 +20,10 @@ Participants might have also mentioned it while answering other questions.
 
 
 <h2 class="top-line">Summary of findings</h2>
-<br>
-<p><span class="tag-alt">In progress</span></p>
+These insights come from our 15 remote interviews. You can see them:
+- [on the website](/practitioner-stories/Community/summary)
+- <a href="https://practitionerstories.medium.com/sharing-2b4692248702" target="_blank">as a Medium post for the first part: Sharing</a>
+- the second part is still in progress
 
 
 <h2 class="top-line">View the analysis, clusters and quotes</h2>

@@ -8,8 +8,9 @@ order: 4
    <h2>Navigate the Service Design Community in Scotland theme</h2>
    <p style="margin-bottom: 0">You can go back to:</p>
    <ul>
+      <li><a href="/practitioner-stories/Community/summary"><strong>Summary of insights</strong></a></li>
       <li><a href="/practitioner-stories/Community/intro"><strong>Introduction</strong></a></li>
-            <li><a href="/practitioner-stories/Community/general"><strong>General</strong></a></li>
+      <li><a href="/practitioner-stories/Community/general"><strong>General</strong></a></li>
       <li><a href="/practitioner-stories/Community/challenges"><strong>Challenges</strong></a></li>
    </ul>
 </div>
