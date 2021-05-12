@@ -467,17 +467,31 @@ img, image {
 }
 
 a.button { 
-	background-color: #345F67; 
-	padding: 10px 20px; 
-	color: #ffffff; 
+	color: #1a1a1a;
+    background-color: $brand-colour-light;
+	padding: 8px 18px;
+	border: solid 1px $brand-colour;
 	text-decoration: none;
+	font-weight: 600;
+	font-size: 1.5rem;
 }
 a.button:hover {
-    color: #345F67;
-    background-color: #ffffff;
-    padding: 8px 18px;
-    border: solid 2px #345F67;
+	background-color: $brand-colour; 
 }
+
+a.button-alt { 
+	color: #1a1a1a;
+	background-color: $brand-colour-light-alt;
+	padding: 8px 18px;
+	border: solid 1px $brand-colour-alt;
+	text-decoration: none;
+	font-weight: 600;
+	font-size: 1.5rem;
+}
+a.button-alt:hover {
+	background-color: $brand-colour-alt; 
+}
+
 .tag {
 	background-color:#599FAB;
 	font-weight: 600;
