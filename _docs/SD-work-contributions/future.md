@@ -50,7 +50,7 @@ order: 4
 
 One quote: "The Covid crisis has kind of eclipsed Climate Change. We cannot ignore that, and actually I think the solutions to those go hand in hand. So we have to figure out what are the connections and how do we create sustainable economies throughout Scotland and throughout the world. I mean, let's not have borders and boundaries."
 
-<p><a href="#"><strong>Back to top</strong></a></p>
+<a class="button" href="#">Back to top</a>
 
 <h2 class="top-line" id="impact-of-covid">Impact of Covid</h2>
 
@@ -92,7 +92,7 @@ One quote: "The Covid crisis has kind of eclipsed Climate Change. We cannot igno
  </ul>
  </details>
 <br>
-<p><a href="#"><strong>Back to top</strong></a></p>
+<a class="button" href="#">Back to top</a>
 
 
 <h2 class="top-line" id="public-and-3rd-sector-integrating-design-and-other-aspirations">Public and 3rd sector: integrating design and other aspirations</h2>
@@ -182,7 +182,7 @@ One quote: "The Covid crisis has kind of eclipsed Climate Change. We cannot igno
  </ul>
  </details>
 <br>
-<p><a href="#"><strong>Back to top</strong></a></p>
+<a class="button" href="#">Back to top</a>
 
 <h2 class="top-line" id="how-to-overcome-barriers">How to overcome barriers</h2>
 

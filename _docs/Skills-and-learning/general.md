@@ -619,7 +619,7 @@ There is something here about the way we learn about the people we work with and
 <br><br>
 {% include give-feedback.html %}
 
-<a class="button" href="#">Back to top</a>
+<p><a href="#"><strong>Back to top</strong></a></p>
 
 <p>Last updated: {{site.time | date_to_string}}</p>
 

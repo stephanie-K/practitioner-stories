@@ -204,7 +204,7 @@ A big part of the way practitioners learn is by sharing. This will be developped
 <br>
 {% include give-feedback.html %}
 
-<a class="button-alt" href="#">Back to top</a>
+<p><a href="#"><strong>Back to top</strong></a></p>
 
 <p>Last updated: {{site.time | date_to_string}}</p>
 <!--

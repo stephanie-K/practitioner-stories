@@ -217,7 +217,7 @@ order: 2
 <br>
 {% include give-feedback.html %}
 
-<a class="button" href="#">Back to top</a>
+<p><a href="#"><strong>Back to top</strong></a></p>
 
 <div>Last updated: {{site.time | date_to_string}}
 
