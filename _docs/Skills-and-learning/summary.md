@@ -47,6 +47,8 @@ Although we speak of service design practice, **we use the term service design v
 
 When we refer to **‘practitioners’**, we refer to people who engage in service design approaches and practice within the Scottish public and third sectors independently of their job title.
 
+<a class="button-alt">Back to top</a>
+
 <h2 class="top-line-alt" id="motivations">Motivations for being a designer</h2>
 
 ![illustration of the concept of motivation - person with balloons](/practitioner-stories/images/skills-learning/motivation.png)
@@ -61,6 +63,7 @@ Solving problems is a key part of the design work as well as a key motivation fo
 
 There seems to be a perpetual learning about people and their behavioural patterns. Practitioners are curious and enjoy the continuous learning embedded in design.
 
+<a class="button-alt">Back to top</a>
 
 <h2 class="top-line-alt" id="skills-to-have">The skills to have</h2>
 
@@ -86,6 +89,7 @@ There were other skills mentioned like soft skills (collaborating, working in a 
 
 > “Craft learning gives you an approach to looking at the world in a very different way”
 
+<a class="button-alt">Back to top</a>
 
 <h2 class="top-line-alt" id="improve-and-support">How to improve and support</h2>
 
@@ -113,6 +117,8 @@ Some of the **things we are missing to support the SD practice** mentioned by th
 
 If you are looking for a mentor or think you could be one, the website <a href="https://mega-mentor.com/" target="_blank"><strong>Mega Mentor</strong> could help you</a>.
 
+<a class="button-alt">Back to top</a>
+
 <h2 class="top-line-alt" id="how-to-learn-and-what">How to learn and what to learn</h2>
 
 ![illustration of the concept of learning](/practitioner-stories/images/skills-learning/learning.png)
@@ -125,6 +131,7 @@ Whatever way you learn, **being able to apply this learning is really important*
 
 > “There is a risk that we can spend too much time doing things like formal training, without thinking how we are going to use that training or what [it] changes in our approach”
 
+<a class="button-alt">Back to top</a>
 
 <h3 class="top-line-alt" id="ways-of-learning">Ways of learning</h3>
 
@@ -171,7 +178,7 @@ Even outside Service Design, there was a suggestion that design led approach to 
 
 > “That may not be your job, but it’s an approach about how you think about things”
 
-
+<a class="button-alt">Back to top</a>
 
 <h3 class="top-line-alt" id="learning-needs-wants">Learning needs / wants</h3>
 
@@ -197,7 +204,7 @@ A big part of the way practitioners learn is by sharing. This will be developped
 <br>
 {% include give-feedback.html %}
 
-<p><a href="#"><strong>Back to top</strong></a></p>
+<a class="button-alt">Back to top</a>
 
 <!--
 
