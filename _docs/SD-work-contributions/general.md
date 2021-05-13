@@ -184,6 +184,7 @@ order: 2
  </ul>
  </details>
 <br>
+<p><a href="#"><strong>Back to top</strong></a></p>
 
 <h2 class="top-line" id="how-we-feel-we-contribute">How we feel we contribute</h2>
 
@@ -334,6 +335,7 @@ order: 2
  </ul>
  </details>
 <br>
+<p><a href="#"><strong>Back to top</strong></a></p>
 
 <h2 class="top-line" id="how-do-designers-work-in-public-and-third-sector">How do designers work in public and third sector</h2>
 
@@ -419,6 +421,7 @@ order: 2
  </ul>
  </details>
 <br>
+<p><a href="#"><strong>Back to top</strong></a></p>
 
 <h2 class="top-line" id="motivations-for-being-a-designer">Motivations for being a designer</h2>
 
@@ -449,6 +452,7 @@ order: 2
  </ul>
  </details>
 <br>
+<p><a href="#"><strong>Back to top</strong></a></p>
 
 <h2 class="top-line" id="impact-of-design-on-people">Impact of design on people</h2>
 
@@ -467,6 +471,8 @@ order: 2
 {% include give-feedback.html %}
 
 <p><a href="#"><strong>Back to top</strong></a></p>
+
+<p>Last updated: {{site.time | date_to_string}}</p>
 
 <!--
 

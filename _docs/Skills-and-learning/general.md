@@ -337,7 +337,7 @@ There is a really wide range of learning needs / wants. For most of them it was 
  </details>
 <br>
 <br>
-
+<a class="button" href="#">Back to top</a>
 
 
 <h2 class="top-line" id="skills-to-have">Skills to have</h2>
@@ -557,7 +557,7 @@ There is something here about the way we learn about the people we work with and
  </ul>
  </details>
 <br>
-
+<a class="button" href="#">Back to top</a>
 
 <h2 class="top-line" id="sd-education">Service Design Education</h2>
 
@@ -619,7 +619,9 @@ There is something here about the way we learn about the people we work with and
 <br><br>
 {% include give-feedback.html %}
 
-<p><a href="#"><strong>Back to top</strong></a></p>
+<a class="button" href="#">Back to top</a>
+
+<p>Last updated: {{site.time | date_to_string}}</p>
 
 <!--
 

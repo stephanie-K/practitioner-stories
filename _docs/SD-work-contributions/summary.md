@@ -221,6 +221,8 @@ Some participants see design ‘as a means to fundamentally shift democracy’. 
 
 <a class="button-alt" href="#">Back to top</a>
 
+<p>Last updated: {{site.time | date_to_string}}</p>
+
 <!--
 
 <a href="" target="_blank"></a>

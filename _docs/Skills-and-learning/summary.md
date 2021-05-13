@@ -206,6 +206,7 @@ A big part of the way practitioners learn is by sharing. This will be developped
 
 <a class="button-alt" href="#">Back to top</a>
 
+<p>Last updated: {{site.time | date_to_string}}</p>
 <!--
 
 <a href="" target="_blank"></a>

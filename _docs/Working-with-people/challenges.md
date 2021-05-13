@@ -92,6 +92,8 @@ order: 3
  </ul>
  </details>
 <br>
+<a class="button" href="#">Back to top</a>
+
 <h2 class="top-line" id="challenges---strategies---limitations">Challenges - Strategies - limitations</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/working-with/working-with-chall2.png)
@@ -251,6 +253,7 @@ order: 3
  </ul>
  </details>
 <br>
+<a class="button" href="#">Back to top</a>
 
 <h2 class="top-line" id="gaps-in-being-inclusive-accessible-and-ethical">Gaps in being inclusive, accessible and ethical</h2>
 
@@ -350,6 +353,7 @@ order: 3
  </ul>
  </details>
 <br>
+<a class="button" href="#">Back to top</a>
 
 <h2 class="top-line" id="how-we-involve-a-community">How we involve a community</h2>
 
@@ -384,6 +388,7 @@ order: 3
  </ul>
  </details>
 <br>
+<a class="button" href="#">Back to top</a>
 
 <h2 class="top-line" id="barriers-organisational-culture-mindset-and-environement">Barriers: organisational culture, mindset and environement</h2>
 
@@ -513,7 +518,9 @@ order: 3
 <br><br>
 {% include give-feedback.html %}
 
-<p><a href="#"><strong>Back to top</strong></a></p>
+<a class="button" href="#">Back to top</a>
+
+<div>Last updated: {{site.time | date_to_string}}
 
 <!--
 

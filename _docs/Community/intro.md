@@ -44,3 +44,5 @@ These insights come from our 15 remote interviews. You can see them:
 {% include give-feedback.html %}
 
 <p><a href="#"><strong>Back to top</strong></a></p>
+
+<p>Last updated: {{site.time | date_to_string}}</p>

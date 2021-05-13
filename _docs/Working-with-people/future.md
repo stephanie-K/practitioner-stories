@@ -73,8 +73,8 @@ order: 4
     <li> I would love to see how this goes further into procurement of design work, understanding design as a process to discover things and work out what problems are and then work out what solutions could be</li>
  </ul>
  </details>
-<br><br>
-
+<br>
+<a class="button" href="#">Back to top</a>
 
 <h2 class="top-line">Working with stakeholders</h2>
 
@@ -97,8 +97,9 @@ order: 4
 <br><br>
 {% include give-feedback.html %}
 
-<p><a href="#"><strong>Back to top</strong></a></p>
+<a class="button" href="#">Back to top</a>
 
+<div>Last updated: {{site.time | date_to_string}}
 <!--
 
 <a href="" target="_blank"></a>

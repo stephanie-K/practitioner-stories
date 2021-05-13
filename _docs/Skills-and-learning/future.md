@@ -127,6 +127,7 @@ order: 4
  </ul>
  </details>
 <br>
+<a class="button" href="#">Back to top</a>
 
 <h2 class="top-line" id="sharing-and-learning">Sharing and learning</h2>
 
@@ -205,7 +206,7 @@ order: 4
 <br><br>
 {% include give-feedback.html %}
 
-<p><a href="#"><strong>Back to top</strong></a></p>
+<a class="button" href="#">Back to top</a>
 
 <p>Last updated: {{site.time | date_to_string}}</p>
 

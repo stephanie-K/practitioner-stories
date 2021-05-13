@@ -43,4 +43,6 @@ These insights come from our 15 remote interviews and one online workshop. You c
 <br><br>
 {% include give-feedback.html %}
 
-<div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>
+<a class="button" href="#">Back to top</a>
+
+<p>Last updated: {{site.time | date_to_string}}</p>

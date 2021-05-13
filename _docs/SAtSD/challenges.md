@@ -102,6 +102,8 @@ order: 4
     </ul>
 </details>
 
+<a class="button" href="#">Back to top</a>
+
 <h2 class="top-line" id="barriers-organisational-culture-mindset-and-environement">Barriers: organisational culture, mindset and environement</h2>
 
 > These clusters of insights are related to SAtSD but not only, they could also fit the theme **'SD work and contributions'**  or **'Working with people'**
@@ -231,7 +233,9 @@ order: 4
 <br><br>
 {% include give-feedback.html %}
 
-<p><a href="#"><strong>Back to top</strong></a></p>
+<a class="button" href="#">Back to top</a>
+
+<p>Last updated: {{site.time | date_to_string}}</p>
 
 <!--
 <details>

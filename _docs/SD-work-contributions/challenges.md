@@ -61,6 +61,8 @@ order: 3
 - Inequality between the third sector and the public sector
 - pushing service design into a broken system
 
+<p><a href="#"><strong>Back to top</strong></a></p>
+
 <h2 class="top-line" id="identified-lacks-in-projects-teams-or-organisations">Identified lacks in projects, teams or organisations</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SDwork/SDwork-chall2.png)
@@ -145,6 +147,8 @@ Lack of design leadership
  </ul>
  </details>
 
+ <p><a href="#"><strong>Back to top</strong></a></p>
+
 <h2 class="top-line" id="constraints-to-work-with">Constraints to work with</h2>
 
 ![screenshot of the part of the big Miro board showing the post it for this theme of the research](/practitioner-stories/images/SDwork/SDwork-chall3.png)
@@ -188,6 +192,7 @@ Lack of design leadership
 - But getting all the stakeholders involved is going to be challenging
 - Other barriers come from working in the third sector and with people
 
+<p><a href="#"><strong>Back to top</strong></a></p>
 
 <h2 class="top-line" id="barrier-low-maturity-of-service-design">Barrier: low maturity of service design</h2>
 
@@ -350,6 +355,7 @@ Being stuck, not pushing until the end
  </ul>
  </details>
 <br>
+<p><a href="#"><strong>Back to top</strong></a></p>
 
 <h2 class="top-line" id="barrier-how-we-talk-and-present-service-design">Barrier: how we talk and present service design</h2>
 
@@ -475,7 +481,7 @@ Being stuck, not pushing until the end
  </ul>
  </details>
 <br>
-
+<p><a href="#"><strong>Back to top</strong></a></p>
 
 <h2 class="top-line" id="gaps-in-how-we-procure-service-design">Gaps in how we procure service design</h2>
 
@@ -528,6 +534,7 @@ Being stuck, not pushing until the end
  </ul>
  </details>
 <br>
+<p><a href="#"><strong>Back to top</strong></a></p>
 
 <h2 class="top-line" id="gaps-in-applying-service-design-approaches">Gaps in applying service design approaches</h2>
 
@@ -619,6 +626,8 @@ One quote: That makes me think about service design as an industry, is it maybe 
 {% include give-feedback.html %}
 
 <p><a href="#"><strong>Back to top</strong></a></p>
+
+<p>Last updated: {{site.time | date_to_string}}</p>
 
 <!--
 

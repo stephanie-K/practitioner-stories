@@ -57,6 +57,7 @@ order: 2
  </ul>
  </details>
 <br>
+<a class="button" href="#">Back to top</a>
 
 <h2 class="top-line" id="where-we-are-and-where-we-want-to-be">Where we are and where we want to be</h2>
 
@@ -158,7 +159,7 @@ order: 2
  </ul>
  </details>
 <br>
-
+<a class="button" href="#">Back to top</a>
 
 <h2 class="top-line" id="the-degree-of-involvement-depends-on">The degree of involvment depends on ...</h2>
 
@@ -216,7 +217,9 @@ order: 2
 <br>
 {% include give-feedback.html %}
 
-<p><a href="#"><strong>Back to top</strong></a></p>
+<a class="button" href="#">Back to top</a>
+
+<div>Last updated: {{site.time | date_to_string}}
 
 <!--
 
