@@ -45,7 +45,7 @@ Although we speak of service design practice, **we use the term service design v
 
 When we refer to **‘practitioners’**, we refer to people who engage in service design approaches and practice within the Scottish public and third sectors independently of their job title.
 
-<a class="button-alt">Back to top</a>
+<a class="button-alt" href="#">Back to top</a>
 
 <h2 class="top-line-alt" id="sd-work">Service Design work</h2>
 
@@ -65,7 +65,7 @@ How much time practitioners invest in these or other activities will most defini
 
 Beyond roles, interviewees also appreciated differences between working as an external consultant and working from inside the organisation that we would love to explore further. For instance, being an insider seems to allow a more holistic overview of how research and insights feed into the wider strategy.
 
-<a class="button-alt">Back to top</a>
+<a class="button-alt" href="#">Back to top</a>
 
 <h3 class="top-line-alt" id="building-design-awareness-and-capacity">Building design awareness and capacity</h3>
 
@@ -85,7 +85,7 @@ They mentioned teaching user research, prototyping, the Double Diamond, doing se
 
 One of the strategies mentioned was to send managers or key people at the top to service design training. But in order to make design available and be able to work with people in the organisation, practitioners need to ‘upskill and lift the bar across [the organisation]’. They need to reach a point where ‘everyone knows the language, why we are doing things, and why it is beneficial in the long run’.
 
-<a class="button-alt">Back to top</a>
+<a class="button-alt" href="#">Back to top</a>
 
 <h3 class="top-line-alt" id="project-and-team-strategy-and-direction">Project and team strategy and direction</h3>
 
@@ -99,7 +99,7 @@ Furthermore, they facilitate and coach their teams. They make sure that they ‘
 
 They feel they coach, manage, and support their teams in a ‘refreshing, different way of thinking’. One that builds on ‘listening and learning’ and ‘empathy’.
 
-<a class="button-alt">Back to top</a>
+<a class="button-alt" href="#">Back to top</a>
 
 <h3 class="top-line-alt" id="bringing-an-evidence-based-approach">Bringing an evidence-based approach</h3>
 
@@ -113,7 +113,7 @@ Service design practitioners are heavily involved in research to ensure approach
 
 Public and third sector teams may have ‘never seen themselves as someone who provided a service’, even if they do ‘provide face to face and digital services’. They lack ‘the user experience perspective [and] the evidence that backs-up the existence of the service’ or their decisions. Instead, they have a back-to-front approach, where they know ‘what they do and why it’s good’
 
-<a class="button-alt">Back to top</a>
+<a class="button-alt" href="#">Back to top</a>
 
 <h3 class="top-line-alt" id="connecting-things-and-people">Connecting things and people</h3>
 
@@ -128,7 +128,7 @@ There is this other side of relationship building, because it‘s quite importan
 
 Facilitation of people and workshops, internally and externally, was a key element of day to day work for many practitioners. They facilitate collaborations for the purposes of design research, collective activity, sense making…
 
-<a class="button-alt">Back to top</a>
+<a class="button-alt" href="#">Back to top</a>
 
 <h3 class="top-line-alt" id="improving-services-processes-systems">Improving services, processes, and systems</h3>
 
@@ -147,7 +147,7 @@ Some of this work is not as ‘sexy’ or tangible as practitioners would like. 
 A special thank you to <a href="https://www.linkedin.com/in/vinishree-verma-2a31056/" target="_blank">Vinishree Verma</a>, <a href="https://www.linkedin.com/in/carolina-moyano-izquierdo-412a121a1/" target="_blank">Carolina Moyano</a> and <a href="https://www.linkedin.com/in/nicoladobiecka/" target="_blank">Nicola Dobiecka</a> for contributing to this work.
 </blockquote>
 
-<a class="button-alt">Back to top</a>
+<a class="button-alt" href="#">Back to top</a>
 
 <h2 class="top-line-alt" id="contributions">Contributions</h2>
 
@@ -161,7 +161,7 @@ A special thank you to <a href="https://www.linkedin.com/in/vinishree-verma-2a31
 - enabling collaborations
 - engaging people creatively
 
-<a class="button-alt">Back to top</a>
+<a class="button-alt" href="#">Back to top</a>
 
 <h3 class="top-line-alt"  id="sd-perspective">Bringing a service design perspective</h3>
 
@@ -178,7 +178,7 @@ A participant emphasised the importance of ‘helping people recognise that they
 - **Building data-driven organisations**:<br> 
 Design’s evidence-based and iterative approach is about helping organisations to implement a ‘test and learn approach on an ongoing basis’ and ‘make decisions based on what you are learning’ through quantitative and qualitative data
 
-<a class="button-alt">Back to top</a>
+<a class="button-alt" href="#">Back to top</a>
 
 <h3 class="top-line-alt" id="collaboration">Enabling Collaborations</h3>
 
@@ -202,7 +202,7 @@ But they do not only bring their skills for building relationships and collabora
 
 >“Service design has the amazing capacity to coordinate all the layers in a service: the [user] experience, staff workflows, safety, modelling of data, technology…”
 
-<a class="button-alt">Back to top</a>
+<a class="button-alt" href="#">Back to top</a>
 
 <h3 class="top-line-alt" id="creative-engagement">Creative Engagement</h3>
 
@@ -219,7 +219,7 @@ Some participants see design ‘as a means to fundamentally shift democracy’. 
 <br>
 {% include give-feedback.html %}
 
-<a class="button-alt">Back to top</a>
+<a class="button-alt" href="#">Back to top</a>
 
 <!--
 

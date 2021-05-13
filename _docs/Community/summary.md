@@ -43,7 +43,7 @@ Although we speak of service design practice, **we use the term service design v
 
 When we refer to **‘practitioners’**, we refer to people who engage in service design approaches and practice within the Scottish public and third sectors independently of their job title.
 
-<a class="button-alt">Back to top</a>
+<a class="button-alt" href="#">Back to top</a>
 
 <h2 class="top-line-alt" id="sharing">Sharing</h2>
 
@@ -65,7 +65,7 @@ But watching your networks to filter and select the events worth attending is st
 
 Service design is a field that forces you to have a wide set of skills and learn from a lot of sources, but there is a lot going on and it’s not always easy to keep up.
 
-<a class="button-alt">Back to top</a>
+<a class="button-alt" href="#">Back to top</a>
 
 <h3 class="top-line-alt" id="events">A lot of events, but not inclusive enough</h3>
 
@@ -73,7 +73,7 @@ Because of COVID, events are now online which creates new opportunities but also
 
 > “As someone with a disability, this sort of communication [via Zoom] is so exhausting”. […] I feel extremely excluded from the service design community. I have enough of a problem working on a day-to-day basis […] just creating a space for me to exist as myself. So keeping in touch with the rest of the community is impossible.”
 
-<a class="button-alt">Back to top</a>
+<a class="button-alt" href="#">Back to top</a>
 
 <h3 class="top-line-alt" id="how-and-what">How and what do practitioners share</h3>
 
@@ -85,7 +85,7 @@ Some prefer sharing informally within communities of practice:
 
 > “There are some positive communities like on Slack, like the SDS [Service Design Scotland] as a way to connect with people, […] these things are more informal, kind of go along, everybody has a chance to chat, meet people, and that’s quite different from going to a talk, a workshop or a conference where you go to keep and absorb as opposed to share?”
 
-<a class="button-alt">Back to top</a>
+<a class="button-alt" href="#">Back to top</a>
 
 <h3 class="top-line-alt" id="do-not-share">There a lot of reasons why people do not share</h3>
 
@@ -113,7 +113,7 @@ Another expressed a similar feeling:
 
 >“It’s hard, because every time you speak to other service designers, or you look at the Scottish Government community or SAtSD (Scottish Approach to Service Design), you feel a bit like you are doing it wrong, or you feel embarrassed of your own practice”
 
-<a class="button-alt">Back to top</a>
+<a class="button-alt" href="#">Back to top</a>
 
 <h3 class="top-line-alt" id="honesty">A Lack of space for honesty</h3>
 
@@ -139,7 +139,7 @@ This was a feeling shared by the practitioners who attended our workshop on desi
 
 _From the feedback frame of the workshop on Miro_
 
-<a class="button-alt">Back to top</a>
+<a class="button-alt" href="#">Back to top</a>
 
 <h3 class="top-line-alt" id="open-share-resources">Being open, sharing resources and research</h3>
 
@@ -155,7 +155,7 @@ Some went further, thinking sharing should not only be within the Third sector, 
 
 If we don’t share, “what we will end up with is everybody, everywhere, every local authority goes off and design services, every GP and NHS services goes off and design some appointments and booking systems”.
 
-<a class="button-alt">Back to top</a>
+<a class="button-alt" href="#">Back to top</a>
 
 <h3 class="top-line-alt" id="community-to-share">Community as a place to share</h3>
 
@@ -170,7 +170,7 @@ We want to keep these summaries short, so we extracted the sharing theme from th
 <br>
 {% include give-feedback.html %}
 
-<a class="button-alt">Back to top</a>
+<a class="button-alt" href="#">Back to top</a>
 
 <!--
 
