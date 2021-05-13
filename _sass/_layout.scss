@@ -470,26 +470,28 @@ a.button {
 	color: #1a1a1a;
     background-color: $brand-colour-light;
 	padding: 8px 18px;
-	border: solid 1px $brand-colour;
+	border: solid 2px $brand-colour;
 	text-decoration: none;
 	font-weight: 600;
 	font-size: 1.5rem;
 }
 a.button:hover {
 	background-color: $brand-colour; 
+	color: #ffffff;
 }
 
 a.button-alt { 
 	color: #1a1a1a;
 	background-color: $brand-colour-light-alt;
 	padding: 8px 18px;
-	border: solid 1px $brand-colour-alt;
+	border: solid 2px $brand-colour-alt;
 	text-decoration: none;
 	font-weight: 600;
 	font-size: 1.5rem;
 }
 a.button-alt:hover {
 	background-color: $brand-colour-alt; 
+	color: #ffffff;
 }
 
 .tag {
