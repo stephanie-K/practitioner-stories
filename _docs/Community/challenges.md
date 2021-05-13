@@ -122,7 +122,7 @@ order: 3
  </ul>
  </details>
 <br>
-
+<a class="button">Back to top</a>
 
 <h2 class="top-line" id="lack-of-space-for-honesty">Lack of space for honesty</h2>
 
@@ -182,6 +182,7 @@ order: 3
  </ul>
  </details>
 <br>
+<a class="button">Back to top</a>
 
 <h2 class="top-line" id="people-are-not-sharing">People are not sharing</h2>
 
@@ -235,4 +236,6 @@ order: 3
 <br>
 {% include give-feedback.html %}
 
-<div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>
+<a class="button">Back to top</a>
+
+<p>Last updated: {{site.time | date_to_string}}</p>

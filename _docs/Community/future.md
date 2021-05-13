@@ -52,7 +52,7 @@ order: 4
  </ul>
  </details>
 <br>
-
+<a class="button">Back to top</a>
 
 <h2 class="top-line" id="what-a-community-space-could-be">What a community space could be</h2>
 
@@ -75,7 +75,7 @@ order: 4
  </ul>
  </details>
 <br>
-
+<a class="button">Back to top</a>
 
 <h2 class="top-line" id="things-we-want-to-see-happening-in-our-community">Things we want to see happening in our community</h2>
 
@@ -171,4 +171,6 @@ order: 4
 {% include give-feedback.html %}
 
 <p><a href="#"><strong>Back to top</strong></a></p>
+
+<p>Last updated: {{site.time | date_to_string}}</p>
 

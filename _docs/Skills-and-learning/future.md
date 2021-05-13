@@ -207,6 +207,8 @@ order: 4
 
 <p><a href="#"><strong>Back to top</strong></a></p>
 
+<p>Last updated: {{site.time | date_to_string}}</p>
+
 <!--
 
 <a href="" target="_blank"></a>

@@ -75,6 +75,7 @@ order: 2
  </ul>
  </details>
 <br>
+<a class="button">Back to top</a>
 
 <h2 class="top-line" id="networking---events---keeping-in-touch">Networking - Events - Keeping in touch</h2>
 
@@ -154,6 +155,7 @@ order: 2
  </ul>
  </details>
 <br>
+<a class="button">Back to top</a>
 
 <h2 class="top-line" id="sharing-vs-not-sharing---what-why-and-where">Sharing vs not sharing - What, Why and Where?</h2>
 
@@ -297,5 +299,7 @@ order: 2
 <br>
 {% include give-feedback.html %}
 
-<p><a href="#"><strong>Back to top</strong></a></p>
+<a class="button">Back to top</a>
+
+<p>Last updated: {{site.time | date_to_string}}</p>
 
