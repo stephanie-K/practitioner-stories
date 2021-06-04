@@ -26,7 +26,7 @@ For each theme, there are general insights and we have grouped the challenges se
 
 In the navigation menu you can select a theme. You then land on the introduction page for it. From there, you can access the other pages: General, Challenges and Future.
 
-<img src="/practitioner-stories/images/navigation-explanation.png" alt="showing the 2 steps with screenshots of the website" style="border: solid 1px #ea6c4e">
+<img src="/practitioner-stories/images/navigation-explanation.jpg" alt="showing the 2 steps with screenshots of the website" style="border: solid 1px #ea6c4e">
 
 
 <h2 class="top-line">Different level of detail</h2>
