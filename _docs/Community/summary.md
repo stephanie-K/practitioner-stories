@@ -184,7 +184,7 @@ We saw that some of our participants didn’t feel safe to share. But quite a fe
 
 <a class="button-alt" href="#">Back to top</a>
 
-<h3 id="outsider">Feeling like an outsider</h3>
+<h3 id="outsider" class="top-line-alt">Feeling like an outsider</h3>
 
 ![illustration of the concept feeling like an outsider](/practitioner-stories/images/Community/community-outsider.jpg)
 
@@ -205,7 +205,7 @@ Some people feel disengaged because they are frustrated by “the rhetoric, conv
 
 <a class="button-alt" href="#">Back to top</a>
 
-<h3 id="what-do-we-want-this-community-to-be">What do we want this community to be?</h3>
+<h3 id="what-do-we-want-this-community-to-be" class="top-line-alt">What do we want this community to be?</h3>
 
 From our interviews, it became clear that communities of different types and sizes offer different kinds of value to practitioners. They find value in spaces with different degrees of privacy and management, as well as disciplinary and geographical outreach.
 
@@ -228,7 +228,7 @@ We also saw that the community yearned for wider, collaborative spaces to share 
 
 <a class="button-alt" href="#">Back to top</a>
 
-<h3 id="who">Who should be part of this community?</h3>
+<h3 id="who" class="top-line-alt">Who should be part of this community?</h3>
 
 ![illustration asking who should be part](/practitioner-stories/images/Community/community-who-should-be-part.jpg)
 
@@ -245,7 +245,7 @@ There is an interest in sharing learning with other “disciplines that work in 
 
 <a class="button-alt" href="#">Back to top</a>
 
-<h3 id="how-big">How big do we go? The whole of Scotland? Wider?</h3>
+<h3 id="how-big" class="top-line-alt">How big do we go? The whole of Scotland? Wider?</h3>
 
 ![illustration asking how big should we go](/practitioner-stories/images/Community/community-how-big.jpg)
 
@@ -265,7 +265,7 @@ Some were looking for global exchange of thoughts, ideas and generating dialogue
 
 <a class="button-alt" href="#">Back to top</a>
 
-<h3 id="building">Building strong communities of practice</h3>
+<h3 id="building" class="top-line-alt">Building strong communities of practice</h3>
 
 ![illustration of the concept of collaboration](/practitioner-stories/images/SDwork/collab.jpg)
 
@@ -276,7 +276,7 @@ Practitioners also offered some tips for building a good community of practice.
 
 <blockquote class="alt">
 
-_Like for the Service Design Scotland meet up group, started by <a href="https://twitter.com/MikePress" target="_blank">Mike Press</a> and <a href="https://twitter.com/HazeloneWhite" target="_blank">Hazel White </a>from Open Change, which became the Gathering (#SDSGather) during Covid with <a href="https://twitter.com/barbara_m6" target="_blank">Barbara Mertlova</a> and <a href="https://twitter.com/lorrismyth" target="_blank">Lorri Smyth</a> who help running them. You can <a href="https://join.slack.com/t/servicedesign-tio7866/shared_invite/zt-bxit9x7b-5e6VrxQCH6xJPfT3jerHVA" target="_blank">join the associated Slack Space</a> even if you are not in Scotland_
+Like for the Service Design Scotland meet up group, started by <a href="https://twitter.com/MikePress" target="_blank">Mike Press</a> and <a href="https://twitter.com/HazeloneWhite" target="_blank">Hazel White </a>from Open Change, which became the Gathering (#SDSGather) during Covid with <a href="https://twitter.com/barbara_m6" target="_blank">Barbara Mertlova</a> and <a href="https://twitter.com/lorrismyth" target="_blank">Lorri Smyth</a> who help running them. You can <a href="https://join.slack.com/t/servicedesign-tio7866/shared_invite/zt-bxit9x7b-5e6VrxQCH6xJPfT3jerHVA" target="_blank">join the associated Slack Space</a> even if you are not in Scotland
 
 </blockquote>
 
@@ -301,7 +301,7 @@ That’s been created because the culture of the space feels good to people. And
 
 <a class="button-alt" href="#">Back to top</a>
 
-<h3 id="ownership">Centralising community efforts in Scotland: Ownership</h3>
+<h3 id="ownership" class="top-line-alt">Centralising community efforts in Scotland: Ownership</h3>
 
 A controversial topic might be who should manage such a community of practice in Scotland, since we had very different perspectives among participants.
 
