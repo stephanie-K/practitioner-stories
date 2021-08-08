@@ -95,7 +95,7 @@ One of our interviewees observed that they found more female and international u
 
 The gender unbalanced was more pronounced in the 7 extra answers which didn't match our criteria: 6 She/her vs 1 He/him.
 
-#### Disability
+<h4>Disability</h4>
 
 In the UK, about 1 in 5 is disabled. Keeping in mind that this was a very small number of answers, we had a similar proportion in our participants.
 
