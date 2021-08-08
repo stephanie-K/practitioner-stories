@@ -45,4 +45,4 @@ These insights come from our 15 remote interviews. You can see them:
 
 <p><a href="#"><strong>Back to top</strong></a></p>
 
-<p>Last updated: {{site.time | date_to_string}}</p>
+<p>Last updated: {{ite.static_files.first.modified_time | date_to_string}}</p>

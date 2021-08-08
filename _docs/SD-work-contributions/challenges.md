@@ -627,7 +627,7 @@ One quote: That makes me think about service design as an industry, is it maybe 
 
 <p><a href="#"><strong>Back to top</strong></a></p>
 
-<p>Last updated: {{site.time | date_to_string}}</p>
+<p>Last updated: {{ite.static_files.first.modified_time | date_to_string}}</p>
 
 <!--
 

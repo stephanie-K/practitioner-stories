@@ -219,7 +219,7 @@ order: 2
 
 <p><a href="#"><strong>Back to top</strong></a></p>
 
-<div>Last updated: {{site.time | date_to_string}}
+<div>Last updated: {{ite.static_files.first.modified_time | date_to_string}}
 
 <!--
 

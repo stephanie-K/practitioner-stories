@@ -24,7 +24,8 @@ You will find our Medium stories here where we write about the project and the e
 
 ## Surveys
 <ul>
- <li><a href="https://forms.gle/NGjX3kewrfFUX7hEA" target="_blank">Can you tell us about your journey to service design practice?</a> - about 10min</li>
+ <li><a href="https://forms.gle/NGjX3kewrfFUX7hEA" target="_blank">Can you tell us about your journey to service design practice?</a> - about 5min</li>
+ <li><a>Results of this survey  so far on Medium (coming soon - 09/08/21)</a> or <a>on this website (link not working yet)</a> if you prefer</li>
 </ul>
 
 <h2 class="top-line">Events</h2>

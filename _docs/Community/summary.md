@@ -320,7 +320,7 @@ We heard similar views regarding the Scottish Approach to Service Design (SAtSD)
 
 <p><a href="#"><strong>Back to top</strong></a></p>
 
-<p>Last updated: {{site.time | date_to_string}}</p>
+<p>Last updated: {{ite.static_files.first.modified_time | date_to_string}}</p>
 
 <!--
 
