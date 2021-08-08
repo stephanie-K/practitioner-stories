@@ -57,7 +57,7 @@ Out of the 24 matching our criteria, 16 people work in the public sector and 4 m
 
 #### People were mostly based in Scotland
 
-Out of the 31 answers we had, 26 were based in Scotland, 2 in England, 1 mostly in the UK, 1in India/Dubai and 1 in Canada.
+Out of the 31 answers we had, 26 were based in Scotland, 2 in England, 1 mostly in the UK, 1 in India/Dubai and 1 in Canada.
 
 We only kept the ones who were based in Scotland for our data, but it's really nice to see that we got interest way beyond Scotland!
 
@@ -99,7 +99,7 @@ The gender unbalanced was more pronounced in the 7 extra answers which didn't ma
 
 In the UK, about 1 in 5 is disabled. Keeping in mind that this was a very small number of answers, we had a similar proportion in our participants.
 
-Out of 24 people, 4 said they had a disability but didn't consider themselves as disabled and 1 identified as disabled.
+Out of 24 people, 4 said they had a disability but didn't identify as disabled and 1 identified as disabled.
 
 ![diagram to see the results of the question: 'Do you have a disability?' as a visual instead of text](/practitioner-stories/images/survey/disability.jpg)
 
@@ -149,11 +149,11 @@ Which probably is one of the reasons for the answers to the previous section. Bu
 
 ### Service design is still a pretty new field
 
-Most people have been working in service design for less than 5 years
+Most respondents have been working in service design for less than 5 years
 
 - only 4 participants have been working for more than 5 years in this field
 - 30% have only been working in service design for 1 year
-- 60% have only been working i service design for 3 years maximum
+- 60% have only been working in service design for 3 years maximum
 
 ![diagram to see the results of the question: 'how long have you been working in service design'as a visual instead of text](/practitioner-stories/images/survey/How-long.png)
 
@@ -341,7 +341,8 @@ Gov service, Co-op, Deliveroo, Uber, Content Design London
 ### Previous bad work experience
 > "Previous work environments (mostly knowing how I DON'T want to work and approach projects)"
 
-<br>
+![Illustration of the journey to service design with a message: Thank you to all the participants](/practitioner-stories/images/survey/thank-you.jpg)
+
 
 {% include give-feedback.html %}
 
