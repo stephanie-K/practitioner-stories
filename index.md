@@ -76,7 +76,8 @@ We are 3 service designers living and working in Scotland passionate about our p
 
 {% include give-feedback.html %}
 
-<div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>
+<!-- div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div-->
+<div>Last updated: {{site.static_files.first.modified_time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>
 
 <!--
 <p><a href="" target="_blank"></a></p>

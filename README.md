@@ -38,6 +38,7 @@ You can get in touch with us individually on the Service Design in Scotland Slac
 
 Product documentation template for Jekyll. Browse through a [live demo](https://long-pig.cloudvent.net/).
 Start documenting your product, application, service or website with this configurable theme.
+[Jekyll Cheat Sheet](https://cloudcannon.com/community/jekyll-cheat-sheet/)
 
 Edition was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
 
