@@ -201,6 +201,7 @@ We had similar answers to the one we got during our workshop last year when aske
 > 
 > "I believe that together we can drive social change and contribute to more sustainable futures."
 > 
+
 ### A lot of people came to it by accident or were in fact doing it without realising it
 
 > "Came into it by accident, my Masters' degree was vaguely about innovation but they taught service design. Then I started working in knowledge exchange, and service design tools and skills became central to my work"
@@ -346,7 +347,7 @@ Gov service, Co-op, Deliveroo, Uber, Content Design London
 
 <p><a href="#"><strong>Back to top</strong></a></p>
 
-<p>Last updated: {{ite.static_files.first.modified_time | date_to_string}}</p>
+<p>Last updated: {{site.static_files.first.modified_time | date_to_string}}</p>
 
 <!--
 

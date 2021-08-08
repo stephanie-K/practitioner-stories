@@ -42,4 +42,4 @@ Note that a lot of insights are related to another theme "[SAtSD](/practitioner-
 {% include give-feedback.html %}
 <p><a href="#"><strong>Back to top</strong></a></p>
 
-<div>Last updated: {{ite.static_files.first.modified_time | date_to_string}}
+<div>Last updated: {{site.static_files.first.modified_time | date_to_string}}
