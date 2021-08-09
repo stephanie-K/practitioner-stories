@@ -1,7 +1,5 @@
 ---
 title: Journey to service design practice
-category: Survey
-order: 1
 ---
 
 ![illustration of a journey with a sign pointing to service design with the text: Can you tell us about your journey to service design practice](/practitioner-stories/images/survey/survey1-header.jpeg)
