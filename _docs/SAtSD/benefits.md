@@ -26,7 +26,7 @@ order: 3
 > Select one of the clusters of insights to see the quotes supporting it. Select it again to hide the quotes.
 
 <details>
-<summary>Advocating & evidencing the value of Service Design & user/citizen involvment</summary>
+<summary><span>Advocating & evidencing the value of Service Design & user/citizen involvment</span></summary>
 <ul>
 <li>It does great work in terms of advocating for involving users within design work. [...] It does great things in terms of informing people getting involved in design work or procuring design work. Why it is important to involve citizens within the services that you are creating. It‘s good for justifying why that‘s important [...] I love that it says, "if you don’t understand the needs of your citizens and you don’t understand how to co-design in a way that is fitting and appropriate for that person, involve that person in the planning. So that they can help you plan it."</li>
 <li>It’s incredibly passive at the moment in terms of how we engage with users, and actually that’s because it is really difficult.  [... The SAtSD is] breaking some of those barriers so we can really do good service design more. We can design good services that work for people, not based on ego or organisation or constraints, everyone is in that together. And it’s not easy, but it’s really necessary</li>
@@ -34,7 +34,7 @@ order: 3
 </ul>
 </details>
 <details>
-<summary>Door opener - conversation starter - Getting Designers through the door</summary>
+<summary><span>Door opener - conversation starter - Getting Designers through the door</span></summary>
 <ul>
 <li>Working in the [public sector], I’ve had a six-month struggle to not even implement it, just get people to acknowledge that it is an ok thing to do. So I can see now more and more how smart it is</li>
 <li>It gets me through the door . [...] It is a great tool, and a kind of methodology to take it into organisations and say: ‘look, this is what I do, the evidence for why we're trying to do it, where it has evolved from...’</li>
@@ -43,7 +43,7 @@ order: 3
 </ul>
 </details>
 <details>
-<summary>Winning hearts and minds</summary>
+<summary><span>Winning hearts and minds</span></summary>
 <ul>
 <li>What the Government is doing, the playbook [...] is your manual. But actually they’ve got to win hearts and minds. I think the SAtSD has been about winning hearts and minds, and being a community in the way they have done the training and built that up. I’ve definitely seen that. [...]  with something like the SAtSD, there’s a nervousness, so you can be quite purist about it: ‘it must be done this way’, ‘it’s got to be done this way’. I think it is more about principles and hearts and minds than it is about practice</li>
 <li>I think it is positive that it is there [...] You can see that the public sector responds to stuff like this [..] they have to reorient how  they work</li>
@@ -51,46 +51,46 @@ order: 3
 </ul>
 </details>
 <details>
-<summary>Scottish Government endorsement</summary>
+<summary><span>Scottish Government endorsement</span></summary>
 <ul>
 <li>So, I think the biggest benefit of the Scottish Approach to Service Design is almost the endorsement of the Scottish Government</li>
 <li>We need to build to point to that and say ‘no, but we’ve got an agreement at the highest levels in government, that that’s the way we work. We’ve embedded it into, wherever our mandates exist. We managed to integrate it in there, and we got support from the community to do it</li>
 </ul>
 </details>
 <details>
-<summary>Endorsement Status & buy-in</summary>
+<summary><span>Endorsement Status & buy-in</span></summary>
 <ul>
 <li>I guess I see the value of it as being more buying in and show-the-impact type of thing. [...] But as a form to present to executives or whatever I would use it. It‘s branded with a logo, so use it because there is a logo on it</li>
 </ul>
 </details>
 <details>
-<summary>Compliance</summary>
+<summary><span>Compliance</span></summary>
 <ul>
 <li>I've used it to beat people up when they don’t let me do my job [...] it is being useful as a sort of official compliance document. It gives us status, the same status, [...]  I hope, than information governance, or open source code, and things like that</li>
 </ul>
 </details>
 <details>
-<summary>Focus on process rather than outcomes</summary>
+<summary><span>Focus on process rather than outcomes</span></summary>
 <ul>
 <li>It focuses on the process [... ] it sort of says: ‘during your project, have you done this and this?’ rather than ‘have you produced this and that outcome’. And that is really useful, because we can really say to people, you know, we are supposed to comply, so this is the process that we need to implement</li>
 <li>A process which makes us think of the service user and thinking about their life journey, not our internal structure, that will inevitable result in us going: hang on a second, this bit of this journey has nothing to do with us, [..], what do we need to do now? so it's forcing us to think in someone else's shoes which really what we should be doing, or what good design should be doing</li>
 </ul>
 </details>
 <details>
-<summary>Assessment Guidelines</summary>
+<summary><span>Assessment Guidelines</span></summary>
 <ul>
 <li>I think the maturity modelling piece is useful as well because we can score ourselves against others and say, where we need to be to move up to the next level</li>
 <li>It has actually been a lot more useful than I ever thought it would be. [...] the SAtSD assessment [...] has been really helpful because I need to beat people a bit to listen to service design so I really want to do it I think it is a useful tool to say, ‘look, we have to comply with this so here is the assessment, we can rate ourselves and then see how we are doing, and turns out we probably should be talking to more people</li>
 </ul>
 </details>
 <details>
-<summary>Setting out principles & terminology</summary>
+<summary><span>Setting out principles & terminology</span></summary>
 <ul>
 <li>I recognise that it‘s an important thing to set out as a set of principles</li>
 </ul>
 </details>
 <details>
-<summary>Common language</summary>
+<summary><span>Common language</span></summary>
 <ul>
 <li>The ability to put it out in plain English the benefit of it and how a council can use it. It is really helpful</li>
 <li>People are developing the language to be talking about it within a service design context; which I think is really helpful because it allows us to be able to articulate what we do a bit better,  and gives people a frame of reference. [...]</li>
@@ -99,7 +99,7 @@ order: 3
 </ul>
 </details>
 <details>
-<summary>Standards</summary>
+<summary><span>Standards</span></summary>
 <ul>
 <li>And then the standards I guess, they are more for digital services</li>
 </ul>

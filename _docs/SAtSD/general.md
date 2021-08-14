@@ -32,7 +32,7 @@ SAtSD's Scottish identity is interpreted in a variety of ways, with both positiv
 > Select one of the clusters of insights to see the quotes supporting it. Select it again to hide the quotes.
 
  <details>
- <summary>Why specifically Scottish?</summary>
+ <summary><span>Why specifically Scottish?</span></summary>
  <ul>
  <li>Why is there the SAtSD? Why isn’t it just service design? It needs to be sold to me that there should be a special Scottish way</li>
 <li>Colleagues in [...] different places talk about the approach of Scottish design. It's just about service design</li>
@@ -41,20 +41,20 @@ SAtSD's Scottish identity is interpreted in a variety of ways, with both positiv
  </ul>
  </details>
  <details>
- <summary>A brand, a product</summary>
+ <summary><span>A brand, a product</span></summary>
  <ul>
  <li>It's an approach that has been packaged up along with resources and assets to codify and standardise practice, so to me it's a product and a brand [...] it feels like it's a brand that's been promoted</li>
  </ul>
  </details>
  <details>
- <summary>Scotland: SD school & army</summary>
+ <summary><span>Scotland: SD school & army</span></summary>
  <ul>
  <li>It gives the impression that design is over here, and that we are building an army of designers to be the biggest design school in the world. So for that reason again, it feels like it's a brand that's been promoted</li>
 <li>We have this ambition about Scotland being almost like a design school and, you know, people being equipped with the skills to understand what is expected of them and how they can participate</li>
  </ul>
  </details>
  <details>
- <summary>A vision or a promise of meaningful involvement</summary>
+ <summary><span>A vision or a promise of meaningful involvement</span></summary>
  <ul>
  <li>Service design is everybody’s business. [...] we sometimes present SD as if it is just for the cool kids. It is not, it is for everybody, it is for every citizen. You know, that right to co-design or at least to influence, to have a say on the services that you as a citizen receive; that right to help determine how those work, that's what it means to me</li>
 <li>It's almost like a kind of promise I suppose, from Scottish Government about taking a citizen-led approach about how they design their services. So kind of like putting a stake in the ground and saying: "that's how we want to work, this is the approach that we would like to take and this is our promise to put the citizens at the centre of how we do public services"</li>
@@ -65,7 +65,7 @@ SAtSD's Scottish identity is interpreted in a variety of ways, with both positiv
  </ul>
  </details>
  <details>
- <summary>People are talking about it</summary>
+ <summary><span>People are talking about it</span></summary>
  <ul>
  <li>I have talked to [people] in Wales who are doing a bit of this work.</li>
 <li>I think it's landed well and when I speak to colleagues in London, and Manchester and different places they will talk about the approach of Scottish Design [...] They've heard about it potentially at conferences like SDinGov, some other work like Snook and some big authorities, [...] but also through the Scottish Government's own website and I know it's easy to access</li>
@@ -73,32 +73,32 @@ SAtSD's Scottish identity is interpreted in a variety of ways, with both positiv
 </details>
 
  <details>
- <summary>Setting expectations</summary>
+ <summary><span>Setting expectations</span></summary>
  <ul>
  <li>People from other countries look at it and they are like what‘s Scotland is doing is different. But it‘s not. And then, it kind of draws weird glances to be like: "does Scotland want to be different? Are they setting themselves out to be different? And then failing at being different. It sets weird expectations, I think</li>
  </ul>
  </details>
  <details>
- <summary>An opportunity</summary>
+ <summary><span>An opportunity</span></summary>
  <ul>
  <li>Taking a more assets based approach to the work that is being done, not just always approach people as always needing something that only our service can provide. Building on [what people are already doing] or identifying things that could be further developed or linked to other things or approaching people with the knowledge and the assumption that they already have a whole life and if that whole life doesn't include something that a service thinks it should then having a look at that approach and maybe flipping that a bit</li>
 <li>And I think if any angle was desired to set out Scotland as different or as more forward leading, then I would want it to be that aspect of involving people in designing the design work. I‘m almost interested in saying “hey, we‘re the designers within the public sector in Scotland, and we don’t want to lead on the design work. We want to take it back. We want to help other people design their services and maybe that‘s what sets us apart</li>
  </ul>
  </details>
  <details>
- <summary>Leap in involvement and services</summary>
+ <summary><span>Leap in involvement and services</span></summary>
  <ul>
  <li>SAtSD is one of these core things that has this opportunity to really do a huge leap in different services and to have people more involved and take responsibilities, and maybe even design these services themselves, that would be the holy grail if you like</li>
  </ul>
  </details>
  <details>
- <summary>Service design for local government</summary>
+ <summary><span>Service design for local government</span></summary>
  <ul>
  <li>The opportunity with the SAtSD is that we can get almost a more council and local view on how that could be applied. Because you cannot just lift from a text book or from a course and say let’s go and use this. It doesn’t quite work. You need a version for local government because we‘re so different in that aspect. [...] Having that national view on Scottish local government</li>
  </ul>
  </details>
  <details>
- <summary>About the particularities Scottish Context</summary>
+ <summary><span>About the particularities Scottish Context</span></summary>
  <ul>
  <li>There is an appetite to do things differently. There may not be an understanding across the board. But there is an absolute appetite to do things. And the SAtSD, you know, people are talking about it. That kind of provides me with the evidence that people want things to change. I can see the great ideas in there, and now I want to know how we do this, cause it’s actually really hard</li>
 <li>It links so neatly to the Scottish approach to government, which is very much around the kind of community empowerment and the idea of with not for really really meaning that</li>
@@ -109,13 +109,13 @@ SAtSD's Scottish identity is interpreted in a variety of ways, with both positiv
  </ul>
  </details>
 <details>
-<summary>Scotland's size</summary>
+<summary><span>Scotland's size</span></summary>
 <ul>
  <li>The size of Scotland plays a factor in that and it's more to do with the size of the public sector, and the private sector and the relationship that that allows, because it's much easier to connect things together [...] if I'm working in one policy area, the other policy area is just sitting over there, I can talk to them, they are not a separate department, there are not in a separate town, ok, this should not be an issue in terms of remote working but it's an issue because there are kind of "out of sight out of mind" [...] I think size is a big factor</li>
  </ul>
 </details>
  <details>
- <summary>Alignment with policy context</summary>
+ <summary><span>Alignment with policy context</span></summary>
  <ul>
  <li>The different policy context that Scotland operates in. And I think that is more about inclusion, it’s more about bringing the right people to the table, taking time to make decisions... you know, my joke about Scotland is that England will have done it yesterday, Scotland will decide tomorrow. I mean that really positively about Scotland, in a policy context I think we really are about inclusive and genuine interest in putting people’s needs at the centre. I think that’s what makes it different and that’s what it is. It’s about aligning... I call it the cognitive operating system of a country. A country tends to sort of unite itself around what the government’s policies are. I think it’s aligned with that kind of cognitive system</li>
 <li>My interest was picked and it felt we should have a national approach. It's about this consistency. [...] In Scotland at least, we've got progressive policy. It's leaning towards a wellbeing economy. We will never have a better opportunity to make that real. And I think that's encouraging, there are good example of this happening, just grassroots, there is lots of good noises and we will see what good actions come from that</li>
@@ -123,19 +123,19 @@ SAtSD's Scottish identity is interpreted in a variety of ways, with both positiv
  </ul>
  </details>
  <details>
- <summary>Struggling with its political connotations</summary>
+ <summary><span>Struggling with its political connotations</span></summary>
  <ul>
  <li>Because it‘s Scottish Government and because of who runs the SG, they do kind of need to say something like “oh, we got that special Scottish way of doing things”, which is not something that I‘m into. I find it very difficult to engage with something with that kind of apparent political lens to it</li>
  </ul>
  </details>
  <details>
- <summary>Cultural change</summary>
+ <summary><span>Cultural change</span></summary>
  <ul>
  <li>It's a cultural change thing [...] you are just creating a new context for it, and maybe that’s what needs to happen within Scotland just because of the desire to do everything slightly separately. I understand that</li>
  </ul>
  </details>
  <details>
- <summary>Nothing new for practitioners</summary>
+ <summary><span>Nothing new for practitioners</span></summary>
  <ul>
  <li>It's nothing new, someone just put a label on it. [...] I suppose that people have been doing what we are doing for years and years, so it's nothing new; and I think we need to remember that. But I think that the terminology has changed and the way that people, and those roles sit within organisations have changed</li>
 <li>I read it and i have to say that, yes of course, it seems so basic and yes, I don’t disagree with any of it, but of course you are doing that. That is just the bare minimum</li>

@@ -59,7 +59,7 @@ So instead you can add a top line to a h2 or a h3:
 
 This is how to make the element which opens and closes to reveal content
  <details>
- <summary>Text that is seen at the top</summary>
+ <summary><span>Text that is seen at the top</span></summary>
  <p>text that displays when open - this is a paragraph</p>
  <ul>
     <li>this is a bullet point</li>

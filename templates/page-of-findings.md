@@ -23,7 +23,7 @@ order:
 > Select one of the clusters of insights to see the quotes supporting it. Select it again to hide the quotes.
 
  <details>
- <summary></summary>
+ <summary><span></span></summary>
  <ul>
     <li></li>
  </ul>
@@ -43,7 +43,7 @@ order:
 
 > Select one of the clusters of insights to see the quotes supporting it. Select it again to hide the quotes.
  <details>
- <summary></summary>
+ <summary><span></span></summary>
  <ul>
     <li></li>
  </ul>

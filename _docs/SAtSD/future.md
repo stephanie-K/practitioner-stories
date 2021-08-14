@@ -29,7 +29,7 @@ order: 5
 
 #### A community of practice that goes beyond Service Design
 <details>
-<summary>Better at connecting existing things</summary>
+<summary><span>Better at connecting existing things</span></summary>
 <ul>
 <li>But I think it should maybe do a little bit better at linking things that are like it. So I know there is some work going on in NHS to link the Improvement community to the Service Design community because Quality improvement is Service design, it's just called Quality improvement</li>
 <li>There is a lot of stuff going on from inside the SG in different areas and different departments that the principles of which are almost identical to what's Scottish Approach is advocating for, but totally understandable for something that size, everybody is off doing their own thing. So in my ideal world the SAtSD would be something that is almost making itself available to these others pieces of work going on in the SG that are working to cede power to community or community empowerment initiatives but also in health and social care, everything this government is doing is about centring people, I think if I had to guess, that is the point of SAtSD to eventually get to that place where service design approach and thinking is built in into everything the government is doing</li>
@@ -37,7 +37,7 @@ order: 5
 </ul>
 </details>
 <details>
-<summary>Inclusive, cross disciplininary, community of practice</summary>
+<summary><span>Inclusive, cross disciplininary, community of practice</span></summary>
 <ul>
 <li>I think we should make it as inclusive as possible</li>
 <li>There is certainly disciplinary and cross disciplinary stuff that could be going on if the SAtSD was an actual community of people. I think it's a loosely associated group of people across the country who have the same language and level of understanding about a thing which is the SAtSD</li>
@@ -46,19 +46,19 @@ order: 5
 </ul>
 </details>
 <details>
-<summary>Expand to cover other aspects</summary>
+<summary><span>Expand to cover other aspects</span></summary>
 <ul>
 <li>If we talk about service design in general, I think we are good in Scotland [...] at knowing where you should [start] on the double diamond on a project, what are your unknowns? It doesn't mean that all the projects in Scotland need to start with months and months of researcher discovery work. It could be that you have some really good existing information already and you maybe need to start with the prototype or other aspects.  [...] I think we are very good at being outcome and output focused because a lot of service design work, some of which I have been involved in, you can do lots and lots of process but you are working with stakeholders where they don't necessarily know what the output or the benefit has been. But in Scotland we have a good reputation [for knowing] where the unknowns are in a project and how we can use design thinking to drive that. Because I know, generally the field of design, service design, product design, can get a bad name by senior stakeholders and staff that are trying to get their finger on the difference you're making, why is this lengthy process, why should I invest in?</li>
 </ul>
 </details>
 <details>
-<summary>Bias inequity & social justice</summary>
+<summary><span>Bias inequity & social justice</span></summary>
 <ul>
 <li>I am really interested in that complexity around bias and inequity, social justice in a service design space, and specially in the public and third sectors. [...] The SAtSD, doesn’t catch on that. Because it can’t, it’s not at that level of conversation yet</li>
 </ul>
 </details>
 <details>
-<summary>Well placed to get closer to policy</summary>
+<summary><span>Well placed to get closer to policy</span></summary>
 <ul>
 <li>I think it should be brought closer to the wider policy landscape [...] the policy landscape in Scotland is ripped for the SAtSD but it seems to be sitting over here away from it. [More on Scottish politcal landscape on Initial coding]</li>
 <li>Different policies active in Scotland just now or the government hopes and dreams for Scotland, it's very much about community empowerment, it's very much about ceding power to communities, there is a lot activities coming down from policy initiatives that are really wide open for the SAtSD to be built in, because they are totally changing the relationships between government and citizens, and sort of trying to reverse that power dynamic. So I think something like SAtSD would be really well placed to get a lot closer to the wider activity that's coming down from the Scottish Government</li>
@@ -68,19 +68,19 @@ order: 5
 
 #### Iterated with the community
 <details>
-<summary>Iterated and improved</summary>
+<summary><span>Iterated and improved</span></summary>
 <ul>
 <li>Hopefully, I will be able to share what I learn and then see how it goes from there. It should be an iterative process anyway, shouldn’t it?</li>
 </ul>
 </details>
 <details>
-<summary>Are practitioners being asked to contribute to its improvement?</summary>
+<summary><span>Are practitioners being asked to contribute to its improvement?</span></summary>
 <ul>
 <li>I keep hearing about a second version of it. But I don’t know what the second version is about or how it‘s been made. I don‘t think anyone had inputs into the second version or I certainly haven’t seen anything. Correct me if I‘m wrong and people where engaged much wider. But I don’t really understand what the second edition would be. I guess it might maybe include some tools or something, but you know tools are not, we don’t need tools, no one needs those, and especially we service designers we don’t need that, we need something else</li>
 </ul>
 </details>
 <details>
-<summary>It will never be finished</summary>
+<summary><span>It will never be finished</span></summary>
 <ul>
 <li>What I always say about this kind of thing is there will never be a utopia. People go search for a utopia, but it doesn’t exist. You always have to strive around, anything around inclusion and diversity, it is about striving. There will never be perfection. [...] I still come back to that... it’s a vision that we’ll continue to strive for but we’ll never be perfect at</li>
 <li>And it’s a job that will never be finished. We have really just started it. You know, how do we engage citizens in this</li>
@@ -101,7 +101,7 @@ order: 5
 
 <!--
 <details>
-<summary></summary>
+<summary><span></span></summary>
     <ul>
     <li></li>
     </ul>

@@ -33,19 +33,19 @@ order: 4
 > Select one of the clusters of insights to see the quotes supporting it. Select it again to hide the quotes.
 
  <details>
- <summary>Keeping our feet on the ground</summary>
+ <summary><span>Keeping our feet on the ground</span></summary>
  <ul>
     <li>Sometimes there are tendencies in service design circles to talk quite grandly, about grand ideas.  I think there is space for that, but we also need to keep our feet on the ground a little bit and make sure that what we‘re doing is practical and is actually improving things for people</li>
  </ul>
  </details>
   <details>
- <summary>Engagement & political buy-in, SD maturity</summary>
+ <summary><span>Engagement & political buy-in, SD maturity</span></summary>
  <ul>
     <li>I think in the future is getting to this higher level of maturity with service design and getting much more engagement and that political buy-in as</li>
  </ul>
  </details>
   <details>
- <summary>Designers skills</summary>
+ <summary><span>Designers skills</span></summary>
  <ul>
     <li>I would like to see a sort of future fleet of service designers, who [are] all quite comfortable drawing and sharing stuff early, who understand how to work in an agile environment, because it so rare to work on a design project that isn’t also digital</li>
     <li>So, understanding how to work iteratively, start with an MVP, build up your ideas over time as you test things, and understand how that technical world can be converted into a design world. And the two can work alongside each other. I think an understanding of that methodology is pretty vital</li>
@@ -65,7 +65,7 @@ order: 4
 > Select one of the clusters of insights to see the quotes supporting it. Select it again to hide the quotes.
 
  <details>
- <summary>Nurturing spaces for peer exchange: a place where people find each others, hear what others do, get value</summary>
+ <summary><span>Nurturing spaces for peer exchange: a place where people find each others, hear what others do, get value</span></summary>
  <ul>
     <li>Creating a kind of peer exchange market place, helping people feel safe and nurtured. It's less about giving them the thing they need, which might be a workbook or a training module, and more about creating that environment where people come, find each other and start to flourish and develop naturally as a network of people</li>
     <li>Be gently nudged by somebody or a group of people but not necessarily held so for example, there is a Slack group that's on the go, and for some people it's a really great place to find each other, DM each other. I think community management is needed in that space, but simple to keep the thing vibrant and informed, helping people get value from spending time in that space, that ultimately benefit the wider community in Scotland</li>
@@ -91,7 +91,7 @@ order: 4
 > Select one of the clusters of insights to see the quotes supporting it. Select it again to hide the quotes.
 
  <details>
- <summary>A catalyst for the community to get started</summary>
+ <summary><span>A catalyst for the community to get started</span></summary>
  <ul>
     <li>Somebody who is watching and listening as well, and just like keeping energy and people un-bored, making sure people are connecting otherwise they might have been missing something, and getting that kind of self managing thing, but it needs to be started, somehow by something or someone, but it doesn't necessarily needs to go on forever</li>
     <li>We would need someone who has an oversight of that community and listens and say 'ha! that's what happening over there and they don't know what's happening, so I'm going to link these guys up</li>
@@ -99,25 +99,25 @@ order: 4
  </ul>
  </details>
   <details>
- <summary>Hard to scale a community of practice to the whole of Scotland</summary>
+ <summary><span>Hard to scale a community of practice to the whole of Scotland</span></summary>
  <ul>
     <li>Community of practice [...] are great, there is a small one I'm involved in, [...] starting small, prototyping small is one way to look at it. [...] We collaborate, [...] it's a combination of Slack, meeting [on video-calls] around a Miro board, as well as having a space where you can access someone else Miro board and you can look at it very quickly. But if you scale that up to a Scotland-wide prototype, it becomes a very messy Miro board or team. You need a government body that maintains what the uploads are. There are government bodies out there like SCVO (Scotland Council for Voluntary Organisation) for charities. But if it was everyone who is doing service design, I don't know what a government body would look like</li>
  </ul>
  </details>
   <details>
- <summary>No overall body: A service designers guild?</summary>
+ <summary><span>No overall body: A service designers guild?</span></summary>
  <ul>
     <li>Can you centralise some of these things? I feel it’s quite organic at the moment and there are lots of different things, and it is quite interesting. You have things like the SErvice Design in Government conference, which is big and pulls lots of people. But there is no overall body... in the same way you would have an architecture’s guild</li>
  </ul>
  </details>
   <details>
- <summary>Getting a network established: being stronger and louder together</summary>
+ <summary><span>Getting a network established: being stronger and louder together</span></summary>
  <ul>
     <li>As a community we should focus on getting that network established and working because there is a strength in numbers and a lot of the public sector designers they are not on a high enough level to be able to effect change within their organisation or national where it is as a group you‘re much stronger to be able to do that or to get there collectively. It just helps people to get case studies, get joined-working, have a platform to shout louder about it</li>
  </ul>
  </details>
   <details>
- <summary>Mentoring</summary>
+ <summary><span>Mentoring</span></summary>
  <ul>
     <li>Could be a solution to lack of Services designers?</li>
     <li>You don't always know if people would want to be a mentor, or if they would have time, I think most people like to be asked but then, maybe don't always have the time for it, priorities-wise maybe it's not the best time, So I like the idea of that [...] platform where you can go and see who would like to be involved in that. I think it's a bit odd sometime to go to somebody and ask: "would you be my mentor?" ahahah it's like asking someone out on a date</li>
@@ -126,14 +126,14 @@ order: 4
  </ul>
  </details>
   <details>
- <summary>Potential for impact in Scotland</summary>
+ <summary><span>Potential for impact in Scotland</span></summary>
  <ul>
     <li>The impact we can have. There is so much going on there, which is about independent Scotland, like I think devolved benefits, different health care system, you know, just working with all the excellent policy that is out there to implement it. So yeah, I think that’s really where we can make an impact. I’m really interested in carbo-reductive service design practices at the moment as well. And I think in Scotland, with the agenda from the SNP about green economy I do think it is a massive, a huge space there to design more green ways of living</li>
     <li>Hopefully they [designers] will all return from London when they realise that Scotland is a nice place to live</li>
  </ul>
  </details>
   <details>
- <summary>Focus community efforts</summary>
+ <summary><span>Focus community efforts</span></summary>
 
  <ul>
     <li><strong>Community's response to briefs and tenders so we can push back when it doesn't feel right: </strong>The way people answer to tenders could be done in a different way to start to introduce ‘this is how I work’,  [...] to respond: "the way you're proposing doesn't feel good to us, because it doesn't include you in the process" or something on the citizen side doesn't feel good, but that can be really risky with rigid frameworks. [...] there almost need to be a collective endeavour to like: "hey guys!" maybe that's part of this community that we are talking about, to be responding differently to what we are being asked to do, because it doesn't line up very well. </li>
@@ -145,7 +145,7 @@ order: 4
  </ul>
  </details>
   <details>
- <summary>Missing debates in the design community - emotional impact of bringing SD into a project when the team / org is not ready</summary>
+ <summary><span>Missing debates in the design community - emotional impact of bringing SD into a project when the team / org is not ready</span></summary>
  <ul>
     <li>Service designers were being hired or commissioned, but the readiness of the team they were landing in was not there yet. I wonder how that  might have impacted people emotionally over the past few years</li>
     <li>Not all service design is human-centred, and sometimes that's ok. So I don't see that conversation happening as much as people saying they are participatory and they include people</li>
@@ -154,14 +154,14 @@ order: 4
  </ul>
  </details>
   <details>
- <summary>Group about outcomes not processes</summary>
+ <summary><span>Group about outcomes not processes</span></summary>
  <ul>
     <li>If you lead with the outcomes, it would be an interesting group. and work back from the success  stories. (and the failures too)</li>
     <li>A group that is all about the outcomes, the results of the design, the success stories, if you led with the outcomes instead of the process</li>
  </ul>
  </details>
   <details>
- <summary>Building evidence / telling the story - being open</summary>
+ <summary><span>Building evidence / telling the story - being open</span></summary>
  <ul>
     <li>Users are going to be engaged in that process and we know that it is our researchers that are in there doing that for them, and we are able to go and tell that story across the piece, and say, well actually this is what it looks like. To me, that’s what the platform looks like, its real delivery in really complex and difficult environments in government. It is not just designers hiding somewhere having conversations. Which I think we need, cause we need to have moral support, and we need to be able to facilitate the reuse element and the knowledge exchange</li>
  </ul>

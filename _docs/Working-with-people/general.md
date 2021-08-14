@@ -37,20 +37,20 @@ order: 2
 > Select one of the clusters of insights to see the quotes supporting it. Select it again to hide the quotes.
 
  <details>
- <summary>Users</summary>
+ <summary><span>Users</span></summary>
  <ul>
     <li>Things like usability testing and surveys and card sorting and all that kind of stuff. We also occasionally do co-design events</li>
  </ul>
  </details>
   <details>
- <summary>Design team</summary>
+ <summary><span>Design team</span></summary>
  <ul>
     <li>In the job that I‘m in at the moment, I‘m really, really privileged that I‘m working with a whole user research team. Which is a bit new for me. now that I can concentrate on designing the thing.</li>
     <li> How do I involve the whole team into the design work? I‘ve always made my work very visual very early. I like to sketch as soon as there is a thought in my head so that I can show to other people and say “hey, the thing we‘re discussing, is it this or is it this?” And almost like give them the pen so that they can change the drawing as early on as possible. So wherever I‘m working I tend to cover the walls</li>
  </ul>
  </details>
   <details>
- <summary>Client and stakeholders</summary>
+ <summary><span>Client and stakeholders</span></summary>
  <ul>
     <li>[with some clients] you work as a team, you run the session together, you're designing the sessions together, you're on that journey together all the way through. [...] other times, clients are much more removed, they don't have as much time, or they might be like a project sponsor that you check in with, on a regular basis and then you have to run the sessions or being in the other stakeholders at different times</li>
     <li>The people delivering the services have been so fundamental to how I've been able to do this work, because it has been only me up until now. So they have both been my research participants but also the people educating me as I go along. So that’s been really fundamental</li>
@@ -71,7 +71,7 @@ order: 2
 > Select one of the clusters of insights to see the quotes supporting it. Select it again to hide the quotes.
 
  <details>
- <summary> Involving people is core to SD ...</summary>
+ <summary><span> Involving people is core to SD ...</span></summary>
  <ul>
     <li>You can’t design without research. I really disagree with anybody that calls himself a service designer but does not involve the users. For me, it goes against the core principles of service design</li>
     <li>I would go as far to say I rarely think we have ever designed something without involving people in it. I can’t really. [...]  people are involved because it is also going to affected by that thing that you are designing.</li>
@@ -81,7 +81,7 @@ order: 2
  </ul>
  </details>
   <details>
- <summary>... but we are not yet where we want to be ....</summary>
+ <summary><span>... but we are not yet where we want to be ....</span></summary>
  <ul>
     <li>I have been able to involve  and work with people that would be affected by a design , but it's always been not as far as I would like it to go</li>
     <li>I don’t think we‘re 100% there yet [...], we‘re caught in research and paper, but not necessary having meaningfully embed people</li>
@@ -90,7 +90,7 @@ order: 2
  </ul>
  </details>
   <details>
- <summary>...what we aspire to</summary>
+ <summary><span>...what we aspire to</span></summary>
  <ul>
     <li>We have ambitions to do that in a much more kind of strong and participatory way that we do now. [...] To bring citizens properly into the process of co-design. [...] there’s a lot in there around citizen participation and upscaling.</li>
     <li> if you were to bring someone like me into a project, my starting point would always be: "how close can I get to having the user of this service on my team?" and then they would be given a fair value exchange for their time, we will share credit with them, we will share maintenance with them there after</li>
@@ -107,7 +107,7 @@ order: 2
 > Select one of the clusters of insights to see the quotes supporting it. Select it again to hide the quotes.
 
  <details>
- <summary>Managing the bare minimum</summary>
+ <summary><span>Managing the bare minimum</span></summary>
  <ul>
     <li>We‘re caught in research and paper, [...] But I think it‘s definitely a new thing for the [sector], and we feel very excited about it since they are taking public views and opinions into account and changing the service</li>
     <li>We have this ambition to not just inviting a bunch of citizens into a big, scary building, and siting them down, and taking them through something, and then taking away the stuff, and then what do we do with it? You know, that to me is the minimum. I think that’s where we got to in terms of the level of maturity</li>
@@ -116,7 +116,7 @@ order: 2
  </ul>
  </details>
   <details>
- <summary>When it sounds like user-centred & participatory but isn't</summary>
+ <summary><span>When it sounds like user-centred & participatory but isn't</span></summary>
  <ul>
     <li>People say they are participatory and  include people. They are human-centred. But you start to scratch what they are actually asking me to do that's not the case at all. So there is a lot of opportunities that end up not being available to be very participative with everything - from the definition of project brief, to research and recruitment, all the way to the end - and sometimes it's only revealed after you come at the door. You think "wait a minute, that's not what I thought was going on"</li>
     <li>There are different levels of maturity for that. [...] sometimes [public sector organisations] think they are doing it, but they are not. They are doing pretty much traditional consultation style and calling it research</li>
@@ -124,33 +124,33 @@ order: 2
  </ul>
  </details>
   <details>
- <summary>Having to adapt to organisational maturity</summary>
+ <summary><span>Having to adapt to organisational maturity</span></summary>
  <ul>
     <li>We started [designing with], and then realised that it was so advanced that it was putting people off. So we just had to lower our standards a little bit [...] and leave it for later unfortunately. [...] The best I can do at the moment is to convince people of user-centred design in the same way that they aspire to person-centred [services], and then try and use what other organisations have done, or the insights that are already out there, and build our designs on top of that. And perhaps once that is an established process to an extent, I hope we can move to more designing with</li>
  </ul>
  </details>
    <details>
- <summary>There is always room for improvement</summary>
+ <summary><span>There is always room for improvement</span></summary>
  <ul>
     <li>[In terms of user involvement and reseach] there is always space for improvement</li>
     <li>There is a lot of work to be done there. It will never be finished. And we’ll always agonise over it and look at ourselves and say ‘what could  be done better'</li>
  </ul>
  </details>
   <details>
- <summary>Sometimes it truly happens</summary>
+ <summary><span>Sometimes it truly happens</span></summary>
  <ul>
     <li>I have had opportunities through certain projects to be very participatory</li>
     <li>I think everyone is always convinced it's the right thing to do , if I'm thinking about a couple of projects that have been more participatory, the environment, the culture, the psychological safety and the space to have creative conversation about the approach to really push boundaries, seems to be more available to organisation that may not be larger or government</li>
  </ul>
  </details>
   <details>
- <summary>co-production</summary>
+ <summary><span>co-production</span></summary>
  <ul>
     <li>[In] co-production there’s no expert really, but there might be a facilitator driving those design decisions. I’ve done that in different  areas, where we had to be the drivers but also took the back seat and  more kind of build leadership with the people</li>
  </ul>
  </details>
   <details>
- <summary>Excessive involvement</summary>
+ <summary><span>Excessive involvement</span></summary>
  <ul>
     <li>We started [designing with people], and then realised that it was so advanced that it was putting people off</li>
     <li>[A project] involved everyone in the community to design this website for themselves, and it was so unusable, cause they just through everything at it. They’ve just gone for ‘everyone can post and designing wireframes, and it was really nice, it felt nice, but what the designer should have done was take the inside of what was being inferred and turn it into to an actual working design based on their expertise as a practitioner, cause they know what works</li>
@@ -173,14 +173,14 @@ order: 2
 > Select one of the clusters of insights to see the quotes supporting it. Select it again to hide the quotes.
 
  <details>
- <summary>Sometimes it is not appropriate</summary>
+ <summary><span>Sometimes it is not appropriate</span></summary>
  <ul>
     <li>There is just this extreme unbalance in power. Often, it might just not be appropriate for us to do. I can’t really imagine me and [someone delivering the service]  doing some sensemaking, even though it might be extremely beneficial for the community</li>
     <li>[designing services for people in high risk of suicide], we couldn’t work with them. We had to work with professionals and practitioners to get their stories</li>
  </ul>
  </details>
   <details>
- <summary>Tailoring involvement to projects and stakeholders</summary>
+ <summary><span>Tailoring involvement to projects and stakeholders</span></summary>
  <ul>
     <li>At our work, typically, is probably more about user-researcher codesign to a point, and not co-production, [...] I think that at all times I involve people but it just depends on the context and how much that needs to be there</li>
     <li>we have some stakeholders we chat to on a weekly basis, but then we also have a long list of stakeholders that we try to engage as well, we are bringing them in for specific thing at different points because their time is limited</li>
@@ -196,19 +196,19 @@ order: 2
 > Select one of the clusters of insights to see the quotes supporting it. Select it again to hide the quotes.
 
  <details>
- <summary>Often, it does not depend on designers</summary>
+ <summary><span>Often, it does not depend on designers</span></summary>
  <ul>
     <li>The opportunities that I have to design with people for paid work are really not always up to me</li>
  </ul>
  </details>
   <details>
- <summary>Our ability to sell it</summary>
+ <summary><span>Our ability to sell it</span></summary>
  <ul>
     <li>There are different levels of maturity for that. You’re not gonna solve that overnight. [...] we are quite open about the fact that some areas we really don’t know how to sell it [...] these are really big, complex, challenging problems and everyone has a different perspective on it</li>
  </ul>
  </details>
   <details>
- <summary>Design Maturity, still learning</summary>
+ <summary><span>Design Maturity, still learning</span></summary>
  <ul>
     <li>there’s a lot in there around citizen participation and upscaling. So to us there is a lot more that we should and could be doing to bring citizens properly into the process of co-design. [...] And again, we need to figure out how to do that. What’s practical, what’s safe. What is the right way to go about that. What’s the effective thing to do there</li>
  </ul>
