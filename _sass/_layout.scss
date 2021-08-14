@@ -593,6 +593,10 @@ summary::marker {
 		text-align-last: start !important;
 }
 
+summary::before {
+	color: white
+  } 
+
 /* for details pattern for IE  from GOV.UK */
 
 details {
