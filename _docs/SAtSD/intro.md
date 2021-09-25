@@ -23,8 +23,9 @@ We spoke with practitioners who had different degrees of awareness about the Sco
 
 
 <h2 class="top-line">Summary of findings</h2>
-<br>
-<p><span class="tag-alt">In progress</span></p>
+These insights come from our 15 remote interviews and one online workshop. You can see them:
+- [on the website](/practitioner-stories/SAtSD/summary)
+- <a href="https://practitionerstories.medium.com/have-you-heard-of-the-scottish-approach-to-service-design-b8191095f48c" target="_blank">as a Medium post</a>
 
 
 <h2 class="top-line">View the analysis, clusters and quotes</h2>
@@ -47,14 +48,14 @@ Note that a lot of insights are related to another theme "[Working with people](
 
 <h2 class="top-line">Some information about the Scottish Approach to Service Design (SAtSD)</h2>
 <ul>
-<li><a href="https://www.gov.scot/publications/the-scottish-approach-to-service-design/pages/about-this-resource/" target="_blank">Step by step presentation on gov.scot</a></li>
+<li><a href="https://www.gov.scot/publications/the-scottish-approach-to-service-design/pages/about-this-resource/" target="_blank">Step by step presentation</a> on gov.scot</li>
 <li><a href="https://blogs.gov.scot/digital/2019/07/03/scottish-approach-to-service-design-creating-conditions-for-change" target="_blank">Scottish Approach to Service Design: Creating Conditions for Change</a> (blog post)</li>
 <li><a href="https://resources.mygov.scot/37f87d5/designing-public-services-in-scotland/why-we-need-design-for-public-services-in-scotland/a-scottish-approach-to-design-for-public-services" target="_blank">A Scottish Approach to designing public services</a> (mygov.scot resources)</li>
 <li><a href="/practitioner-stories/images/SAtSD/SAtSD.pdf" target="_blank">How to design services for and with users</a> (PDF)</li>
 </ul>
 
 <blockquote>
-<p> "When we started this, we just called it The Scottish Approach to Service Design, because civil servants in Scottish government had a philosophy called the Scottish Approach to Government and I was trying to explain to them why design connected to how they thought, so I connected the two things and it stuck." - Cat Macaulay</p>
+<p> "When we started this, we just called it The Scottish Approach to Service Design, because civil servants in Scottish government had a philosophy called the Scottish Approach to Government and I was trying to explain to them why design connected to how they thought, so I connected the two things and it stuck." - Cat Macaulay, Chief Design Officer at The Scottish Government</p>
 </blockquote>
 
 <p>The quote above comes from this <a href="https://accessibility.scot/accessible-public-services-are-we-there-yet/" target="_blank">video of Cat Macaulay's talk at the Accessibility Scotland conference</a> in November 2019 - worth a watch!</p>
