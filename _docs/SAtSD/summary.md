@@ -36,6 +36,7 @@ Some of them had:
 
 
 ![using 2 images, with the first illustrating: ‘multiple organisations involved in problem solving’, moving to another one illustrating ‘Organisations working together’ with an arrow showing that you move from one to the other thanks to SAtSD and a text explaining that this is helping organisations to work together to understand problems](/practitioner-stories/images/SAtSD/satsd-medium-post.jpg)
+_Images from mygov.scot resources_
 
 <h2 class="top-line-alt" id="informations-about-satsd">Some information about the SAtSD</h2>
 <ul>
