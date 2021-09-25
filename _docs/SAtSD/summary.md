@@ -6,7 +6,7 @@ order: 5
 
 
 <div class="nav-panel-alt">
-   <h2>Navigate the Skills and learning theme</h2>
+   <h2>Navigate the SAtSD theme</h2>
    <p style="margin-bottom: 0">You can go back to:</p>
    <ul>
       <li><a href="/practitioner-stories/SAtSD/intro"><strong>Introduction</strong></a></li>
@@ -35,7 +35,7 @@ Some of them had:
 - heard about it but had not engaged with it or ‘were struggling to understand what it is’
 
 
-![using 2 images, with the first illustrating: ‘multiple organisations involved in problem solving’, moving to another one illustrating ‘Organisations working together’ with an arrow showing that you move from one to the other thanks to SAtSD and a text explaining that this is helping organisations to work together to understand problems](/practitioner-stories/images/SAtSD/msatsd-medium-post.jpg)
+![using 2 images, with the first illustrating: ‘multiple organisations involved in problem solving’, moving to another one illustrating ‘Organisations working together’ with an arrow showing that you move from one to the other thanks to SAtSD and a text explaining that this is helping organisations to work together to understand problems](/practitioner-stories/images/SAtSD/satsd-medium-post.jpg)
 
 <h2 class="top-line-alt" id="informations-about-satsd">Some information about the SAtSD</h2>
 <ul>
@@ -122,8 +122,6 @@ What most practitioners wished for the SAtSD is ‘to be as inclusive as possibl
 But at the moment, to some, ‘it still feels like a government thing for certain types of government people’.
 
 Practitioners envision a toolkit that ‘makes itself available to all the different areas and departments in the Scottish Government and follows principles almost identical to what the SAtSD is advocating for’, and perhaps ‘eventually, get to that place where service design approach and thinking is built in into everything the government is doing’.
-
-<a class="button-alt" href="#">Back to top</a>
 
 
 <br>
