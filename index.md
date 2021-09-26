@@ -2,9 +2,6 @@
 title: Welcome
 ---
 
-<blockquote class="alt">
-  <p><strong>This website is a work in progress.</strong></p>
-</blockquote>
 
 ![illustration — map of Scotland and in front 5 people with a jigsaw piece](/practitioner-stories/images/practitionerstories-square-small.png)
 
@@ -65,7 +62,7 @@ We are 3 service designers living and working in Scotland passionate about our p
 
 <h2 class="top-line">Sharing our research</h2>
 
-<p>This website (started on the 05/02/21) is a new way to share the research we did as an alternative to the <a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352792688587&cot=14" target="_blank">big Miro board we have</a>. This is very much a work in progress. Let us know how we can make it better for you.</p>
+<p>This website (started on the 05/02/21) is a new way to share the research we did as an alternative to the <a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457352792688587&cot=14" target="_blank">big Miro board we have</a>. Let us know how we can make it better for you.</p>
 
 
 <ul>

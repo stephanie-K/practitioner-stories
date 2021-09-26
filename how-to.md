@@ -2,10 +2,9 @@
 title: How to use this website
 ---
 
-We are working on providing summaries of insights and analysis to make is easier for anyone interesed in this research to read about it but also to use it to explore further (not ready yet - work in progress).
+We are working on providing summaries of insights and analysis to make is easier for anyone interesed in this research to read about it but also to use it to explore further. Most themes have been analysed now but there are still a few parts missing. We aim to finish by the end of 2021. Watch this place!
 
 Initially, we used Medium Posts and Miro to share our research. **This website is an attempt to show it differently**.
-The functionalities are limited for now.
 
 
 <h2 class="top-line">5 Themes</h2>
@@ -33,7 +32,7 @@ In the navigation menu you can select a theme. You then land on the introduction
 
 Within each theme, there are sub-themes and for each of them, you will find a list of clusters of insights. 
 
-<p style="margin-bottom: 0">If you want to learn more about a specific one then select it if it has a triangle next to it: </p>
+<p style="margin-bottom: 0">If you want to learn more about a specific one then select it: </p>
 - all the quotes from participants which support this cluster of insights will appear under it
 - select again to close it
 
