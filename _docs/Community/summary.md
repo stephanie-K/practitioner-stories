@@ -18,8 +18,8 @@ order: 5
 
 <h2 class="top-line-alt">Quick access</h2>
 
-- [Contextualising insights](#context)
-- [Sharing](#sharing)
+- **[Contextualising insights](#context)**
+- **[Sharing](#sharing)**
    - [Networking — keeping in touch](#networking)
    - [A lot of events, but not inclusive enough](#events)
    - [How and what do practitioners share](#how-and-what)
@@ -27,14 +27,14 @@ order: 5
    - [A Lack of space for honesty](#honesty)
    - [Being open, sharing resources and research](#open-share-resources)
    - [Community as a place to share](#community-to-share)
-- [Being part of a community](#community)
+- **[Being part of a community](#community)**
    - [Feeling like an outsider](#outsider)
    - [What do we want this community to be?](#what-do-we-want-this-community-to-be)
    - [Who should be part of this community?](#who)
    - [How big do we go? The whole of Scotland? Wider?](#how-big)
    - [Building strong communities of practice](#building)
    - [Centralising community efforts in Scotland: Ownership](#ownership)
-- [Ethical responsibility and missing debates in service design](#ethics-missing-debates)
+- **[Ethical responsibility and missing debates in service design](#ethics-missing-debates)**
    - [Who gets to design?](#who-gets-to-design)
    - [Diversity in the discipline](#diversity)
    - [Accessibility, communities, and emotional impact](#accessibility-communities-emiotional-impact)
