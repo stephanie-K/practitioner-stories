@@ -19,7 +19,7 @@ Participants might have also mentioned it while answering other questions.
 
 <h2 class="top-line">Summary of findings</h2>
 <br>
-<p><span class="tag-alt">In progress</span></p>
+<p><span class="tag-alt">In progress - coming soon</span></p>
 
 
 <h2 class="top-line">View the analysis, clusters and quotes</h2>
