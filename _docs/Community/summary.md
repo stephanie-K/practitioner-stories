@@ -34,6 +34,14 @@ order: 5
    - [How big do we go? The whole of Scotland? Wider?](#how-big)
    - [Building strong communities of practice](#building)
    - [Centralising community efforts in Scotland: Ownership](#ownership)
+- [Ethical responsibility and missing debates in service design](#ethics-missing-debates)
+   - [Who gets to design?](#who-gets-to-design)
+   - [Diversity in the discipline](#diversity)
+   - [Accessibility, communities, and emotional impact](#accessibility-communities-emiotional-impact)
+   - [Practitioners also found problematic how we engage with communities](#how-we-engage)
+   - [Missing debates about the emotional impact of engaging in service design](#missing-debates)
+   - [Power, bias, and the need for reflection](#power-bias-reflection)
+   - [Shared principles for inclusive design](#inclusive-design)
 
 
 <h2 class="top-line-alt" id="context">Contextualising insights</h2>
@@ -309,10 +317,88 @@ An interviewee felt that “you need a government body maintaining uploads”, a
 
 Another participant thought the opposite, that “it would have to be of an organic community initiative” and should not come from a “particular sector or from government” as it “would immediately be boxed into that corner, where it‘s coming from. And that‘s the thing we need to avoid.”
 
+<a class="button-alt" href="#">Back to top</a>
+
 <blockquote class="alt">
 We heard similar views regarding the Scottish Approach to Service Design (SAtSD) coming from the government as potentially being an issue. As well as felt that the SAtSD could fill that gap: “There is certainly disciplinary and cross-disciplinary stuff that could be going on if the SAtSD was an actual community of people.”
 </blockquote>
 
+<a class="button-alt" href="#">Back to top</a>
+
+<h2 class="top-line-alt" id="ethics-missing-debates">Ethical responsibility and missing debates in service design</h2>
+
+![illustration with 3 people, one do not want to see, the other doesn’t want to hear and the last one doesn’t want to speak](/practitioner-stories/images/Community/ethics.jpeg)
+
+When we asked practitioners about gaps in service design practice, interviewees highlighted a myriad of issues; such as gaps in skills, lack of guidance and support, and gaps in design communication among others. In this article we focus on the ethics of doing design. Paraphrasing a participant, the complexities around bias, inequity, and social justice are important in any service design space but, especially, in the public and third sectors.
+
+Even though service design prides itself in involving stakeholders and communities, nearly half of our interviewees felt that it still lacks inclusivity, diversity, and accessibility. They pointed out that debates around ethical responsibility, privilege, and power are largely missing in Service Design communities.
+
+<h3 id="who-gets-to-design" class="top-line-alt">Who gets to design?</h3> 
+
+Participants questioned who should be designing services and who gets to become a designer.
+
+A practitioner noted that diversity of backgrounds and lived experiences within the team are important because our differences bring something ‘magical’ to the way we approach problems. But the reality is that the lack of diversity in service design teams has left our individual and collective biases and privileges unchecked, which become manifest in the lack of inclusivity and accessibility of design processes and outputs.
+
+Interviewees propose three strategies:
+1. opening up the discipline to more diverse people
+2. greater representation from users and communities within the design team
+3. greater self-reflection and criticality on behalf of designers
+
+<a class="button-alt" href="#">Back to top</a>
+
+<h3 id="diversity" class="top-line-alt">Diversity in the discipline</h3>
+
+The lack of diversity in design teams was attributed to being ‘mostly privileged white people’ pursuing careers in service design, and the educational-hiring system being ‘a very privileged, very white pipeline of designers’. ‘Diversity in our teams will not improve until we stop expecting people to go through the same pipeline and come out as diverse as we need’.
+
+<a class="button-alt" href="#">Back to top</a>
+
+<h3 id="accessibility-communities-emiotional-impact" class="top-line-alt">Accessibility, communities, and emotional impact</h3> 
+
+Since our teams lack diversity, at the very least we should all ‘be doing more thinking around diverse needs’. We need ‘to understand the lived experiences of people with disabilities and health conditions and ensure that their needs are considered in your design process, even if you can’t get them into the room’. But many practitioners would like to see greater representation from users and communities within the design team, and are starting to question how to make the space more accessible.
+
+<a class="button-alt" href="#">Back to top</a>
+
+<h3 id="how-we-engage" class="top-line-alt">Practitioners also found problematic how we engage with communities</h3> 
+
+We must ‘be critical about our own practice’ to become ‘inclusive in everything we do’, and build ‘stronger links to communities’.
+
+#### Questioning the ethics of ‘being parachuted into projects to make something very quickly’
+
+They struggle to create the time and space for engaging in discovery and establishing rapport with communities.
+
+#### Missing discussions around the ethics of community engagement before starting a project
+
+“Where you are going, who you are going to be with, how you are inviting people to participate, and whether they are given a fair value exchange for their time”.
+
+#### Beginning to question and challenge the power structures embedded in designing services in the public and third sectors
+
+An interviewee explained that, even though Scotland has the Community Empowerment Act, ownership of the outputs still resides with organisations. They felt that the ‘community should be the client’, otherwise ‘power corrupts the thing’. They want communities to gain more ownership and capacity to be able to take things further, and call out ‘a kind of design saviourism and a real lack of critical discussion and dialog among designers about things like power privilege’
+
+
+<a class="button-alt" href="#">Back to top</a>
+
+<h3 id="missing-debates" class="top-line-alt">Missing debates about the emotional impact of engaging in service design</h3> 
+
+Some practitioners felt we don’t talk enough about the emotional effort involved in bringing service design into a project, [the toll it has] on researchers, designers’, and how it impacts other communities that engage in the process. They were particularly concerned with bringing design approaches into public and third sector teams and organisations that lack readiness, and the impact this may be having on the people for whom design is a new way of working.
+
+<a class="button-alt" href="#">Back to top</a>
+
+<h3 id="power-bias-reflection" class="top-line-alt">Power, bias, and the need for reflection</h3> 
+
+Some also call for greater self-reflection and criticality on behalf of designers to recognise our biases and how we create inequities by reinforcing power structures with our decisions and excluding people from our processes.
+
+> “We talk about designing for good, and there is [a] real optimistic positive energy around changing the world. That is really positive, but it needs to be grounded in reality. There’s a huge up-skilling need across the [service design] community to really think critically about the processes.”
+We need to understand how ‘the moral frameworks that we bring as individuals, teams, and organisations’ impact both our processes and outputs.
+
+An interview pointed out that there is ‘a lot of talk about Design Thinking being the master’s tool, [but] it’s been really created by certain people for certain people’. As such, we must reflect about the processes, tools, and ideas that we use in our practice. We must understand where they come from, who created them, and who is being excluded. And we must find ways to make them more accessible and inclusive.
+
+> “What is it that we are hard coding by replicating some kind of practice for example? What are the inequities that we are creating and reinforcing in the things that we are designing because we haven’t thought about the origins of it or we haven’t thought about our own team bias?”
+
+<a class="button-alt" href="#">Back to top</a>
+
+<h3 id="inclusive-design" class="top-line-alt">Shared principles for inclusive design</h3> 
+
+Our biases, assumptions, and use of language create barriers for inclusivity. But there is a lack of clarity or awareness of the principles and processes to work in an inclusive way. Practitioners call for a shared set of principles for inclusive design, and several pointed to the <a href="https://designjustice.org/" target="_blank">Design Justice Network</a>: ‘a global network looking at social justice within design, and how designers can be aware of [how] the decisions that they are making reinforce power structures or inequity’.
 
 
 <br>

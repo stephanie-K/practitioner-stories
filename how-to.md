@@ -32,7 +32,7 @@ In the navigation menu you can select a theme. You then land on the introduction
 
 Within each theme, there are sub-themes and for each of them, you will find a list of clusters of insights. 
 
-<p style="margin-bottom: 0">If you want to learn more about a specific one then select it: </p>
+<p style="margin-bottom: 0">If you want to learn more about a specific one, select it: </p>
 - all the quotes from participants which support this cluster of insights will appear under it
 - select again to close it
 

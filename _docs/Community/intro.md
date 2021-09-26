@@ -22,8 +22,9 @@ Participants might have also mentioned it while answering other questions.
 <h2 class="top-line">Summary of findings</h2>
 These insights come from our 15 remote interviews. You can see them:
 - [on the website](/practitioner-stories/Community/summary)
-- <a href="https://practitionerstories.medium.com/sharing-2b4692248702" target="_blank">as a Medium post for the first part: Sharing</a>
-- the second part is still in progress
+- <a href="https://practitionerstories.medium.com/sharing-2b4692248702" target="_blank">as a Medium post for: Sharing</a>
+- <a href="https://practitionerstories.medium.com/being-part-of-a-community-4ae6a863ec71" target="_blank">as a Medium post for: Being part of a community</a>
+- <a href="https://practitionerstories.medium.com/ethical-responsibility-and-missing-debates-in-service-design-7ffb59761451" target="_blank">as a Medium post for: Ethical responsibility and missing debates in service design</a>
 
 
 <h2 class="top-line">View the analysis, clusters and quotes</h2>
