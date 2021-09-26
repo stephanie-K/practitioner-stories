@@ -24,7 +24,7 @@ These insights come from our 15 remote interviews and one online workshop. You c
 <li>[on the website](/practitioner-stories/SD-work-contributions/summary)</li>
 <li><a href="https://practitionerstories.medium.com/service-design-practice-in-the-scottish-public-and-third-sectors-5b2090352ab" target="_blank">as a Medium post for the SD work</a></li>
 <li><a href="https://practitionerstories.medium.com/service-design-contributions-in-public-and-third-sectors-in-scotland-7633ca48348e" target="_blank">as a Medium post for the contributions</a></li>
-<li>Design awareness and communitcation <span class="tag-alt">In progress - coming soon</span></li>
+<li>Design awareness and communication <span class="tag-alt">In progress - coming soon</span></li>
 <li>The future of service design <span class="tag-alt">In progress - coming soon</span></li>
 <li>Organisational barriers <span class="tag-alt">In progress - coming soon</span></li>
 </ul>
