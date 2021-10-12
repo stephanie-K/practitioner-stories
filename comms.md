@@ -20,6 +20,7 @@ You will find our Medium stories here where we write about the project and the e
     <li><a href="https://practitionerstories.medium.com/being-part-of-a-community-4ae6a863ec71" target="_blank">Being part of a community</a> - 22 June 2021 Collective</li>
     <li><a href="https://practitionerstories.medium.com/ethical-responsibility-and-missing-debates-in-service-design-7ffb59761451" target="_blank">Ethical responsibility and missing debates in service design</a> - 31 August 2021 Collective</li>
     <li><a href="https://practitionerstories.medium.com/have-you-heard-of-the-scottish-approach-to-service-design-b8191095f48c" target="_blank">Have you heard of the Scottish Approach to Service Design?</a> - 25 September 2021 Collective</li>
+    <li><a href="https://practitionerstories.medium.com/the-future-of-service-design-ce59a01e4538" target="_blank">The Future of Service Design</a> - 11 October 2021 Collective</li>
 
     
 </ul>
