@@ -8,6 +8,7 @@ order: 2
    <h2>Navigate the SAtSD theme</h2>
    <p style="margin-bottom: 0">You can go back to:</p>
    <ul>
+      <li><a href="/practitioner-stories/SAtSD/summary"><strong>Summary</strong></a></li>
       <li><a href="/practitioner-stories/SAtSD/intro"><strong>Introduction</strong></a></li>
       <li><a href="/practitioner-stories/SAtSD/benefits"><strong>Benefits</strong></a></li>
       <li><a href="/practitioner-stories/SAtSD/challenges"><strong>Challenges</strong></a></li>

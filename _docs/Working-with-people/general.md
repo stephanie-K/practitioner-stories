@@ -8,6 +8,7 @@ order: 2
    <h2>Navigate the Working with people theme</h2>
    <p style="margin-bottom: 0">You can go back to:</p>
    <ul>
+      <li><a href="/practitioner-stories/Working-with-people/summary"><strong>Summary</strong></a></li>
       <li><a href="/practitioner-stories/Working-with-people/intro"><strong>Introduction</strong></a></li>
       <li><a href="/practitioner-stories/Working-with-people/challenges"><strong>Challenges</strong></a></li>
       <li><a href="/practitioner-stories/Working-with-people/future"><strong>Future</strong></a></li>
