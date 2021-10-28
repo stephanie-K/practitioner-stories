@@ -31,6 +31,7 @@ order: 5
 They told us about who they work with, the diversity of their experience and their aspirations. They also described the challenges and some strategies when trying to design with people.
 
 ![ladder with different levels of participating from the users, from bottom to top: coercing, educating, informing, consulting, engaging, co-designing and finally co-producing](/practitioner-stories/images/working-with/participation-ladder.png)
+
 _Participation ladder. Source: [Iriss.org.uk](https://www.iriss.org.uk/resources/insights/participation-its-impact-services-and-people-who-use-them)_
 
 **The Scottish Approach to Service Design (SAtSD)** provides a framework on how we design user-centred public services putting a particular focus on working with people and involving them in the design and delivery of the service. The practitioners we talked to were all aiming to do it with various levels of success.
@@ -64,6 +65,8 @@ Although users and stakeholders’ involvement is seen as critical to the design
 
 ![illustration with 4 jigsaw pieces which don’t quite fit together](/practitioner-stories/images/working-with/workingwith-puzzle.jpg)
 
+<a class="button-alt" href="#">Back to top</a>
+
 <h2 class="top-line-alt" id="diverse-experiences-of-engagement">Diverse experiences of engagement</h2>
 
 Some felt they could only manage minimum engagement. While others felt like the practice might look like it’s user-centered and participatory but often isn’t really:
@@ -79,6 +82,8 @@ It’s also about finding the right balance between facilitation and leadership 
 > “[A project] involved everyone in the community to design this website for themselves, and it was so unusable, cause they just threw everything at it. They’ve just gone for ‘everyone can post and designing wireframes’, and it was really nice, it felt nice, but what the designer should have done was take the insights of what was being inferred and turn it into to an actual working design based on their expertise as a practitioner, because they know what works.”
 
 ![illustration with a speech bubble on one side which becomes sticky notes on the other side](/practitioner-stories/images/working-with/workingwith-postit.jpg)
+
+<a class="button-alt" href="#">Back to top</a>
 
 <h2 class="top-line-alt" id="getting-the-organisation-on-board">Getting the organisation on board</h2>
 
@@ -105,6 +110,8 @@ One practitioner shared this experience in their organisation:
 
 ![illustration of a group f people talking to each others](/practitioner-stories/images/working-with/workingwith-language.jpg)
 
+<a class="button-alt" href="#">Back to top</a>
+
 <h2 class="top-line-alt" id="recruiting-and-involving-users">Recruiting and involving users</h2>
 
 <h3>Challenges</h3>
@@ -119,7 +126,7 @@ Some felt that we have gaps with some people we never reach. Making sure we **en
 
 ![illustration of people with a magnifier above the group looking at one person in the group](/practitioner-stories/images/working-with/workingwith-focus.jpg)
 
-Some strategies and their limitations
+<h3>Some strategies and their limitations</h3>
 
 **Having a regular user group** was mentioned as a strategy to get a fresh set of eyes to see different things but when users become part of the team they can become biased:
 
@@ -137,6 +144,7 @@ Some practitioners explained that while designing with people they started to tr
 
 > “We run this programme to teach young people how to research and publish their own newspaper […]. Instead of doing extractive research, you were empowering them to go and do their own research, and turn it into a newspaper. So […] we taught them how to do stakeholder mapping, interviewing their friends, and so all round it was a really kind of collaborative value model, because young people got skills and employability skills, and something to show. […] That is a less extractive model that involves people. It’s much more about co-development.”
 
+<a class="button-alt" href="#">Back to top</a>
 
 <h2 class="top-line-alt" id="to-learn-more-about-codesign">To learn more about Co-design</h2>
 
