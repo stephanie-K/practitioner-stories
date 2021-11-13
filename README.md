@@ -13,7 +13,7 @@ We are 3 service designers living and working in Scotland passionate about our p
 
 ## Sharing our research
 
-This website is a new way to share our research. **Under contruction**
+This website is a way to share our research.
 
 This is using Github pages, Jekyll and CloudCannon. By using some markdown language, you can create content which is deployed in the next 2 to 5 min to a website. No hosting needed and it's free.
 

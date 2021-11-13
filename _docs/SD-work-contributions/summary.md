@@ -261,6 +261,8 @@ Practitioners told us how difficult it is for people to actually find the time t
 
 Some practitioners think that public and third sectors don‘t invest enough which leads to a lack of resources. Service design requires organisational change, which requires money and resources. Not every organisation is yet willing or able to make this investment.
 
+<a class="button-alt" href="#">Back to top</a>
+
 <h3 class="top-line-alt" id="barrier2">Barrier #2 current ways of working</h3>
 
 ![illustration with 4 separate pyramides with people standing at different levels on it and some potentials paths between them](/practitioner-stories/images/skills-learning/barrier2.jpg)
@@ -280,6 +282,7 @@ The current mindset in the public and third sector is described as being ‘solu
 
 Some participants also noted how policy is the first step in designing services, and the challenges of designing around the goals set by policy and how these continuously change. The people we talked to noted that designers are often not in positions of power where they can actually influence things, and feel they lack the support they need from leadership positions.
 
+<a class="button-alt" href="#">Back to top</a>
 
 <h3 class="top-line-alt" id="barrier3">Barrier #3 lack of coordination and collaboration</h3>
 
@@ -294,6 +297,7 @@ Coordination is described as a challenge in particular when it comes to aligning
 
 The siloed nature of the public and third sector mentioned by many of our participants also hinders the impact service design can make. People told us how often different departments within one organisation do the same thing but don‘t talk to each other. Many practitioners feel isolated within their organisations as a result of a lack of collaboration. Some practitioners talked about “a big conflict between the public and third sector” balancing different responsibilities and interests which leads to “two big sectors not supporting each other”.
 
+<a class="button-alt" href="#">Back to top</a>
 
 <h3 class="top-line-alt" id="overcome-the-barriers">How to overcome these barriers?</h3>
 
