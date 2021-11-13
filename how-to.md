@@ -2,7 +2,7 @@
 title: How to use this website
 ---
 
-We are working on providing summaries of insights and analysis to make is easier for anyone interesed in this research to read about it but also to use it to explore further. Most themes have been analysed now but there are still a few parts missing. We aim to finish by the end of 2021. Watch this place!
+We are providing summaries of insights and analysis to make is easier for anyone interesed in this research to read about it but also to use it to explore further. We aim to finish by the end of 2021. Watch this place!
 
 Initially, we used Medium Posts and Miro to share our research. **This website is an attempt to show it differently**.
 
@@ -38,7 +38,7 @@ Within each theme, there are sub-themes and for each of them, you will find a li
 
 ![little video as a gif showing what happen when you select the triangle to see the quotes then select again to hide them](/practitioner-stories/images/how-to-see-quotes.gif)
 
-> We do realise it's still very complex, but **this is a first step** to make all our data more accessible and the analysis is not finished yet.
+> It's an attempt to make all our data more accessible but we do realise it's still very complex.
 >
 > We are open to suggestions and welcome feedback.
 

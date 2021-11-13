@@ -24,7 +24,6 @@ Anyone who is passionate about the service design practice in the public and thi
 
 <p style="margin-bottom: 0">There are different ways how you can get involved and support the project:</p>
 <ul>
-    <li><a href="https://miro.com/app/board/o9J_ldOzA14=/?moveToWidget=3074457354466156107&cot=10" target="_blank">visit the Miro board</a> or explore the website and help us analysing the data</li>
     <li>read through the data and provide feedback</li>
     <li>run your own session with people to discuss insights</li>
     <li><a href="https://twitter.com/PractitionerSt1" target="_blank">follow us on Twitter</a> and <a href="https://practitionerstories.medium.com" target="_blank">Medium</a></li>
