@@ -30,6 +30,11 @@ order: 5
    - [Bringing a service design perspective](#sd-perspective)
    - [Enabling Collaborations](#collaboration)
    - [Creative Engagement](#creative-engagement)
+- [Organisational barriers](#organisational-barriers)
+   - [Barrier #1 time and resources](#barrier1)
+   - [Barrier #2 current ways of working](#barrier2)
+   - [Barrier #3 lack of coordination and collaboration](#barrier3)
+   - [How to overcome these barriers?](#overcome-the-barriers)
 - [The Future of service design](#future-of-service-design)
    - [A service designer in every organisation](#a-sd-in-every-organisation)
    - [Sitting in between systems and sectors](#sitting-in-between-system-and-sectors)
@@ -231,11 +236,84 @@ Some participants see design ‘as a means to fundamentally shift democracy’. 
 
 <a class="button-alt" href="#">Back to top</a>
 
+<h2 class="top-line-alt" id="organisational-barriers">Organisational barriers</h2>
+
+<em>All illustrations for this part were made by <a href="https://www.linkedin.com/in/vinishree-verma-2a31056/" target="_blank">Vinishree Verma</a><em>
+
+![collage of all the illustrations used in this article described below one by one](/practitioner-stories/images/skills-learning/medium-illustration-barriers.jpg)
+
+In the previous part, we talked about how service design can help to build empathy in an organisation, to enable collaboration and how it makes a difference in the ways of engaging with people. So, what stops organisations from implementing service design practices?
+
+<h3 id="barrier1">Barrier #1 time and resources</h3>
+
+![illustration with a big question mark in the middle and 3 people saying Time, Resources and costs](/practitioner-stories/images/skills-learning/barrier1.jpg)
+
+The practitioners described (service) design as expensive because of the time, resources, and costs associated with:
+- bringing designers in as contractors
+- implementing the appropriate (system) changes
+- up-skilling to be able to deploy service design in an organisation
+
+> “The time and cost of learning a new skill, people might need [to] up-skill to deploy service design. […] When you ask people to do things like discovery and testing, if they have never done things like that before, I think the resource against that feels too overwhelming.”
+
+Practitioners told us how difficult it is for people to actually find the time to upskill, embrace new practices or changes as you need to do in addition to your day-to-day job.
+
+> “Time is a huge thing in that people might want to be involved but don’t have the time and you just have to work with what you can.”
+
+Some practitioners think that public and third sectors don‘t invest enough which leads to a lack of resources. Service design requires organisational change, which requires money and resources. Not every organisation is yet willing or able to make this investment.
+
+<h3 class="top-line-alt" id="barrier2">Barrier #2 current ways of working</h3>
+
+![illustration with 4 separate pyramides with people standing at different levels on it and some potentials paths between them](/practitioner-stories/images/skills-learning/barrier2.jpg)
+
+The way organisations currently work, their hierarchical structures, how decisions are made, their approaches and mindsets are a key barrier for most service design practitioners. They talked about the complexities of working in these environments due to their size and hierarchical organisation, where only incremental innovation is achieved.
+> “Sometimes in Scotland it just feels like those conversations are just conversations for years.”
+
+The current mindset in the public and third sector is described as being ‘solution-driven, slow and reactive’. Practitioners listed the following things in the current ways of working that are at odds with the service design practice:
+- talking instead of doing
+- taking too long to act on insights
+- resignation and accepting things as they are instead of trying to change them
+- not admitting mistakes
+- not trusting citizens and communities and holding a more paternalistic view of public services
+- wanting to build things before having a shared vision, and thinking that they don’t need to talk to people
+
+> “There’s all these sorts of reputational risks, because quite often the things that people have been asked to do are solution-orientated, not problem-solving.”
+
+Some participants also noted how policy is the first step in designing services, and the challenges of designing around the goals set by policy and how these continuously change. The people we talked to noted that designers are often not in positions of power where they can actually influence things, and feel they lack the support they need from leadership positions.
+
+
+<h3 class="top-line-alt" id="barrier3">Barrier #3 lack of coordination and collaboration</h3>
+
+![illustration with two teams of people holding a wire and not quite plugging both wires together](/practitioner-stories/images/skills-learning/barrier3.jpg)
+
+Practitioners miss design leadership in the public and third sector. They experience a lack of coordination and collaboration which hinders their work.
+
+> “Because there is no one there, like above us, able to steer the decision making. It just becomes a little bit like a bonfire. The coordination is what is lacking in a lot of these projects.”
+Coordination is described as a challenge in particular when it comes to aligning different opinions, interests and approaches.
+
+> “Sometimes I think we have too many people in the way. It‘s like too many cooks, too many different opinions and no alignment in them.”
+
+The siloed nature of the public and third sector mentioned by many of our participants also hinders the impact service design can make. People told us how often different departments within one organisation do the same thing but don‘t talk to each other. Many practitioners feel isolated within their organisations as a result of a lack of collaboration. Some practitioners talked about “a big conflict between the public and third sector” balancing different responsibilities and interests which leads to “two big sectors not supporting each other”.
+
+
+<h3 class="top-line-alt" id="overcome-the-barriers">How to overcome these barriers?</h3>
+
+![illustration with 4 squares as barriers and one person trying to go over one](/practitioner-stories/images/skills-learning/overcome-barriers.jpg)
+
+Time, resources, current ways of working and a lack of coordination and collaboration are the key barriers experienced by service design practitioners in Scotland. So, as some practitioners questioned, is service design too utopian?
+
+Practitioners shared the following tips with us on how to overcome these barriers:
+- getting management as your ally
+- being proactive, not just waiting to be asked to do work
+- doing workshops with different departments to spread knowledge
+
+
+<a class="button-alt" href="#">Back to top</a>
+
 <h2 class="top-line-alt" id="future-of-service-design">The Future of service design</h2>
 
 We asked service design practitioners about what they envision to be the future of service design. This is what they‘ve told us.
 
-<em>All illustrations on this part were made by <a href="https://www.linkedin.com/in/vinishree-verma-2a31056/" target="_blank">Vinishree Verma</a><em>
+<em>All illustrations for this part were made by <a href="https://www.linkedin.com/in/vinishree-verma-2a31056/" target="_blank">Vinishree Verma</a><em>
 
 ![illustrations from the article to express concept like collaboration, co-design, having a seat at the table, the covid effect and the journey to the future](/practitioner-stories/images/future/medium-illustration.jpeg)
 
