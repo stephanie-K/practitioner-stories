@@ -26,6 +26,8 @@ order: 5
 
 “Do you manage to design not only for but with people? If yes, tell us about it and any new things you have learnt from doing so. If not, is it something you would like to do and what is preventing you from doing it”. Between June and August 2020, we interviewed 15 practitioners and asked them this question. Are you designing with people?
 
+<em>All illustrations on this page were made by <a href="https://www.linkedin.com/in/vinishree-verma-2a31056/" target="_blank">Vinishree Verma</a><em>
+
 ![mix of all the illustrations used in this summary. Each is described further.](/practitioner-stories/images/working-with/medium-illustration-working-with.jpg)
 
 They told us about who they work with, the diversity of their experience and their aspirations. They also described the challenges and some strategies when trying to design with people.

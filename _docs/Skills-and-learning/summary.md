@@ -51,6 +51,8 @@ When we refer to **‘practitioners’**, we refer to people who engage in servi
 
 <h2 class="top-line-alt" id="motivations">Motivations for being a designer</h2>
 
+_All illustrations on this page were made by Angela_
+
 ![illustration of the concept of motivation - person with balloons](/practitioner-stories/images/skills-learning/motivation.png)
 
 > A lot of the motivations we heard were not specific to service design (SD), but more about design in a wider sense.
@@ -198,7 +200,7 @@ Some of these needs are **illustrations of the lack of adequate training availab
 
 <h2 class="top-line-alt" id="sharing">Sharing</h2>
 
-A big part of the way practitioners learn is by sharing. This will be developped as part of the Community theme later.
+A big part of the way practitioners learn is by sharing. This is developped as part of the [Community theme](/practitioner-stories/Community/summary/#sharing).
 
 
 <br>

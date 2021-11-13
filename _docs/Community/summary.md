@@ -179,6 +179,8 @@ We want to keep these summaries short, so we extracted the sharing theme from th
 
 <h2 class="top-line-alt" id="community">Being part of a community</h2>
 
+_Illustrations of this part were made by Angela and Stéphanie_
+
 ![illustration of all the concepts in this section](/practitioner-stories/images/Community/community-main.jpg)
 
 We asked practitioners **how they build collaborations with other people practicing in their area, and where they thought the Service Design community in Scotland should concentrate its efforts**. Interviewees told us about the communities they participate in, and the communities they would like to have.
@@ -326,6 +328,8 @@ We heard similar views regarding the Scottish Approach to Service Design (SAtSD)
 <a class="button-alt" href="#">Back to top</a>
 
 <h2 class="top-line-alt" id="ethics-missing-debates">Ethical responsibility and missing debates in service design</h2>
+
+_Illustrations of this part were made by Angela_
 
 ![illustration with 3 people, one do not want to see, the other doesn’t want to hear and the last one doesn’t want to speak](/practitioner-stories/images/Community/ethics.jpeg)
 

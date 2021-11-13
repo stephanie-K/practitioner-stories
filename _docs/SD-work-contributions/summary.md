@@ -57,6 +57,8 @@ When we refer to **‘practitioners’**, we refer to people who engage in servi
 
 <h2 class="top-line-alt" id="sd-work">Service Design work</h2>
 
+_All illustrations for this part were made by Angela_
+
 <h3 id="what-do-they-do">What do practitioners do in public and third sector organisations in Scotland?</h3>
 
 Although we did not ask interviewees directly what they did in their roles ([see interview guide](/practitioner-stories/#context-your-story)), a few activities stood out.
@@ -169,6 +171,8 @@ A special thank you to <a href="https://www.linkedin.com/in/vinishree-verma-2a31
 - enabling collaborations
 - engaging people creatively
 
+_All illustrations for this part were made by Angela_
+
 <a class="button-alt" href="#">Back to top</a>
 
 <h3 class="top-line-alt"  id="sd-perspective">Bringing a service design perspective</h3>
@@ -230,6 +234,8 @@ Some participants see design ‘as a means to fundamentally shift democracy’. 
 <h2 class="top-line-alt" id="future-of-service-design">The Future of service design</h2>
 
 We asked service design practitioners about what they envision to be the future of service design. This is what they‘ve told us.
+
+<em>All illustrations on this part were made by <a href="https://www.linkedin.com/in/vinishree-verma-2a31056/" target="_blank">Vinishree Verma</a><em>
 
 ![illustrations from the article to express concept like collaboration, co-design, having a seat at the table, the covid effect and the journey to the future](/practitioner-stories/images/future/medium-illustration.jpeg)
 
