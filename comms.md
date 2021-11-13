@@ -22,6 +22,8 @@ You will find our Medium stories here where we write about the project and the e
     <li><a href="https://practitionerstories.medium.com/have-you-heard-of-the-scottish-approach-to-service-design-b8191095f48c" target="_blank">Have you heard of the Scottish Approach to Service Design?</a> - 25 September 2021 Collective</li>
     <li><a href="https://practitionerstories.medium.com/the-future-of-service-design-ce59a01e4538" target="_blank">The Future of Service Design</a> - 11 October 2021 Collective</li>
     <li><a href="https://practitionerstories.medium.com/working-with-people-3c6be862767" target="_blank">Working with people</a> - 28 October 2021 Collective</li>
+      <li><a href="https://practitionerstories.medium.com/organisational-barriers-3d49573ebfc7" target="_blank">Organisational barriers</a> - 12 November 2021 Collective</li>
+
 
     
 </ul>
