@@ -19,10 +19,11 @@ title: Welcome
 
 
 <h2 class="top-line">Who we are</h2>
-We are 3 service designers living and working in Scotland passionate about our practice and with the aim of bringing the service design community together by sharing experiences and learnings and discussing the future. [Learn more about us](/practitioner-stories/who-we-are)
+We are 4 service designers living and working in Scotland passionate about our practice and with the aim of bringing the service design community together by sharing experiences and learnings and discussing the future. [Learn more about us](/practitioner-stories/who-we-are)
 - Angela F. Orviz
 - Serena Nüsing
 - Stéphanie Krus
+- Vinishree Verma
 
 > Note: we are doing this on our personal time and have no funding.
 
