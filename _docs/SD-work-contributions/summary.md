@@ -44,6 +44,11 @@ order: 5
    - [Future of service design in Scotland](#future-of-serivce-design-in-scotland)
    - [Expectations from the future Service Design community](#expectations-from-the-future)
    - [An optimistic take on Covid-19](#optimistic-take-oncovid19)
+- [Awareness and communication of service design](#awareness-and-communication)
+   - [Oversimplification of service design](#oversimplification)
+   - [Wrong expectations of design and designers](#wrong-expectations)
+   - [How we talk about service design](#how-we-talk-about-service-design)
+   - [How can we change the perception of design?](#how-can-we-change-the-perception-of-design)
 
 <h2 class="top-line-alt" id="context">Contextualising insights</h2>
 
@@ -412,6 +417,82 @@ Some felt that the Covid-19 crisis has demonstrated different ways of addressing
 > “At the moment, we’re all thinking about how to do things in different ways because we have to. Well, let’s not forget that, let’s capture it to keep reminding us. Because again, it’s that thing about power. Because those in power want us to forget those things, right? So we have to make sure that we don’t.”
 
 There was also a call for caution, to not allow the covid crisis to eclipse the climate crisis and focus on creating sustainable economies beyond borders and boundaries.
+
+<a class="button-alt" href="#">Back to top</a>
+
+<h2 class="top-line-alt" id="awareness-and-communication">Awareness and communication of service design</h2>
+
+<em>All illustrations for this part were made by Angela<em>
+
+![collage of the 2 illustration in this post — one as a speedometer for design awareness and another one with two people speaking about design with speech bubbles with the double diamond and the squiggle](/practitioner-stories/images/SDwork/medium-illustration-communications.jpg)
+
+Practitioners talked with us about a lack of awareness, gaps on how to implement it and the risk of oversimplifying the practice. Communicating service design, its approach and value to manage the expectations that come with it, turned out to be both a necessity to grow maturity as well as a blocker to implement service design.
+
+![illustration of measuring awareness with a speedometer](/practitioner-stories/images/SDwork/descom_illustrations-level.jpg)
+
+Key gaps in the understanding of implementing service design that practitioners shared with us are:
+
+- people don‘t know what service designers do when they come into a team
+- especially across senior stakeholders there is a lack of understanding of what service design is and what value it brings
+- there is a lack of awareness of the differences between traditional research (e.g. consultations) and user research
+- service design as a practice isn‘t respected as other practices e.g. engineering
+- traditional and bureaucratic organisations are not used to the new ways of working offered by service design
+- people expecting some kind of magic happening with service design and not understanding the work it actually takes
+- service design being involved too late into the process or project
+
+Service design practitioners think that these gaps result into two things:
+1. oversimplification of service design
+2. wrong expectations towards design and designers
+
+<h3 id="oversimplification">Oversimplification of service design</h3>
+
+Practitioners shared their experience of organisations “just wanting this thing” without really understanding what service design is about. They talked about the risk of reducing service design to its methods and tools.
+
+> “I think we become overly simplified […] it‘s almost being over-produced as a thing. It‘s taking us away from the point of being interested in service design to […] a kind of fun workshop activity.”
+
+Practitioner said that people can get obsessed about the process, missing the concept of service design and how it‘s actually delivered. They mentioned the Double Diamond as a useful mental model, however, they also highlighted the risk that it might create a wrong perception of how the work looks like. It might not be “a nice and tidy diagram when you‘re actually applying it”.
+
+![illustration of two people talking about design with the double diamond and the squiggle](/practitioner-stories/images/SDwork/descom_illustrations-rep.jpg)
+
+<h3 id="wrong-expectations" class="top-line-alt">Wrong expectations of design and designers</h3>
+
+Some practitioners expressed a fear of service design becoming professionalised. A lot of people talk about service design, and practitioners appreciate that service design language is applied more widely. However, they fear that this also might come with a trend of more and more inexperienced people delivering service design activities.
+
+> “I think I‘ve seen it go from zero to everyone can do it, and I think we need to find a balance.”
+
+This trend is supported by training that is too simple and not oriented on day-to-day practice, as some practitioners highlighted.
+
+Practitioners also talked about the commercial side of service design and how the practice sometimes even might be misused for that.
+
+> “Service design has been commodified depending on how it‘s been bought, who is wanting it, and what they‘re wanting it for.”
+
+<h3 id="how-we-talk-about-service-design" class="top-line-alt">How we talk about service design</h3>
+
+An important factor that impacts this is the way we talk about service design. Practitioners raised that there is a lot of confusion around what service design is and what it is not. People are struggling with easily defining and communicating service design, which then ends up to become a blocker in doing the work. Some practitioners also highlighted that there isn‘t a consistent approach for user-centred design across the Scottish public and third sector.
+
+> “I think all these user-centred design practices are greater than the sum of their parts; there is a gap in how to interact and work together.”
+
+When it comes to communicating service design, practitioners listed the following blockers:
+
+- difficult service design language and jargon
+- service design loving to describe itself
+- the need for being different
+- service design work often being intangible and difficult to show
+- service design pushing too hard
+
+> “Language is one of the biggest barriers to involving people, and we need to be more conscious, self-conscious of the language we use.”
+
+<h3 id="how-can-we-change-the-perception-of-design" class="top-line-alt">How can we change the perception of design?</h3>
+
+Here are some of the ideas that practitioners shared with us:
+
+- raising people‘s awareness around the value of (service) design
+- focusing on building a platform and network
+- recognising service design as a ‘specialist skill’
+- collecting data on the impact service design makes to projects
+- making the process of involving users easier
+- having a clear mandate from Scottish Government on how to approach design of services
+
 
 <br>
 {% include give-feedback.html %}

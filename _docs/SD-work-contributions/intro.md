@@ -26,8 +26,8 @@ These insights come from our 15 remote interviews and one online workshop. You c
 <li><a href="https://practitionerstories.medium.com/service-design-contributions-in-public-and-third-sectors-in-scotland-7633ca48348e" target="_blank">as a Medium post for the contributions</a></li>
 <li><a href="https://practitionerstories.medium.com/the-future-of-service-design-ce59a01e4538" target="_blank">as a Medium post for the future of service design</a></li>
 <li><a href="https://practitionerstories.medium.com/organisational-barriers-3d49573ebfc7" target="_blank">as a Medium post for the organisational barriers</a></li>
-<li>Design awareness and communication <span class="tag-alt">In progress - coming soon</span></li>
-</ul>
+<li><a href="https://practitionerstories.medium.com/awareness-and-communication-of-service-design-adc31911b8e1" target="_blank">as a Medium post for design awareness and communication</a></li>
+
 
 
 <h2 class="top-line">View the analysis, clusters and quotes</h2>
