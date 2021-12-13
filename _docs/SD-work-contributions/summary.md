@@ -444,7 +444,9 @@ Service design practitioners think that these gaps result into two things:
 1. oversimplification of service design
 2. wrong expectations towards design and designers
 
-<h3 id="oversimplification">Oversimplification of service design</h3>
+<a class="button-alt" href="#">Back to top</a>
+
+<h3 id="oversimplification" class="top-line-alt">Oversimplification of service design</h3>
 
 Practitioners shared their experience of organisations “just wanting this thing” without really understanding what service design is about. They talked about the risk of reducing service design to its methods and tools.
 
@@ -453,6 +455,8 @@ Practitioners shared their experience of organisations “just wanting this thin
 Practitioner said that people can get obsessed about the process, missing the concept of service design and how it‘s actually delivered. They mentioned the Double Diamond as a useful mental model, however, they also highlighted the risk that it might create a wrong perception of how the work looks like. It might not be “a nice and tidy diagram when you‘re actually applying it”.
 
 ![illustration of two people talking about design with the double diamond and the squiggle](/practitioner-stories/images/SDwork/descom_illustrations-rep.jpg)
+
+<a class="button-alt" href="#">Back to top</a>
 
 <h3 id="wrong-expectations" class="top-line-alt">Wrong expectations of design and designers</h3>
 
@@ -465,6 +469,8 @@ This trend is supported by training that is too simple and not oriented on day-t
 Practitioners also talked about the commercial side of service design and how the practice sometimes even might be misused for that.
 
 > “Service design has been commodified depending on how it‘s been bought, who is wanting it, and what they‘re wanting it for.”
+
+<a class="button-alt" href="#">Back to top</a>
 
 <h3 id="how-we-talk-about-service-design" class="top-line-alt">How we talk about service design</h3>
 
@@ -481,6 +487,8 @@ When it comes to communicating service design, practitioners listed the followin
 - service design pushing too hard
 
 > “Language is one of the biggest barriers to involving people, and we need to be more conscious, self-conscious of the language we use.”
+
+<a class="button-alt" href="#">Back to top</a>
 
 <h3 id="how-can-we-change-the-perception-of-design" class="top-line-alt">How can we change the perception of design?</h3>
 
