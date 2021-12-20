@@ -42,7 +42,7 @@ Connect on <a href="https://www.linkedin.com/in/stephanie-krus/" target="_blank"
 
 <h2 class="top-line">Vinishree Verma</h2>
 
-Bio - coming soon
+<p>She comes with a background in architecture, industrial design and service design. She is keen on developing circular economy strategies for low carbon solutions through her initiative - <a href="https://www.around-zero.com/" target="_blank">Around Zero</a>, and works as a service designer in Scotland.</p>
 
 <p><image src="/practitioner-stories/images/photoVV.jpg"  width="200" height="200" style="vertical-align:middle; border-radius: 100%" alt="profile photo for Vinishree"></image></p>
 
