@@ -5,11 +5,11 @@ title: Events and blog posts
 <div class="nav-panel-alt">
 <h2>Quick access</h2>
    <p style="margin-bottom: 0">You will find our Medium stories here where we write about the project and the events we have been invited to or have organised:</p>
-    <li><a href="#medium">Medium posts</a></li>     
-    <li><a href="#survey">surveys</a></li>    
-    <li><a href="#events">events</a></li>    
-    <li><a href="#podcast">podcasts</a></li>    
-    <li><a href="#videos">videos</a></li>          
+    <li><a href="#medium"><strong>Medium posts</strong></a></li>     
+    <li><a href="#survey"><strong>surveys</strong></a></li>    
+    <li><a href="#events"><strong>events</strong></a></li>    
+    <li><a href="#podcast"><strong>podcasts</strong></a></li>    
+    <li><a href="#videos"><strong>videos</strong></a></li>          
 </div>
 
 
