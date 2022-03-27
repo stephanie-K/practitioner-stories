@@ -2,14 +2,14 @@
 title: Events and blog posts
 ---
 
-<div class="nav-panel">
+<div class="nav-panel-alt">
+<h2>Quick access</h2>
    <p style="margin-bottom: 0">You will find our Medium stories here where we write about the project and the events we have been invited to or have organised:</p>
-
-- [Medium posts](#medium)
-- [surveys](#survey)
-- [events](#events)
-- [podcasts](#podcast)
-- [videos](#videos)
+    <li><a href="#medium">Medium posts</a></li>     
+    <li><a href="#survey">surveys</a></li>    
+    <li><a href="#events">events</a></li>    
+    <li><a href="#podcast">podcasts</a></li>    
+    <li><a href="#videos">videos</a></li>          
 </div>
 
 
@@ -40,13 +40,13 @@ title: Events and blog posts
     <li><a href="https://medium.com/@angelaforviz/remember-that-tweet-8b36dbae82bc" target="_blank">Remember that tweet</a> - 10 June 2020 by Angela</li>
 </ul>
 
-<h2 id="survey"> Surveys</h2>
+<h2 id="survey" class="top-line-alt"> Surveys</h2>
 <ul>
  <li><a href="https://forms.gle/NGjX3kewrfFUX7hEA" target="_blank">Can you tell us about your journey to service design practice?</a> - about 5min</li>
  <li><a href="https://practitionerstories.medium.com/journey-to-service-design-practice-a127f263ec40" target="_blank">Results of this survey so far on Medium (09/08/21)</a> or <a href="/practitioner-stories/survey1">on this website</a> if you prefer</li>
 </ul>
 
-<h2 class="top-line" id="events">Events</h2>
+<h2 class="top-line-alt" id="events">Events</h2>
 
 ### UX Edinburgh Meetup - Monday 04 April 2022
 
@@ -66,11 +66,11 @@ We presented the project during their Special Service Design event.
 
 <p><a href="https://practitionerstories.medium.com/lots-of-feedback-and-ideas-thanks-to-a-busy-week-d18c02915b0a" target="_blank">Write up about the gathering</a> (Medium post).</p>
 
-<h2 id="podcast" class="top-line"> Podcasts</h2>
+<h2 id="podcast" class="top-line-alt"> Podcasts</h2>
 
 Coming soon
 
-<h2 class="top-line" id="videos">Videos</h2>
+<h2 class="top-line-alt" id="videos">Videos</h2>
 
 We are going to try to produce more of them as a different way to present the data.
 

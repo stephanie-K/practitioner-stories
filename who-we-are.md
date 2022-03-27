@@ -22,7 +22,7 @@ Connect on <a href="https://www.linkedin.com/in/aforviz/" target="_blank">Linked
 
 <h2 class="top-line">Serena Nüsing</h2>
 
-She currently works as a service designer for Scottish Government. She came to Scotland in 2018 to do her masters. She is particularly interested in co-creation and innovation in the public sector using a user-centred design approach.
+She currently works as a service designer for the policy profession unit at UK Government. Previously she worked for the Scottish Government helping to transform public services. She has a bachelor and master in design and is interested in understanding the role of design from policy up to the delivery of public services.
 
 <p><image src="/practitioner-stories/images/photoSN.jpeg"  width="200" height="200" style="vertical-align:middle; border-radius: 100%" alt="profile photo for Serena"></image></p>
 
