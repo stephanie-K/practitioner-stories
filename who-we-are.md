@@ -12,7 +12,7 @@ You can get in touch with us individually on the Service Design in Scotland Slac
 
 <h2 class="top-line">Angela F. Orviz</h2>
 
-She has a mixed background in engineering and innovation/service design. She has been in Scotland since 2009, primarily working as an academic doing research and consultancy. In 2020, she finished a PhD looking at how people in Public Sector learn and evaluate design.
+She has a mixed background in engineering and innovation/service design. She has been in Scotland since 2009, primarily working as an academic doing research and consultancy. In 2020, she finished a PhD looking at how people in Public Sector learn and evaluate design. Angela now works as a service design contractor in the public sector.
 
 <p><image src="/practitioner-stories/images/photoAFO.jpeg"  width="200" height="200" style="vertical-align:middle; border-radius: 100%" alt="profile photo for Angela"></image></p>
 
