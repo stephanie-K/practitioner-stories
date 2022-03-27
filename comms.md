@@ -53,10 +53,7 @@ We will present our project.
 <p><a href="https://www.meetup.com/Edinburgh-User-Experience-Meetup/events/rbmtrsydcgbgb/" target="_blank">Learn more about the event</a>.</p>
 
 
-
-
-
-### UX Glasgow Meetup - Wednesday 03 March 2021
+<h2 class="top-line">UX Glasgow Meetup - Wednesday 03 March 2021</h2>
 
 We presented the project during their Special Service Design event.
 <p><a href="https://uxglasgow.co.uk/events/service-design-special" target="_blank">Learn more about the event</a>.</p>
@@ -68,7 +65,7 @@ We presented the project during their Special Service Design event.
 
 <p><a href="https://practitionerstories.medium.com/lots-of-feedback-and-ideas-thanks-to-a-busy-week-d18c02915b0a" target="_blank">Write up about the gathering</a> (Medium post).</p>
 
-<h2 id="podcast"> Podcasts</h2>
+<h2 id="podcast" class="top-line"> Podcasts</h2>
 
 Coming soon
 
