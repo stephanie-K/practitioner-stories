@@ -2,6 +2,7 @@
 title: Events and blog posts
 ---
 
+<div class="nav-panel">
    <p style="margin-bottom: 0">You will find our Medium stories here where we write about the project and the events we have been invited to or have organised:</p>
 
 - [Medium posts](#medium)
@@ -9,7 +10,7 @@ title: Events and blog posts
 - [events](#events)
 - [podcasts](#podcast)
 - [videos](#videos)
-
+</div>
 
 
 
@@ -53,7 +54,7 @@ We will present our project.
 <p><a href="https://www.meetup.com/Edinburgh-User-Experience-Meetup/events/rbmtrsydcgbgb/" target="_blank">Learn more about the event</a>.</p>
 
 
-<h2 class="top-line">UX Glasgow Meetup - Wednesday 03 March 2021</h2>
+<h3 class="top-line">UX Glasgow Meetup - Wednesday 03 March 2021</h3>
 
 We presented the project during their Special Service Design event.
 <p><a href="https://uxglasgow.co.uk/events/service-design-special" target="_blank">Learn more about the event</a>.</p>
