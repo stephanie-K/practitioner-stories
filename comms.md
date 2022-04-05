@@ -52,7 +52,7 @@ title: Events and blog posts
 
 
 <p>We presented our project. You can <a href="https://docs.google.com/presentation/d/1j-HiK-JugIDaVJql1tIqYEooWsxOWdCfqCo6mDtewN4/edit?usp=sharing" target="_blank">access the slides we used on the day</a>.</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQIBJbjjBH7MPEyhIkqTvaaMZO1IYeqe0E0pX8XFYuV90jADdErbchGsbCrxI_JOBlLYOLSHhzpZ2xy/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQIBJbjjBH7MPEyhIkqTvaaMZO1IYeqe0E0pX8XFYuV90jADdErbchGsbCrxI_JOBlLYOLSHhzpZ2xy/embed?start=false&loop=false&delayms=3000" frameborder="0" width="800" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 <h3 class="top-line">UX Glasgow Meetup - Wednesday 03 March 2021</h3>
