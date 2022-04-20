@@ -70,7 +70,7 @@ We presented the project during their Special Service Design event.
 
 <h2 id="podcast" class="top-line-alt"> Podcasts</h2>
 
-We were invited to talk about the project on the UX Soup podcast.
+We were invited to talk about the project on the UX Soup podcast in April 2022.
 <p><a href="https://www.ux-soup.com/episode/service-design-practitioner-stories" target="_blank">Listen to the episode</a>. There is also a <a href="/practitioner-stories/ux-soup-transcript">transcript</a> if you prefer.</p>
 
 
