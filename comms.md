@@ -18,7 +18,8 @@ title: Events and blog posts
 
 <h2 id="medium">Medium posts</h2>
 <ul>
-    <li><a href="https://practitionerstories.medium.com/time-to-reflect-49f1ef16ad66" target="_blank">Time to reflect</a> - 31 January 2022 Collective</li>
+    <li><a href="https://practitionerstories.medium.com/sharing-the-story-of-the-practitioner-stories-a7c44972714c" target="_blank">Sharing the story of the Practitioner stories</a> - 20 April 2022 Collective</li>
+      <li><a href="https://practitionerstories.medium.com/time-to-reflect-49f1ef16ad66" target="_blank">Time to reflect</a> - 31 January 2022 Collective</li>
     <li><a href="https://practitionerstories.medium.com/awareness-and-communication-of-service-design-adc31911b8e1" target="_blank">Awareness and Communication of Service Design</a> - 6 December 2021 Collective</li>
     <li><a href="https://practitionerstories.medium.com/organisational-barriers-3d49573ebfc7" target="_blank">Organisational barriers</a> - 12 November 2021 Collective</li>
     <li><a href="https://practitionerstories.medium.com/working-with-people-3c6be862767" target="_blank">Working with people</a> - 28 October 2021 Collective</li>
@@ -69,7 +70,9 @@ We presented the project during their Special Service Design event.
 
 <h2 id="podcast" class="top-line-alt"> Podcasts</h2>
 
-Coming soon
+We were invited to talk about the project on the UX Soup podcast.
+<p><a href="https://www.ux-soup.com/episode/service-design-practitioner-stories" target="_blank">Listen to the episode</a>. There is also a <a href="/practitioner-stories/ux-soup-transcript">transcript</a> if you prefer.</p>
+
 
 <h2 class="top-line-alt" id="videos">Videos</h2>
 
