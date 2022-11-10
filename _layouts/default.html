@@ -60,7 +60,7 @@
 			</form>
 
 			<nav {% if site.show_full_navigation %}class="full-navigation"{% endif %}>
-				<ul style="border-bottom: solid 4px#599FAB;">
+				<ul style="padding-bottom: 1rem; border-bottom: solid 4px#599FAB;">
 					<li class="nav-item top-level {% if page.url == '/' %}current{% endif %}">
 						{% assign home = site.html_pages | where: 'url', '/' | first %}
 						<!--a href="{{ site.baseurl }}/">{{ home.title }}</a-->
@@ -85,7 +85,7 @@
 							<strong>Insights from the 5 themes:</strong>
 				</p>
 
-				<ul style="background-color: #f1f7f8; padding-left: 3rem; padding-bottom: 2rem;">
+				<ul style="background-color: #f1f7f8; padding-left: 3rem; padding-bottom: 1rem;">
 				{% assign grouped = site.docs | group_by: 'category' %}
 				{% for group in grouped %}
 					<li class="nav-item top-level">
@@ -95,15 +95,10 @@
 				{% endfor %}
 				</ul>
 				
-
-				<ul style="border-top: solid 4px#599FAB; padding-top: 4rem">
-					<li class="nav-item top-level {% if page.url == '/changelog/' %}current{% endif %}">
-						{% assign changelog = site.html_pages | where: 'url', '/changelog/' | first %}
-						<a href="{{ site.baseurl }}/changelog/">{{ changelog.title }}</a>
-					</li>
+				<ul style="border-top: solid 4px#599FAB; padding-top: 2rem">
+					<li><strong>Follow us on Twitter: </strong><a href="https://twitter.com/PractitionerSt1" target="_blank" rel="noopener"><strong>@PractitionerSt1</strong></a></li>
+					<li><strong>Or on Medium: </strong><a href="https://practitionerstories.medium.com/" target="_blank" rel="noopener"><strong>Practitioner Stories</strong></a></li>
 				</ul>
-				<p><strong>Follow us on Twitter: </strong><a href="https://twitter.com/PractitionerSt1" target="_blank" rel="noopener"><strong>@PractitionerSt1</strong></a></p>
-				<p><strong>Or on Medium: </strong><a href="https://practitionerstories.medium.com/" target="_blank" rel="noopener"><strong>Practitioner Stories</strong></a></p>
 
 			</nav>
 		</header>
