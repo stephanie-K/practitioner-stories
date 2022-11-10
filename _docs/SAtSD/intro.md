@@ -61,7 +61,7 @@ Note that a lot of insights are related to another theme "[Working with people](
 <p>The quote above comes from this <a href="https://accessibility.scot/accessible-public-services-are-we-there-yet/" target="_blank">video of Cat Macaulay's talk at the Accessibility Scotland conference</a> in November 2019 - worth a watch!</p>
 
 <br><br>
-{% include give-feedback.html %}
+
 
 <p><a href="#"><strong>Back to top</strong></a></p>
 

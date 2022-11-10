@@ -72,5 +72,5 @@ This is how you force your text to go back to the line. Can be used to add some 
 
 
 This is how you add the little bit for the feedback the code for it is in another file
-{% include give-feedback.html %}
+
 

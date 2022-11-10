@@ -126,7 +126,7 @@ Practitioners envision a toolkit that ‘makes itself available to all the diffe
 
 
 <br>
-{% include give-feedback.html %}
+
 
 <p><a href="#"><strong>Back to top</strong></a></p>
 

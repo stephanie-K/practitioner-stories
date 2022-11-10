@@ -342,7 +342,7 @@ Gov service, Co-op, Deliveroo, Uber, Content Design London
 ![Illustration of the journey to service design with a message: Thank you to all the participants](/practitioner-stories/images/survey/thank-you.jpg)
 
 
-{% include give-feedback.html %}
+
 
 <p><a href="#"><strong>Back to top</strong></a></p>
 

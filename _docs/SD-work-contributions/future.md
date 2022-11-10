@@ -213,7 +213,7 @@ One quote: "The Covid crisis has kind of eclipsed Climate Change. We cannot igno
  </details>
 
 <br>
-{% include give-feedback.html %}
+
 
 <p><a href="#"><strong>Back to top</strong></a></p>
 

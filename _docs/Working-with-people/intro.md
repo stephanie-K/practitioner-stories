@@ -40,7 +40,7 @@ These insights come from our 15 remote interviews and one online workshop. You c
 Note that a lot of insights are related to another theme "[SAtSD](/practitioner-stories/SAtSD/intro)". It's not surprising, this is the aim of the approach. There is also some overlap with "[SD work and contribution](/practitioner-stories/SD-work-contributions/intro)".
 
 <br><br>
-{% include give-feedback.html %}
+
 <p><a href="#"><strong>Back to top</strong></a></p>
 
 <div>Last updated: {{site.static_files.first.modified_time | date_to_string}}

@@ -468,7 +468,7 @@ order: 2
 </ul>
 
 <br>
-{% include give-feedback.html %}
+
 
 <p><a href="#"><strong>Back to top</strong></a></p>
 

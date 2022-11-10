@@ -42,7 +42,7 @@ These insights come from our 15 remote interviews. You can see them:
    </ul>
 
 <br>
-{% include give-feedback.html %}
+
 
 <p><a href="#"><strong>Back to top</strong></a></p>
 

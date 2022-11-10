@@ -27,10 +27,7 @@
 		<!--meta name="twitter:image" content="{{ site.baseurl }}/images/practitionerstories-square-small.png" /-->
 		<meta name="twitter:image" content="https://stephanie-k.github.io/practitioner-stories/images/practitioners-twitter.jpg" />
 		
-
 		{% feed_meta %}
-
-
 
 		<link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
 		<link rel="icon" type="image/png" href="{{ site.baseurl }}/images/favicon.png">
@@ -78,9 +75,6 @@
 					<li class="nav-item top-level {% if page.url == '/how-to/' %}current{% endif %}">
 						<a href="https://stephanie-k.github.io/practitioner-stories/how-to">How to use this website</a>
 					</li>
-					<li class="nav-item top-level {% if page.url == '/get-involved/' %}current{% endif %}">
-						<a href="https://stephanie-k.github.io/practitioner-stories/get-involved">Get involved</a>
-					</li>
 				</ul>
 
 				<p style="font-size: 1.8rem; 
@@ -101,51 +95,16 @@
 				{% endfor %}
 				</ul>
 				
-				<!--details class="navigation">
-					<summary><span>Insights from the 5 themes</span></summary>
-					<ul>
-					{% assign grouped = site.docs | group_by: 'category' %}
-					{% for group in grouped %}
-						<li class="nav-item top-level">
-							{% assign items = group.items | sort: 'order' %}
-							<a href="{{ site.baseurl }}{{ items.first.url }}">{{ group.name }}</a>
-							<ul>
-								{% for item in items %}
-									<li class="nav-item {% if item.url == page.url %}current{% endif %}"><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
-								{% endfor %}
-							</ul>
-						</li>
-					{% endfor %}
-					</ul>
-				</details-->
-
-				<!--ul style="background-color: #f1f7f8; border-bottom: solid 4px#599FAB;">
-					{% assign grouped = site.docs | group_by: 'category' %}
-					{% for group in grouped %}
-						<li class="nav-item top-level">
-							{% assign items = group.items | sort: 'order' %}
-							<a href="{{ site.baseurl }}{{ items.first.url }}">{{ group.name }}</a>
-							<ul>
-								{% for item in items %}
-									<li class="nav-item {% if item.url == page.url %}current{% endif %}"><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
-								{% endfor %}
-							</ul>
-						</li>
-					{% endfor %}
-				</ul-->
 
 				<ul style="border-top: solid 4px#599FAB; padding-top: 4rem">
 					<li class="nav-item top-level {% if page.url == '/changelog/' %}current{% endif %}">
 						{% assign changelog = site.html_pages | where: 'url', '/changelog/' | first %}
 						<a href="{{ site.baseurl }}/changelog/">{{ changelog.title }}</a>
 					</li>
-					<li class="nav-item top-level {% if page.url == '/stay-updated/' %}current{% endif %}">
-						<a href="https://stephanie-k.github.io/practitioner-stories/stay-updated">Stay updated</a>
-					</li>
 				</ul>
-				<p><strong>Email us at: </strong><a href="mailto:practitionerstories@gmail.com?Subject=Website%20-%20contact"><strong>practitionerstories@gmail.com</strong></a></p>
+				<p><strong>Follow us on Twitter: </strong><a href="https://twitter.com/PractitionerSt1" target="_blank" rel="noopener"><strong>@PractitionerSt1</strong></a></p>
+				<p><strong>Or on Medium: </strong><a href="https://practitionerstories.medium.com/" target="_blank" rel="noopener"><strong>Practitioner Stories</strong></a></p>
 
-				
 			</nav>
 		</header>
 
@@ -167,7 +126,6 @@
 		</section>
 
 		<footer>
-			<p>Contact us via email <a href="mailto:practitionerstories@gmail.com?Subject=Website%20-%20contact"><strong>practitionerstories@gmail.com</strong></a> or via Twitter <a href="https://twitter.com/PractitionerSt1" target="_blank"><strong>@PractitionerSt1</strong></a></p>
 			<p>This website is using Github pages, Jekyll and CloudCannon - <a href="https://github.com/stephanie-K/practitioner-stories" target="_blank">Access the code on Github</a><br>
 				Made by: Angela, Serena, Stéphanie and Vinishree
 			</p>

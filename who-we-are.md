@@ -12,7 +12,7 @@ You can get in touch with us individually on the Service Design in Scotland Slac
 
 <h2 class="top-line">Angela F. Orviz</h2>
 
-She has a mixed background in engineering and innovation/service design. She has been in Scotland since 2009, primarily working as an academic doing research and consultancy. In 2020, she finished a PhD looking at how people in Public Sector learn and evaluate design. She now works as a service design contractor in the public sector.
+She has a mixed background in engineering and innovation/service design. She has been in Scotland since 2009, primarily working as an academic doing research and consultancy. In 2020, she finished a PhD looking at how people in Public Sector learn and evaluate design. She now works as a service design consultant at Opencast.
 
 <p><image src="/practitioner-stories/images/photoAFO.jpeg"  width="200" height="200" style="vertical-align:middle; border-radius: 100%" alt="profile photo for Angela"></image></p>
 
@@ -32,12 +32,11 @@ Connect on <a href="https://www.linkedin.com/in/serena-n%C3%BCsing-543295173/" t
 
 <h2 class="top-line">Stéphanie Krus</h2>
 
-She works as a service designer on projects for the public sector for Sopra Steria. She came to Scotland in 2005. Her background is in teaching and computing initially. She never really studied service design as such, but has learned by doing, in previous roles.
+She works as a service designer for the Scottish Government. She came to Scotland in 2005. Her background is in teaching and computing initially. She never really studied service design as such, but has learned by doing, in previous roles.
 
 <p><image src="/practitioner-stories/images/photoSK.png"  width="200" height="200" style="vertical-align:middle; border-radius: 100%" alt="profile photo for Stéphanie"></image></p>
 
-<p>Follow her on Twitter <a href="https://twitter.com/StephanieKrus" target="_blank">@StephanieKrus</a><br>
-Connect on <a href="https://www.linkedin.com/in/stephanie-krus/" target="_blank">LinkedIn</a></p>
+<p>Connect on <a href="https://www.linkedin.com/in/stephanie-krus/" target="_blank">LinkedIn</a></p>
 
 
 <h2 class="top-line">Vinishree Verma</h2>

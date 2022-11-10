@@ -617,7 +617,7 @@ There is something here about the way we learn about the people we work with and
  </ul>
  </details>
 <br><br>
-{% include give-feedback.html %}
+
 
 <p><a href="#"><strong>Back to top</strong></a></p>
 

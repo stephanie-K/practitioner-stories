@@ -406,7 +406,7 @@ Our biases, assumptions, and use of language create barriers for inclusivity. Bu
 
 
 <br>
-{% include give-feedback.html %}
+
 
 <p><a href="#"><strong>Back to top</strong></a></p>
 

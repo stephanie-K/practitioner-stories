@@ -160,7 +160,7 @@ Some practitioners explained that while designing with people they started to tr
 - Are people with lived experience recognised for their time?
 
 <br>
-{% include give-feedback.html %}
+
 
 <p><a href="#"><strong>Back to top</strong></a></p>
 

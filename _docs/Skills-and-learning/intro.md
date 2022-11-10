@@ -41,7 +41,7 @@ These insights come from our 15 remote interviews and one online workshop. You c
 
 
 <br><br>
-{% include give-feedback.html %}
+
 
 <p><a href="#"><strong>Back to top</strong></a></p>
 

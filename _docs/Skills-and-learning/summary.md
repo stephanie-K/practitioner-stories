@@ -204,7 +204,7 @@ A big part of the way practitioners learn is by sharing. This is developped as p
 
 
 <br>
-{% include give-feedback.html %}
+
 
 <p><a href="#"><strong>Back to top</strong></a></p>
 

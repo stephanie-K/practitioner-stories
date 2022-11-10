@@ -72,7 +72,7 @@ We are 4 service designers living and working in Scotland passionate about our p
 <li><a href="/practitioner-stories/comms">Access more posts and other communications about the project</a></li>
 </ul>
 
-{% include give-feedback.html %}
+
 
 <!-- div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div-->
 <div>Last updated: {{site.static_files.first.modified_time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>

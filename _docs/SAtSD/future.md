@@ -93,7 +93,7 @@ order: 5
 #### Including guidance for design practitioners
 
 <br><br>
-{% include give-feedback.html %}
+
 
 
 <p><a href="#"><strong>Back to top</strong></a></p>

@@ -503,7 +503,7 @@ Here are some of the ideas that practitioners shared with us:
 
 
 <br>
-{% include give-feedback.html %}
+
 
 <p><a href="#"><strong>Back to top</strong></a></p>
 

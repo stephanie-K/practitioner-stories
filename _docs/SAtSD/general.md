@@ -155,7 +155,7 @@ SAtSD's Scottish identity is interpreted in a variety of ways, with both positiv
 #### Its organisational focus has avantages and disadvantages
 
 <br><br>
-{% include give-feedback.html %}
+
 
 
 <p><a href="#"><strong>Back to top</strong></a></p>

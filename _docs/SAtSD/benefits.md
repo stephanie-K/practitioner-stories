@@ -112,7 +112,7 @@ order: 3
 #### Assessment guidelines serve as endorsement and help with compliance but fail to assess project outputs
 
 <br><br>
-{% include give-feedback.html %}
+
 
 <p><a href="#"><strong>Back to top</strong></a></p>
 

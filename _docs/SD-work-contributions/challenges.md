@@ -623,7 +623,7 @@ One quote: That makes me think about service design as an industry, is it maybe 
 
 
 <br>
-{% include give-feedback.html %}
+
 
 <p><a href="#"><strong>Back to top</strong></a></p>
 
