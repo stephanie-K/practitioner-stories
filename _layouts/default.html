@@ -110,10 +110,11 @@
 			</ul>
 
 			
-			<p style="font-size: 1.8rem; 
-			color: #345f67;
+			<p style="font-size: 1.6rem; 
+			color: #1a1a1a;
 			padding: 3rem 1rem 0.5rem 2rem">
-			<strong>This website was last updated on: {{site.static_files.first.modified_time | date_to_string}}</strong>
+			<span>This website was last updated on:</span><br>
+			 {{site.static_files.first.modified_time | date_to_string}}
 			</p>
 
 		</header>
