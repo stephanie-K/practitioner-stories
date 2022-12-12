@@ -116,5 +116,5 @@ order: 3
 
 <p><a href="#"><strong>Back to top</strong></a></p>
 
-<p>Last updated: {{site.static_files.first.modified_time | date_to_string}}</p>
+
 

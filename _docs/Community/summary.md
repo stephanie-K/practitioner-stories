@@ -410,7 +410,7 @@ Our biases, assumptions, and use of language create barriers for inclusivity. Bu
 
 <p><a href="#"><strong>Back to top</strong></a></p>
 
-<p>Last updated: {{site.static_files.first.modified_time | date_to_string}}</p>
+
 
 <!--
 

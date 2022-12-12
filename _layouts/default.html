@@ -95,20 +95,27 @@
 				{% endfor %}
 				</ul>
 				
-				<p style="font-size: 1.8rem; 
-				border-top: solid 4px#599FAB;
-				margin-bottom: 0; 
-				background-color: #f1f7f8; 
-				color: #345f67;
-				padding: 2rem 1rem 0.5rem 2rem">
-				<strong>Follow us on:</strong>
-	</p>
-				<ul style="padding-left: 2rem">
-					<li class="nav-item top-level"><strong>Twitter: </strong><a href="https://twitter.com/PractitionerSt1" target="_blank" rel="noopener">@PractitionerSt1</a></li>
-					<li class="nav-item top-level"><strong>Medium: </strong><a href="https://practitionerstories.medium.com/" target="_blank" rel="noopener">Practitioner Stories</a></li>
-				</ul>
-
 			</nav>
+			<p style="font-size: 1.8rem; 
+			border-top: solid 4px#599FAB;
+			margin-bottom: 0; 
+			background-color: #f1f7f8; 
+			color: #345f67;
+			padding: 2rem 1rem 0.5rem 2rem">
+			<strong>Follow us on:</strong>
+			</p>
+			<ul style="padding-left: 2rem">
+				<li class="nav-item top-level"><strong>Twitter: </strong><a href="https://twitter.com/PractitionerSt1" target="_blank" rel="noopener">@PractitionerSt1</a></li>
+				<li class="nav-item top-level"><strong>Medium: </strong><a href="https://practitionerstories.medium.com/" target="_blank" rel="noopener">Practitioner Stories</a></li>
+			</ul>
+
+			
+			<p style="font-size: 1.8rem; 
+			color: #345f67;
+			padding: 3rem 1rem 0.5rem 2rem">
+			<strong>This website was last updated on: {{site.static_files.first.modified_time | date_to_string}}</strong>
+			</p>
+
 		</header>
 
 		<section class="main">

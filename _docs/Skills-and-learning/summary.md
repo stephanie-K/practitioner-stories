@@ -208,7 +208,7 @@ A big part of the way practitioners learn is by sharing. This is developped as p
 
 <p><a href="#"><strong>Back to top</strong></a></p>
 
-<p>Last updated: {{site.static_files.first.modified_time | date_to_string}}</p>
+
 <!--
 
 <a href="" target="_blank"></a>

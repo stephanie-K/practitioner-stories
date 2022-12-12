@@ -130,7 +130,7 @@ Practitioners envision a toolkit that ‘makes itself available to all the diffe
 
 <p><a href="#"><strong>Back to top</strong></a></p>
 
-<p>Last updated: {{site.static_files.first.modified_time | date_to_string}}</p>
+
 <!--
 
 <a href="" target="_blank"></a>

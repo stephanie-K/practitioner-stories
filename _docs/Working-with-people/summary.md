@@ -164,4 +164,4 @@ Some practitioners explained that while designing with people they started to tr
 
 <p><a href="#"><strong>Back to top</strong></a></p>
 
-<p>Last updated: {{site.static_files.first.modified_time | date_to_string}}</p>
+

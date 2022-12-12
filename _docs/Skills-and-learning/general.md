@@ -621,7 +621,7 @@ There is something here about the way we learn about the people we work with and
 
 <p><a href="#"><strong>Back to top</strong></a></p>
 
-<p>Last updated: {{site.static_files.first.modified_time | date_to_string}}</p>
+
 
 <!--
 
