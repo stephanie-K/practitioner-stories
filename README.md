@@ -4,10 +4,11 @@
 [This project started with a tweet in June 2020](https://medium.com/@angelaforviz/remember-that-tweet-8b36dbae82bc). We teamed up to collect stories of Service Design in the public and third sectors in Scotland. We started an interview study and discussed with 15 practitioners in Scotland **how to better support, grow and build up the service design community in Scotland**.
 
 ## Who we are
-We are 3 service designers living and working in Scotland passionate about our practice and with the aim of bringing the service design community together by sharing experiences and learnings and discussing the future.
-- [Angela F. Orviz](https://twitter.com/Artmadillo)
-- [Serena Nüsing](https://www.linkedin.com/in/serena-n%C3%BCsing-543295173/)
-- [Stéphanie Krus](https://twitter.com/StephanieKrus)
+We are 4 service designers living and working in Scotland passionate about our practice and with the aim of bringing the service design community together by sharing experiences and learnings and discussing the future.
+- Angela F. Orviz
+- Serena Nüsing
+- Stéphanie Krus
+- Vinishree Verma
 
 **Note: we are doing this on our personal time and have no funding.**
 
@@ -27,11 +28,9 @@ This is using Github pages, Jekyll and CloudCannon. By using some markdown langu
 
 ## Get in touch
 
-You can get in touch with us individually on the Service Design in Scotland Slack for example or the Public Sector Design in Scotland Slack, on Twitter or LinkedIn.
-- [Angela F. Orviz](https://twitter.com/Artmadillo)(on Twitter)
-- [Serena Nüsing](https://www.linkedin.com/in/serena-n%C3%BCsing-543295173/) (on LinkedIn)
-- [Stéphanie Krus](https://twitter.com/StephanieKrus) (on Twitter)
-- [Practitioners Stories](https://twitter.com/PractitionerSt1) (on Twitter)
+[Check the 'Who we are' page for ways to contact us](https://stephanie-k.github.io/practitioner-stories/who-we-are/)
+
+
 
 
 ## Learn more about Jekyll and Cloudcannon (how this website is built)
