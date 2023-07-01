@@ -32,7 +32,7 @@ Connect on <a href="https://www.linkedin.com/in/serena-n%C3%BCsing-543295173/" t
 
 <h2 class="top-line">Stéphanie Krus</h2>
 
-She works as a service designer for dxw. She came to Scotland in 2005. Her background is in teaching and computing initially. She never really studied service design as such, but has learned by doing, in previous roles.
+She works as a service designer in the public sector. She came to Scotland in 2005. Her background is in teaching and computing initially. She never really studied service design as such, but has learned by doing, in previous roles.
 
 <p><image src="/practitioner-stories/images/photoSK.png"  width="200" height="200" style="vertical-align:middle; border-radius: 100%" alt="profile photo for Stéphanie"></image></p>
 
